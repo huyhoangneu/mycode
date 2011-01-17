@@ -1,0 +1,26 @@
+#!/bin/bash
+
+SOURCE=/data/grab/data
+target_path=/data/wwwroot/news
+H_NEWS=/data/grab/data/news/huanqiu.js
+#H_NEWS2=/data/grab/data/news/huanqiunews.js
+R_HOST[1]='www-data@211.100.36.226'
+R_HOST[2]='www-data@124.40.117.135'
+
+/data/opt/php/bin/php /data/grab/rssnews/rss.php
+#/data/opt/php/bin/php /data/grab/rssnews/rss_huanqiu.php
+
+for i in ${R_HOST[*]}
+do
+    #echo $i
+    ssh -p 50022 $i "if [ ! -x "$target_path/grab" ]; then mkdir -p "$target_path/grab";fi"
+    rsync -avz --rsh=ssh -e 'ssh -p 50022' $SOURCE/news/ $i:$target_path/grab/news/
+done
+for i in ${R_HOST[*]}
+do
+    #echo $i
+    #ssh -p 50022 $i "if [ ! -x "$target_path/grab" ]; then mkdir -p "$target_path/grab";fi"
+    rsync -avz --rsh=ssh -e 'ssh -p 50022' $H_NEWS $i:/data/wwwroot/www/grab/news/huanqiu.js
+   # rsync -avz --rsh=ssh -e 'ssh -p 50022' $H_NEWS2 $i:/data/wwwroot/www/grab/news/huanqiunews.js
+done
+exit 0

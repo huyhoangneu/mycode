@@ -1,0 +1,43 @@
+
+2010-01-10 18:00:41,549 ERROR Stream Failed , Running /data/grab/data/xingzuo/ to ('www-data@211.100.36.229:/data/wwwroot/outer/wwwdebug/www/grab/xingzuo/', '22')
+2010-02-20 10:54:03,437 ERROR Stream Failed , Running /data/grab/data/xingzuo/ to www-data@211.100.36.226:/data/wwwroot/www/grab/xingzuo/
+2010-03-11 02:00:03,316 ERROR Stream Failed , Running /data/grab/data/xingzuo/ to /data/wwwroot/www/grab/xingzuo/
+2010-03-11 04:00:03,224 ERROR Stream Failed , Running /data/grab/data/xingzuo/ to /data/wwwroot/www/grab/xingzuo/
+2010-03-11 06:00:02,540 ERROR Stream Failed , Running /data/grab/data/xingzuo/ to /data/wwwroot/www/grab/xingzuo/
+2010-03-11 08:00:05,473 ERROR Stream Failed , Running /data/grab/data/xingzuo/ to /data/wwwroot/www/grab/xingzuo/
+2010-03-11 10:00:03,716 ERROR Stream Failed , Running /data/grab/data/xingzuo/ to /data/wwwroot/www/grab/xingzuo/
+2010-03-12 02:00:03,009 ERROR Stream Failed , Running /data/grab/data/xingzuo/ to /data/wwwroot/www/grab/xingzuo/
+2010-03-12 04:00:02,852 ERROR Stream Failed , Running /data/grab/data/xingzuo/ to /data/wwwroot/www/grab/xingzuo/
+2010-03-12 06:00:02,296 ERROR Stream Failed , Running /data/grab/data/xingzuo/ to /data/wwwroot/www/grab/xingzuo/
+2010-03-12 08:00:03,400 ERROR Stream Failed , Running /data/grab/data/xingzuo/ to /data/wwwroot/www/grab/xingzuo/
+2010-03-12 10:00:06,196 ERROR Stream Failed , Running /data/grab/data/xingzuo/ to /data/wwwroot/www/grab/xingzuo/
+2010-03-13 02:00:03,193 ERROR Stream Failed , Running /data/grab/data/xingzuo/ to /data/wwwroot/www/grab/xingzuo/
+2010-03-13 04:00:02,832 ERROR Stream Failed , Running /data/grab/data/xingzuo/ to /data/wwwroot/www/grab/xingzuo/
+2010-03-13 06:00:02,944 ERROR Stream Failed , Running /data/grab/data/xingzuo/ to /data/wwwroot/www/grab/xingzuo/
+2010-03-13 08:00:02,416 ERROR Stream Failed , Running /data/grab/data/xingzuo/ to /data/wwwroot/www/grab/xingzuo/
+2010-03-13 10:00:02,696 ERROR Stream Failed , Running /data/grab/data/xingzuo/ to /data/wwwroot/www/grab/xingzuo/
+2010-03-14 02:00:03,128 ERROR Stream Failed , Running /data/grab/data/xingzuo/ to /data/wwwroot/www/grab/xingzuo/
+2010-03-14 04:00:02,780 ERROR Stream Failed , Running /data/grab/data/xingzuo/ to /data/wwwroot/www/grab/xingzuo/
+2010-03-14 06:00:02,277 ERROR Stream Failed , Running /data/grab/data/xingzuo/ to /data/wwwroot/www/grab/xingzuo/
+2010-03-14 08:00:02,449 ERROR Stream Failed , Running /data/grab/data/xingzuo/ to /data/wwwroot/www/grab/xingzuo/
+2010-03-14 10:00:03,144 ERROR Stream Failed , Running /data/grab/data/xingzuo/ to /data/wwwroot/www/grab/xingzuo/
+2010-03-15 02:00:02,904 ERROR Stream Failed , Running /data/grab/data/xingzuo/ to /data/wwwroot/www/grab/xingzuo/
+2010-03-15 04:00:02,945 ERROR Stream Failed , Running /data/grab/data/xingzuo/ to /data/wwwroot/www/grab/xingzuo/
+2010-03-15 06:00:02,336 ERROR Stream Failed , Running /data/grab/data/xingzuo/ to /data/wwwroot/www/grab/xingzuo/
+2010-03-15 08:00:02,824 ERROR Stream Failed , Running /data/grab/data/xingzuo/ to /data/wwwroot/www/grab/xingzuo/
+2010-03-15 10:00:02,531 ERROR Stream Failed , Running /data/grab/data/xingzuo/ to /data/wwwroot/www/grab/xingzuo/
+2010-03-16 02:00:01,495 ERROR cmd: /data/opt/php/bin/php /data/grab/astronomy/index_getstar.php failes!
+2010-03-16 04:00:01,660 ERROR cmd: /data/opt/php/bin/php /data/grab/astronomy/index_getstar.php failes!
+2010-03-16 06:00:01,500 ERROR cmd: /data/opt/php/bin/php /data/grab/astronomy/index_getstar.php failes!
+2010-03-16 08:00:01,418 ERROR cmd: /data/opt/php/bin/php /data/grab/astronomy/index_getstar.php failes!
+2010-11-18 02:00:02,835 ERROR Stream Failed , Running /data/grab/data/xingzuo/ to www-data@211.100.36.229:/data/wwwroot/outer/wwwdebug/www/grab/xingzuo/
+2010-11-18 02:00:02,860 ERROR Stream Failed , Running /data/grab/data/xingzuo/ to www-data@211.100.36.229:/data/wwwroot/outer/wwwdebug/www_jd/grab/xingzuo/
+2010-11-18 04:00:03,700 ERROR Stream Failed , Running /data/grab/data/xingzuo/ to www-data@211.100.36.229:/data/wwwroot/outer/wwwdebug/www/grab/xingzuo/
+2010-11-18 04:00:03,730 ERROR Stream Failed , Running /data/grab/data/xingzuo/ to www-data@211.100.36.229:/data/wwwroot/outer/wwwdebug/www_jd/grab/xingzuo/
+2010-11-18 06:00:03,003 ERROR Stream Failed , Running /data/grab/data/xingzuo/ to www-data@211.100.36.229:/data/wwwroot/outer/wwwdebug/www_jd/grab/xingzuo/
+2010-11-18 06:00:03,033 ERROR Stream Failed , Running /data/grab/data/xingzuo/ to www-data@211.100.36.229:/data/wwwroot/outer/wwwdebug/www/grab/xingzuo/
+2010-11-18 08:00:02,629 ERROR Stream Failed , Running /data/grab/data/xingzuo/ to www-data@211.100.36.229:/data/wwwroot/outer/wwwdebug/www_jd/grab/xingzuo/
+2010-11-18 08:00:02,638 ERROR Stream Failed , Running /data/grab/data/xingzuo/ to www-data@211.100.36.229:/data/wwwroot/outer/wwwdebug/www/grab/xingzuo/
+2010-11-18 10:00:06,820 ERROR Stream Failed , Running /data/grab/data/xingzuo/ to www-data@211.100.36.226:/data/wwwroot/www/grab/xingzuo/
+2010-11-18 10:00:09,546 ERROR Stream Failed , Running /data/grab/data/xingzuo/ to www-data@211.100.36.229:/data/wwwroot/outer/wwwdebug/www_jd/grab/xingzuo/
+2010-11-18 10:00:09,546 ERROR Stream Failed , Running /data/grab/data/xingzuo/ to www-data@211.100.36.229:/data/wwwroot/outer/wwwdebug/www/grab/xingzuo/

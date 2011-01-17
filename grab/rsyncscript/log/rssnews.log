@@ -1,0 +1,51 @@
+
+2010-03-15 20:00:01,993 ERROR cmd: /data/opt/php/bin/php /data/grab/rssnews/rss.php failes!
+2010-03-15 21:00:01,331 ERROR cmd: /data/opt/php/bin/php /data/grab/rssnews/rss.php failes!
+2010-03-15 22:00:01,075 ERROR cmd: /data/opt/php/bin/php /data/grab/rssnews/rss.php failes!
+2010-03-15 23:00:01,900 ERROR cmd: /data/opt/php/bin/php /data/grab/rssnews/rss.php failes!
+2010-03-16 00:00:01,664 ERROR cmd: /data/opt/php/bin/php /data/grab/rssnews/rss.php failes!
+2010-03-16 01:00:01,329 ERROR cmd: /data/opt/php/bin/php /data/grab/rssnews/rss.php failes!
+2010-03-16 02:00:01,497 ERROR cmd: /data/opt/php/bin/php /data/grab/rssnews/rss.php failes!
+2010-03-16 03:00:01,325 ERROR cmd: /data/opt/php/bin/php /data/grab/rssnews/rss.php failes!
+2010-03-16 04:00:01,676 ERROR cmd: /data/opt/php/bin/php /data/grab/rssnews/rss.php failes!
+2010-03-16 05:00:01,534 ERROR cmd: /data/opt/php/bin/php /data/grab/rssnews/rss.php failes!
+2010-03-16 06:00:01,513 ERROR cmd: /data/opt/php/bin/php /data/grab/rssnews/rss.php failes!
+2010-03-16 07:00:01,325 ERROR cmd: /data/opt/php/bin/php /data/grab/rssnews/rss.php failes!
+2010-03-16 08:00:01,438 ERROR cmd: /data/opt/php/bin/php /data/grab/rssnews/rss.php failes!
+2010-03-16 09:00:01,297 ERROR cmd: /data/opt/php/bin/php /data/grab/rssnews/rss.php failes!
+2010-04-17 22:00:12,150 ERROR Stream Failed , Running /data/grab/data/news/2010/ to www-data@211.100.36.226:/data/wwwroot/news/grab/news/2010/
+2010-05-11 11:00:01,228 ERROR cmd: /data/opt/php/bin/php /data/grab/rssnews/rss.php failes!
+2010-05-11 12:00:01,951 ERROR cmd: /data/opt/php/bin/php /data/grab/rssnews/rss.php failes!
+2010-05-11 13:00:01,889 ERROR cmd: /data/opt/php/bin/php /data/grab/rssnews/rss.php failes!
+2010-05-11 14:00:01,331 ERROR cmd: /data/opt/php/bin/php /data/grab/rssnews/rss.php failes!
+2010-05-11 15:00:01,290 ERROR cmd: /data/opt/php/bin/php /data/grab/rssnews/rss.php failes!
+2010-05-11 16:00:01,607 ERROR cmd: /data/opt/php/bin/php /data/grab/rssnews/rss.php failes!
+2010-05-11 17:00:01,953 ERROR cmd: /data/opt/php/bin/php /data/grab/rssnews/rss.php failes!
+2010-05-11 18:00:01,184 ERROR cmd: /data/opt/php/bin/php /data/grab/rssnews/rss.php failes!
+2010-05-11 19:00:01,256 ERROR cmd: /data/opt/php/bin/php /data/grab/rssnews/rss.php failes!
+2010-05-11 20:00:01,243 ERROR cmd: /data/opt/php/bin/php /data/grab/rssnews/rss.php failes!
+2010-05-11 21:00:01,084 ERROR cmd: /data/opt/php/bin/php /data/grab/rssnews/rss.php failes!
+2010-05-11 22:00:01,271 ERROR cmd: /data/opt/php/bin/php /data/grab/rssnews/rss.php failes!
+2010-05-11 23:00:01,638 ERROR cmd: /data/opt/php/bin/php /data/grab/rssnews/rss.php failes!
+2010-05-12 00:00:01,867 ERROR cmd: /data/opt/php/bin/php /data/grab/rssnews/rss.php failes!
+2010-05-12 01:00:01,544 ERROR cmd: /data/opt/php/bin/php /data/grab/rssnews/rss.php failes!
+2010-05-12 02:00:01,429 ERROR cmd: /data/opt/php/bin/php /data/grab/rssnews/rss.php failes!
+2010-05-12 03:00:01,323 ERROR cmd: /data/opt/php/bin/php /data/grab/rssnews/rss.php failes!
+2010-05-12 04:00:01,244 ERROR cmd: /data/opt/php/bin/php /data/grab/rssnews/rss.php failes!
+2010-05-12 05:00:01,580 ERROR cmd: /data/opt/php/bin/php /data/grab/rssnews/rss.php failes!
+2010-05-12 06:00:01,584 ERROR cmd: /data/opt/php/bin/php /data/grab/rssnews/rss.php failes!
+2010-05-12 07:00:01,320 ERROR cmd: /data/opt/php/bin/php /data/grab/rssnews/rss.php failes!
+2010-05-12 08:00:01,475 ERROR cmd: /data/opt/php/bin/php /data/grab/rssnews/rss.php failes!
+2010-05-12 08:50:22,923 ERROR cmd: /data/opt/php/bin/php /data/grab/rssnews/rss.php failes!
+2010-07-05 20:37:00,355 ERROR cmd: /data/opt/php/bin/php /data/grab/rssnews/rss.php failes!
+2010-07-13 17:33:58,833 ERROR cmd: /data/opt/php/bin/php /data/grab/rssnews/rss.php failes!
+2010-08-07 19:25:05,563 ERROR cmd: /data/opt/php/bin/php /data/grab/rssnews/rss.php failes!
+2010-09-14 12:00:17,316 ERROR Stream Failed , Running /data/grab/data/news/2010/ to www-data@211.100.36.226:/data/wwwroot/news/grab/news/2010/
+2010-11-01 17:42:16,841 ERROR cmd: /data/opt/php/bin/php /data/grab/rssnews/rss.php failes!
+2010-11-18 00:00:36,837 ERROR Stream Failed , Running /data/grab/data/news/2010/ to www-data@211.100.36.229:/data/grab/data/news/2010/
+2010-11-18 02:00:15,861 ERROR Stream Failed , Running /data/grab/data/news/2010/ to www-data@211.100.36.229:/data/grab/data/news/2010/
+2010-11-18 04:00:16,048 ERROR Stream Failed , Running /data/grab/data/news/2010/ to www-data@211.100.36.229:/data/grab/data/news/2010/
+2010-11-18 06:00:14,585 ERROR Stream Failed , Running /data/grab/data/news/2010/ to www-data@211.100.36.229:/data/grab/data/news/2010/
+2010-11-18 08:00:15,399 ERROR Stream Failed , Running /data/grab/data/news/2010/ to www-data@211.100.36.229:/data/grab/data/news/2010/
+2010-11-18 10:00:33,882 ERROR Stream Failed , Running /data/grab/data/news/2010/ to www-data@211.100.36.226:/data/wwwroot/news/grab/news/2010/
+2010-11-18 10:00:34,188 ERROR Stream Failed , Running /data/grab/data/news/2010/ to www-data@211.100.36.229:/data/grab/data/news/2010/
