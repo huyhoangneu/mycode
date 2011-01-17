@@ -1,0 +1,69 @@
+
+# This is the msn client configuration file.
+# It should be placed in ~/.msn/msnrc, with permissions 0600 (but this are not
+# checked by the client, so you have to take care of it)
+# The format is: variable = value
+# Anything that begins with a '#' or doesn't have a '=' is a comment.
+# There are some variables that _must_ be set, and others that can be omitted,
+# in which case the default value will be used. Here they are:
+
+# email, mandatory
+email = myself@mydomain.whatever
+
+
+# all the following are optional parameters and can be omited, in which case
+# the default will be used
+
+# password, if you avoid it, the client will ask you for it at runtime
+password = XXXX
+
+# number of message history to keep in memory
+# defaults to 10
+history size = 10
+
+# number of user input lines to keep in memory
+# defaults to 10
+input history size = 10
+
+# defines if you want to log your incoming/outgoing messages to the disk, must
+# be yes or no.
+# the default is yes
+log history = yes
+
+# directory where to store your log history (if it's used, of course).
+# defaults to $HOME/.msn/history
+history directory = /home/myself/.msn/history
+
+# show changes in real nicks
+# the default is no
+show realnick changes = no
+
+# number of seconds after, if no command was received, we set automatically
+# away. defaults to 0, which disables it.
+auto away = 0
+
+# initial status when we first connect
+# defaults to online and must be valid (that is, one of online, away, busy,
+# and so on)
+initial status = online
+
+# local encoding
+# it's the local character encoding, used to display and send the messages'
+# text in an standard way. don't worry about it if you never had problems when
+# sending non-english characters. it defaults to the environment variables
+# LC_ALL, or LANG, and if none is available to iso-8859-1.
+encoding = iso-8859-1
+
+# debug variable, can be yes or no; note that you can enable and disable it at
+# runtime using the 'debug' command, so this is mostly used when you want to
+# debug the whole session init.
+# the default is no
+debug = no
+
+# color theme
+# this configures which color theme to use; but you can still change it at
+# runtime with the 'color' command (use it to see a list of available themes
+# too)
+color theme = default
+
+

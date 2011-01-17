@@ -1,0 +1,119 @@
+
+This is a more detailed explanation of the commands provided in the client.
+A brief list is available at runtime with the 'help' command.
+
+Note that the runtime help gets updated more frequently than this one.
+
+
+status [mode]	
+	Shows the current status, or changes it to "mode", which can be one of:
+	online, away, busy, brb, phone, lunch, invisible or idle.
+
+q
+	Quits the program.
+
+w
+	Prints your entire contact list.
+	Contacts connected are highlighted in bold.
+
+ww
+	Prints your entire contact list, including email addresses.
+
+e
+	Prints your online contacts.
+
+ee
+	Prints your online contacts, including email addresses.
+
+eg
+	Prints your online contacts with the groups
+	
+wr
+	Prints your reverse contact list.
+	(see the FAQ for more details)
+
+h
+	Shows your incoming message history
+	This is a list of the last N messages that you received. The amount is
+	configurable with the directive "input history size" in the msnrc
+	file, which defaults to 10.
+
+add email nick
+	Adds the user "email" with the nick "nick".
+
+del nick
+	Deletes the user with nick "nick".
+
+info [nick]
+	Shows the user information and pending messages (if any), or our
+	personal info. It also includes some advanced information (like the
+	server socket or tid).
+
+lignore [nick]
+	Locally ignores the user, or display the locally ignored users list.
+	This makes the messages coming from the user not to be displayed, but
+	they are still logged so you can see them later.
+
+lunignore nick
+	Removes a user from the locally ignored users list.
+
+block nick
+	Blocks a user
+
+unblock nick
+	Unblocks a blocked user
+
+g
+	Shows the group list
+
+gadd gname
+	Adds the group "gname"
+
+gdel gname
+	Deletes the group "gname". Note that all the users in the group will
+	be deleted too.
+
+gren old new
+	Renames the group "old" with the name "new"
+
+color [theme]
+	Shows the available color themes, or set the color theme to "theme".
+
+close nick
+	Closes the switchboard connection with "nick". There is no need to use
+	this command and is included just for advanced users and debugging.
+
+config
+	Shows the configuration, in the internal representation, along with
+	other special automatic variables. This means that many commands and
+	values won't have the same format; for instance, instead of 'yes' you
+	will often see a 1. This command is mostly exclusively included for
+	bug reporting.
+
+nick newnick
+	Changes your nick to "newnick".
+
+privacy p a
+	Sets whether accept messages from people not on your list (p) and
+	require authorization (a).
+	(see the FAQ for more details)
+
+m nick text
+	Sends a message to "nick" with the "text". The standard and most
+	practical way of sending a message. Tab completion expands to this.
+
+a text
+	Sends a message with "text" to the last person you sent a message to.
+
+r text
+	Sends a message with "text" to the last person that sent you a
+	message.
+
+invite u1 to u2
+	Invites u1 into the chat with u2
+
+
+In most cases, where you are asked for a nick, you can alternatively enter the email.
+This makes it easier to handle people with weird or long nicks.
+
+

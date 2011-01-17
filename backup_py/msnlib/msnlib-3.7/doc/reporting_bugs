@@ -1,0 +1,38 @@
+
+How to report bugs
+------------------
+
+If you think you've got a bug (or you are sure about it =), please report it
+to albertito@blitiri.com.ar; specifying:
+
+* msnlib version
+* python version
+* operating system information
+* platform information
+* obviously, a bug description
+
+Now, depending on what's the bug about, i'd like you to to include some of
+these:
+
+* a copy of the output when the bug hits (see below for a complete to do this)
+* reports on other versions (does this happens with an older version?)
+* instructions on how to reproduce it
+* terminal information (ie. running under normal console, some kind of xterm,
+	cygwin terminal, beos one, etc.)
+* an strace -tt of the session
+* the debug output
+
+On these last two, they're oftenly quite useful. Just in case you don't know
+how to do it, a nice way of doing both at the same time and save to files
+(which then you can send to me as attachments) is:
+
+* first, add 'debug = yes' to $HOME/.msn/msnrc; that enables debugging output
+* then, run the command:
+	strace -tt -o msn_output-strace msn 2>msn_output-debug | tee msn_output-stdout
+	
+and try to reproduce the bug, or just wait for it to happen =)
+
+Then, when reporting, send me these 3 files (msn_output-strace,
+msn_output-debug, and msn_output-stdout), compressed if necesary. They are
+really helpful, because I can see what's going on when the bug happened.
+

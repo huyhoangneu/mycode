@@ -1,0 +1,22 @@
+:g/#$/d 删除 以 # 结尾的
+:/#$/d 一行一行的删除
+:g/^\s*$/d  删除空格
+
+^ --只匹配行首
+$ --只匹配行尾
+* --匹配0个或多个单字符
+[] --匹配[]内字符，可以是一个单字符，也可以是字符序列，可是用-表示[]内字符序列范围， 如用[1-5]表示[12345]。
+. --匹配任意单字符
+^$ --匹配空行
+
+
+patterns={
+    "normal_url":re.compile(r'''(?:http|ftp|https)://[a-z\.0-9-](?:\:[0-9]+)?[^"'()\[\]\n\r{}<>]+''',re.I),
+    "css_url":re.compile(r'''url\(\s*"?'?\s*([^"'\(\)\n\r]+)\s*'?"?\s*\)''',re.I),
+    "css_import":re.compile(r'''@import\s+'?"?\s*([^"'"\n\r]*)'?"?\s*''',re.I),
+    "inline_css":re.compile(r'''<style[^<>]*>\s*([^<>]+)\s*</style>''',re.I|re.DOTALL),
+    "html_tag":re.compile('<([a-z0-9]+[^<>]+)>',re.I|re.DOTALL),
+    "inline_script":re.compile('<script\s+[^>]*src="?\'?([^"\'\n\r><]+)"?\'?',re.I),
+    "html_url":re.compile(r'''\b(?:href|src|archive|codebase|data|code|usemap|ismap|action|cite|background|longdesc)\s*=\s*"?'?\s*(?!#)([^'"<>*\n\r()]+)\s*"?'?''',re.I),
+    "html_style_attr":re.compile(r'''\b(?:on[a-z]+|style)\s*=\s*"?'?\s*([^"'\n\r<>]+)\s*"?'?''',re.I),
+}

@@ -1,0 +1,2 @@
+./a.out --ip=211.100.36.235 --port=80 -T --bt --thread 2 -E 1 --parallel=20
+g++ client.cpp -lpthread

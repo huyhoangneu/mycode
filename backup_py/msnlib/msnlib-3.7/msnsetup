@@ -1,0 +1,87 @@
+#!/bin/bash
+
+function intro() {
+	echo
+	echo "This is a script for creating an initial configuration for the msn client."
+	echo "Any problems or questions regarding it, email albertito@blitiri.com.ar."
+	echo
+	echo "Now you will have to answer a few questions. If you are in doubt, press ENTER and the harmless default will be used."
+	echo "If you want to abort any time, just press CTRL+C"
+	echo
+}
+
+function get_email() {
+	echo "* Email"
+	echo "This is the email address you use with your msn account, usually (but not necessarily) a hotmail.com account."
+	while [ -z "$EMAIL" ]; do
+		read -p "Please insert your email address: " EMAIL
+		echo
+	done
+	echo
+	export EMAIL
+}
+
+function get_pass() {
+	echo "* Password"
+	echo "Your email address' password. Note that the characters won't be displayed for security issues."
+	echo "If you press ENTER, it won't be written, and you'll be asked for it at login time."
+	read -s -p "Please insert your password: " PASS
+	echo
+	export PASS
+}
+
+function create_dirs() {
+	mkdir "$HOME/.msn" 2> /dev/null
+	mkdir "$HOME/.msn/history" 2> /dev/null
+	chmod -R og-rwx "$HOME/.msn"
+}
+
+function create_rc() {
+	# first parameter is the rc file to create
+	if [ -s "$1" ]; then
+		echo "Error: file $1 already exists!"
+		exit
+	fi
+	touch "$1"
+	chmod -R 0600 "$1"
+	echo "# msn client configuration file" >> "$1"
+	echo "# created automatically by the msnsetup script" >> "$1"
+	echo >> "$1"
+	echo "email = $EMAIL" >> "$1"
+	if [ -z "$PASS" ]; then
+		echo "# password not configured" >> "$1"
+	else
+		echo "password = $PASS" >> "$1"
+	fi
+	echo >> "$1"
+}	
+
+
+# main
+
+# we take only one optional parameter, the profile to create the rc for
+
+intro
+get_email
+get_pass
+
+echo "Creating the directory hierachy ($HOME/.msn)"
+create_dirs
+
+RC="$HOME/.msn/msnrc"
+# if we have the profile, use it
+if [ "$1" ]; then
+	echo "Configuring for profile $1"
+	RC="$HOME/.msn/msnrc-$1"
+fi
+echo "Creating the configuration file ($RC)"
+create_rc "$RC"
+
+RUN="msn"
+if [ "$1" ]; then
+	RUN="msn $1"
+fi
+echo "Done! run '$RUN' to start the client"
+
+
+

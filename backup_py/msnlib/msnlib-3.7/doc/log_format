@@ -1,0 +1,44 @@
+
+This document describes the msn client log format.
+
+The files are named only with the email address of the sender/receiver; except
+for the multi-user chats (that is, a chat with more than you and somebody else
+involved) where the name is composed of 'M::' and then the list of
+participants (excluding yourself) sorted in alphabetical order, separated by
+commas (',').
+
+
+The format is very simple:
+
+Day/Month/Year HH:MM:SS email ID text
+
+where ID is one of:
+	'>>>' if the text is an outgoing message
+	'<<<' if the text is an incoming message
+	'***' if the text refers to a new status
+	'+++' if the text refers to multi-user chats (joining and leaving)
+
+and email is the email of the user you send the message to/got a message from,
+except on the multi-user chat case, where for messages you sent your own
+email address is displayed.
+
+
+For example:
+Day/Month/Year HH:MM:SS email *** online
+Day/Month/Year HH:MM:SS email <<< incoming message
+Day/Month/Year HH:MM:SS email >>> outgoing message
+Day/Month/Year HH:MM:SS email *** offline
+Day/Month/Year HH:MM:SS email +++ join
+
+
+For multi-line messages, the message is indented with a tab, like:
+Day/Month/Year HH:MM:SS email <<<
+	line1
+	line2
+	...
+	linen
+
+
+In the utils directory you can find the file "msnlog.vim", which is a vim
+syntax highlighting file for this log format.
+

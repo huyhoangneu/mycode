@@ -1,0 +1,42 @@
+
+msnlib
+Alberto Bertogli (albertito@blitiri.com.ar)
+----------------------------------------------
+
+This is a python implementation for the msn messenger protocol (version 8),
+it's pretty simple and straightforward; but it works well.
+
+Please read the 'INSTALL' file to see how to install and use both the client
+and the library.
+
+The client is really simple, uses a text-mode interface with commands similar
+to 'micq' (http://micq.ukeer.de/), which is a great ICQ client.
+
+If you're looking for a good messaging system, forget about messenger and try
+Jabber (http://www.jabber.org), it's the only one which is run in the open
+based on public standards, it's safe, fast, has a lot of features and it's
+quite scalable.
+
+But if you're stuck with messenger for whatever reason (your friends,
+family, the dog, all use it =), I hope you find this useful.
+
+
+The basic idea for the library is a main class which represents a connection
+with the server and holds all the relevant information, it has only a few
+methods to login, change some info and status, and send messages; all the rest
+is driven by an asynchronous callback scheme registered at runtime which can be
+changed on the fly.
+
+If you're interested, read the code to find out more; most of the documentation
+is there either as command or as python documentation strings. You might also
+want to check out the doc directory; specially if you use a non-UNIX platform,
+take a look at the 'portability' file.
+
+
+Comments and patches are always welcome; please send them to
+albertito@blitiri.com.ar.
+
+Thanks,
+		Alberto
+
+

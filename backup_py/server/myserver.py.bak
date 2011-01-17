@@ -1,0 +1,58 @@
+#!/usr/bin/env python
+import threading
+import SocketServer
+import pyip
+users = []
+class MyTCPHandler(SocketServer.StreamRequestHandler):
+    def handle(self):
+        while True:
+            self.data = self.rfile.readline().strip()
+            (c, a) = i.getIPAddr(self.data)
+            #(c, a) = i.getIPAddr('211.100.36.235')
+            #print '%s %s/%s' % (ip, c, a)
+            #self.data = self.rfile.readline().strip()
+            cur_thread = threading.currentThread()
+            print "RECV from ", self.client_address[0]
+            cmd = self.data
+            if cmd == None or len(cmd) == 0:
+                break;
+            print cmd
+            # business logic here
+            try:
+                '''
+                if cmd.startswith('echo'):
+                    result = cmd[5:]
+                elif cmd.startswith('login'):
+                    username = cmd[6:]
+                    users.append({username:self.wfile})
+                    result = username + ' logined.'
+                elif cmd == 'quit':
+                    break
+                else:
+                    result = 'error cmd'
+                
+                self.wfile.write('%s %s/%s' % (ip, c, a))
+                #self.wfile.write(result)
+                self.wfile.write('\n')
+                self.request.close()
+                break
+            except:
+                print 'error'
+                self.request.close()
+                break
+        print username, ' closed.'
+
+class ThreadedTCPServer(SocketServer.ThreadingMixIn, SocketServer.TCPServer):
+    pass
+
+if __name__ == "__main__":
+    ip = '211.100.36.235'
+    i = pyip.IPInfo('qqwry.dat')
+    #(c, a) = i.getIPAddr(ip)
+    #print '%s %s/%s' % (ip, c, a)
+    HOST, PORT = "localhost", 9999
+    server = ThreadedTCPServer((HOST, PORT), MyTCPHandler)
+    server_thread = threading.Thread(target=server.serve_forever)
+    server_thread.setDaemon(True)
+    server_thread.start()
+    server.serve_forever()

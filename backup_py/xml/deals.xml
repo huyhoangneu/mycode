@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response code='0' date='2010-08-20T10:21:54+08:00' message='Ok'>
+  <deals>
+    <deal>
+      <id>bjsy</id>
+      <deal_url>http://www.meituan.com/beijing/deal/bjsy.html</deal_url>
+      <title>仅售28元！原价135元的上绎锋巢射箭运动俱乐部90分钟射箭运动（免费提供射箭设备），箭在弦上不得不发！</title>
+      <small_image_url>http://p1.meituan.com/120.76/deal/201008/shangyi_zhutu1.jpg</small_image_url>
+      <medium_image_url>http://p0.meituan.com/200.121/deal/201008/shangyi_zhutu1.jpg</medium_image_url>
+      <large_image_url>http://p1.meituan.com/deal/201008/shangyi_zhutu1.jpg</large_image_url>
+      <division_id>1</division_id>
+      <division_name>北京</division_name>
+      <division_lat>39.904667</division_lat>
+      <division_lng>116.408198</division_lng>
+      <division_timezone>Beijing Time</division_timezone>
+      <division_offset_gmt>288000</division_offset_gmt>
+      <vendor_id>上绎锋巢射箭运动俱乐部</vendor_id>
+      <vendor_name>上绎锋巢射箭运动俱乐部</vendor_name>
+      <vendor_website_url></vendor_website_url>
+      <status>open</status>
+      <start_date>2010-08-20T00:00:00+08:00</start_date>
+      <end_date>2010-08-20T23:59:59+08:00</end_date>
+      <tipped>true</tipped>
+      <tipping_point>10</tipping_point>
+            <tipped_date>2010-08-20T00:09:19+08:00</tipped_date>
+            <sold_out>false</sold_out>
+      <quantity_sold>1544</quantity_sold>
+      <price>28</price>
+      <value>135</value>
+      <discount_amount>107</discount_amount>
+      <discount_percent>2折</discount_percent>
+      <areas>
+      </areas>
+      <conditions>
+        <limited_quantity>true</limited_quantity>
+        <minimum_purchase>1</minimum_purchase>
+        <maximum_purchase>5</maximum_purchase>
+        <expiration_date>2010-11-20T23:59:59+08:00</expiration_date>
+        <details>
+          <detail>有效期3个月，截止至2010年11月20日; 营业时间：每日10:00-23:30; 
+请至少提前一天致电64621051预约; 
+每张美团券仅限1人使用; 
+每人最多购买5张美团券; </detail>
+        </details>
+      </conditions>
+    </deal>
+  </deals>
+</response>

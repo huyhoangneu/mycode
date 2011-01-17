@@ -1,0 +1,1592 @@
+Array
+(
+    [北京] => Array
+        (
+            [0] => Array
+                (
+                    [website] => 美团
+                    [siteurl] => http://www.meituan.com/beijing
+                    [city] => 北京
+                    [title] => 仅售9.9元！原价40元的四海风情靓甲工作室商务护手美甲，使用全套OPI甲油，12个专业步骤让您的玉手熠熠生辉，崇光百货、乐成、霄云路、中关村四店通用！
+                    [image] => http://p1.meituan.com/275.168/deal/201008/sihaifq.jpg
+                    [startTime] => 1282924800
+                    [endTime] => 1283011199
+                    [value] => 40
+                    [price] => 9.9
+                    [rebate] => 2.4
+                    [bought] => 4751
+                    [item_url] => http://www.meituan.com/beijing/deal/bjshfq.html
+                )
+
+            [1] => Array
+                (
+                    [website] => 糯米
+                    [siteurl] => http://www.nuomi.com
+                    [city] => 北京
+                    [title] => 58元品味山西面食精粹！原价168元新晋商会馆招牌“晋商面宴”（4个凉菜、8个热菜、6种面卤、12碗面食）超值！超足量！超美味！
+                    [image] => http://static.nuomi.com/upload/2010/08-20/1282274010-605.jpg
+                    [startTime] => 1282924800
+                    [endTime] => 1283097600
+                    [value] => 168.0
+                    [price] => 58.0
+                    [rebate] => 3.5
+                    [bought] => 3590
+                    [item_url] => http://www.nuomi.com/beijing/mianyan.html
+                )
+
+            [2] => Array
+                (
+                    [website] => 拉手网
+                    [siteurl] => http://www.lashou.com/
+                    [city] => 北京
+                    [title] => 仅售38元！原价78元的『张飞牛肉』双人休闲套餐：黑胡椒牛排+功夫鸡腿+三丝夹饼2个+时令蔬菜2份+蛋花汤2份+玉米棒+牛肉干4颗！（四店通用）邀请好友返利10元
+                    [image] => http://119.161.209.92/lasho_pic/go/00/00/00/41/4108
+                    [startTime] => 1282838400
+                    [endTime] => 1283097600
+                    [value] => 78.00
+                    [price] => 38.00
+                    [bought] => 1778
+                    [item_url] => http://www.lashou.com/index.php?id=4108
+                )
+
+            [3] => Array
+                (
+                    [website] => 满座
+                    [siteurl] => http://www.manzuo.com
+                    [city] => 北京
+                    [title] => 创艺宝贝美术体验馆亲子套票
+                    [image] => http://p0.manzuo.com/501/ibabyart_main.jpg
+                    [startTime] => 1282924800
+                    [endTime] => 1283270399
+                    [value] => 100.0
+                    [price] => 18.0
+                    [rebate] => 1.8
+                    [bought] => 166
+                    [item_url] => http://www.manzuo.com/partner/common__RyODmkmGVF8.htm
+                )
+
+            [4] => Array
+                (
+                    [website] => F团
+                    [siteurl] => http://www.ftuan.com/city.php?enname=bjcy
+                    [city] => 北京
+                    [title] => 仅60元！原价860元的La&Cut私人高级发型定制洗剪护套餐！由PAUL MITCHELL(宝美奇）品牌中国大陆指定形象造型师东子领衔监制！私人高级定制，只为您！
+                    [image] => http://www.ftuan.com/static/team/2010/0826/12828206204973.jpg
+                    [startTime] => 1282838400
+                    [endTime] => 1283097599
+                    [value] => 860
+                    [price] => 60
+                    [rebate] => 0.7
+                    [bought] => 797
+                    [item_url] => http://www.ftuan.com/team.php?id=244
+                )
+
+            [5] => Array
+                (
+                    [website] => 24券
+                    [siteurl] => http://www.24quan.com
+                    [city] => 北京
+                    [title] => 仅118元(包邮)!金凤成祥原价188元锦秋华礼月饼礼盒兑换券。全市39家特约门店通兑！金凤成祥与24券独家合作！市面最低团购价！金秋月饼第二弹！更超值！更划算！
+                    [image] => http://www.24quan.com/static/team/2010/0826/12828087411073_thumbnail.jpg
+                    [startTime] => 1282838400
+                    [endTime] => 1283097600
+                    [value] => 188.00
+                    [price] => 118.00
+                    [rebate] => 6.3
+                    [bought] => 1586
+                    [item_url] => http://www.24quan.com/team.php?id=486
+                )
+
+            [6] => Array
+                (
+                    [website] => 爱帮团
+                    [siteurl] => http://www.aibangtuan.com/
+                    [city] => 北京
+                    [title] => 吃不尽的三味缘！极品双人火锅套餐（鸳鸯锅+野生鲶鱼2斤+竹节虾+山珍拼+素什锦拼+香菇鸡肉丸+小料+手工香饼+鲜榨西瓜汁+果盘+免费小菜）
+                    [image] => http://img6.aibangjuxin.com/pic?picid=f1a2da1229bc0955&type=4
+                    [startTime] => 1282924800
+                    [endTime] => 1283184000
+                    [value] => 220.00
+                    [price] => 86.00
+                    [rebate] => 3.9
+                    [bought] => 117
+                    [item_url] => http://tuan.aibang.com/beijing/sanweiyuan.html
+                )
+
+            [7] => Array
+                (
+                    [website] => 团宝网
+                    [siteurl] => http://www.groupon.cn/p/?productCityID=1&productid=2070
+                    [city] => 北京
+                    [title] => 42元，爆笑不断，京城80后新生代相声精英才艺大PK，9月4日（周六）北京青年相声大赛——宏春社原创相声票！【各路相声精英拿手新鲜包袱不断，欢乐无限！原价150元，嘻哈包袱铺原班人马助场，仅300张，售完即止！】
+                    [image] => http://www.17tuanbao.com/images/UploadImages/20108/2070-hao123.jpg
+                    [startTime] => 1282910400
+                    [endTime] => 1283140799
+                    [value] => 150
+                    [price] => 42
+                    [rebate] => 2.8
+                    [bought] => 102
+                    [item_url] => http://www.groupon.cn/p/?productCityID=1&productid=2070
+                )
+
+            [8] => Array
+                (
+                    [website] => yoka团购
+                    [siteurl] => http://tuan.yoka.com/?f=1616
+                    [city] => 北京
+                    [title] => 仅售59.8元(全国包邮)，原价143元的伊诺思800ml超大装超值回归！购买即送价值25元的120ml加拿大纳米洗发水！买两瓶还送价值42元的德国卡奴蚕丝蛋白修护素200ML。
+                    [image] => http://images.yoka.com/pic/tuan/cynos2_300x180.jpg
+                    [startTime] => 1282629600
+                    [endTime] => 1283155200
+                    [value] => 143
+                    [price] => 59.8
+                    [rebate] => 4.18
+                    [bought] => 1383
+                    [item_url] => http://tuan.yoka.com/278/?f=1616
+                )
+
+            [9] => Array
+                (
+                    [website] => 58团购
+                    [siteurl] => http://t.58.com
+                    [city] => 北京
+                    [title] => 情迷意大利！59元乐享155元乐菲欧意式休闲餐厅浪漫双人套餐！特色T骨牛排+黑胡椒牛肉意面+奶油焗日式鲍鱼+相思红豆奶昔2杯！邀好友获返利，浪漫就与你同享！
+                    [image] => http://pic.58.com/groupbuy/small/n_5282101276676.jpg
+                    [startTime] => 1282924800
+                    [endTime] => 1283097600
+                    [value] => 155
+                    [price] => 59
+                    [rebate] => 3.8
+                    [bought] => 250
+                    [item_url] => http://t.58.com/source/hao123?returnurl=http://t.58.com/bj/107
+                )
+
+            [10] => Array
+                (
+                    [website] => 团美网
+                    [siteurl] => http://www.tuanmei.net
+                    [city] => 北京
+                    [title] => 全网正品最低价！仅售29.9元！ CCTV、湖南卫视等各大媒体宣传推荐，蝉联四年淘宝榜单的“御泥坊”柔白紧致矿物红石榴面膜，内含矿物精华水能强化肌肤的天然防御能力，令肌肤柔白紧致强韧有弹性！一单买两个包邮！
+                    [image] => http://images.tuanmei.net/yunifang0828/yunifang0828-title-mid.jpg
+                    [startTime] => 1282924800
+                    [endTime] => 1283097599
+                    [value] => 39
+                    [price] => 29.9
+                    [rebate] => 7.6
+                    [bought] => 3668
+                    [item_url] => http://www.tuanmei.net/i/deal/yunifang0828.html
+                )
+
+            [11] => Array
+                (
+                    [website] => 窝窝团
+                    [siteurl] => http://www.55tuan.com
+                    [city] => 北京
+                    [title] => 再次抢购啦！仅60元，原价240元的750ml汇源100%苹果纯果汁，利乐金属包装12盒，五环内包快递！
+                    [image] => http://www.55tuan.com/images/201008/goods_img/195_G_1282874725326.jpg
+                    [startTime] => 1282924800
+                    [endTime] => 1283184000
+                    [value] => 240.00
+                    [price] => 60.00
+                    [rebate] => 2.5
+                    [bought] => 213
+                    [item_url] => http://www.55tuan.com/tuan-181
+                )
+
+            [12] => Array
+                (
+                    [website] => 搜狐爱家团
+                    [siteurl] => http://ihome.sohu.com/beijing/life/
+                    [image] => http://img3.f.itc.cn/ihome/695/72/19/267x160_6957219.jpg
+                    [city] => 北京
+                    [title] => 仅售92元！团购原价414元云蒙山森林公园单人通票，含欧式风格住宿+台球、乒乓球各2小时+不限时免费垂钓。还可野外烧烤哦，北京五环内包邮！（邀请好友首次购买返利10元）
+                    [startTime] => 1282838400
+                    [endTime] => 1283097600
+                    [value] => 414.00
+                    [price] => 92.00
+                    [rebate] => 2.2
+                    [bought] => 3429
+                    [item_url] => http://ihome.sohu.com/beijing/life/tuan/yangguang.html
+                )
+
+            [13] => Array
+                (
+                    [website] => 阿丫团
+                    [siteurl] => http://www.ayatuan.com
+                    [city] => 北京
+                    [title] => 全身美白，爆脂瘦身3次仅售59元！阿丫团会员尊享原价2980元魅力博通五行经络塑形美容美体套餐【国贸、幸福大街两店通用】经典四项任选其一，3次体验让你身体的每个角落大放异彩！
+                    [image] => http://www.ayatuan.com/static/team/2010/0827/12828850261992.jpg
+                    [startTime] => 1282924800
+                    [endTime] => 1283097540
+                    [value] => 2980.00
+                    [price] => 59.00
+                    [rebate] => 0.20
+                    [bought] => 93
+                    [item_url] => http://www.ayatuan.com/team.php?id=qermxv
+                )
+
+            [14] => Array
+                (
+                    [website] => 嘀嗒团
+                    [siteurl] => http://www.didatuan.com
+                    [city] => 北京
+                    [title] => 仅售65元！原价860元『佳音国际』白领丽人亚健康调理精品套餐：循经通络（120分钟）+脏腑排毒（45分钟），北京五店通用，金源总店还免费赠送中医咨询诊断！
+                    [image] => http://www.didatuan.com/static/team/2010/0826/12828071583969.jpg
+                    [startTime] => 1282838400
+                    [endTime] => 1283097600
+                    [value] => 860.00
+                    [price] => 65.00
+                    [rebate] => 0.76
+                    [bought] => 299
+                    [item_url] => http://www.didatuan.com/team.php?id=182
+                )
+
+            [15] => Array
+                (
+                    [website] => 饭统-饭团
+                    [siteurl] => http://tuan.fantong.com
+                    [city] => 北京
+                    [title] => 仅售88元！罗兰湖餐厅超值双人韩式料理，丽都花园赏美景，罗兰湖畔品美味！原价309元！
+                    [image] => http://images1.fantong.com/attach/189/medium/440x260_2.jpg
+                    [startTime] => 1282838400
+                    [endTime] => 1283097600
+                    [value] => 309.0
+                    [price] => 88.0
+                    [rebate] => 2.85
+                    [bought] => 772
+                    [item_url] => http://tuan.fantong.com/beijing
+                )
+
+        )
+
+    [上海] => Array
+        (
+            [0] => Array
+                (
+                    [website] => 美团
+                    [siteurl] => http://www.meituan.com/shanghai
+                    [city] => 上海
+                    [title] => 仅售98元！原价411元东远吞拿金枪鱼豪华双人套餐（刺身拼盘+寿司拼盘+金枪鱼沙拉+炸虾天妇罗+烤多春鱼+鸡脆骨+海鲜葱饼+鱼籽拌饭+酱汤2份），赠水果1份，享受精致的日式料理。
+                    [image] => http://p0.meituan.com/275.168/deal/201008/tunna_0826162356.jpg
+                    [startTime] => 1282838400
+                    [endTime] => 1283097599
+                    [value] => 411
+                    [price] => 98
+                    [rebate] => 2.3
+                    [bought] => 2500
+                    [item_url] => http://www.meituan.com/shanghai/deal/shdytn.html
+                )
+
+            [1] => Array
+                (
+                    [website] => 糯米
+                    [siteurl] => http://www.nuomi.com
+                    [city] => 上海
+                    [title] => 85元健康新定义！原价241元新素代（淮海路店）超值时尚绿色双人套餐（美极鹅肝+鲍鱼卤味拼盘+健康特色酿番茄+茶树菇回锅肉+叉烧肉炒饭+草莓香草冰激凌+雪花糕）！
+                    [image] => http://static.nuomi.com/upload/2010/08-27/1282877849-710.jpg
+                    [startTime] => 1282838400
+                    [endTime] => 1283097600
+                    [value] => 241.0
+                    [price] => 85.0
+                    [rebate] => 3.5
+                    [bought] => 2534
+                    [item_url] => http://www.nuomi.com/shanghai/xinsudai.html
+                )
+
+            [2] => Array
+                (
+                    [website] => 拉手网
+                    [siteurl] => http://www.lashou.com/
+                    [city] => 上海
+                    [title] => 仅售48元！原价114元的『首尔焖鲜汇』超值尊享双人套餐1份：秘汁焖鲶鱼（含锅底）+焖鲜汇系列产品！邀请好友返利10元
+                    [image] => http://119.161.209.92/lasho_pic/go/00/00/00/41/4110
+                    [startTime] => 1282838400
+                    [endTime] => 1283097600
+                    [value] => 114.00
+                    [price] => 48.00
+                    [bought] => 1360
+                    [item_url] => http://www.lashou.com/index.php?id=4110
+                )
+
+            [3] => Array
+                (
+                    [website] => 满座
+                    [siteurl] => http://www.manzuo.com
+                    [city] => 上海
+                    [title] => 影中彩写真摄影套餐
+                    [image] => http://p0.manzuo.com/506/yzc_main.jpg
+                    [startTime] => 1282838400
+                    [endTime] => 1283183999
+                    [value] => 1088.0
+                    [price] => 198.0
+                    [rebate] => 1.8
+                    [bought] => 456
+                    [item_url] => http://www.manzuo.com/partner/common__EGFGK9GQZ60.htm
+                )
+
+            [4] => Array
+                (
+                    [website] => F团
+                    [siteurl] => http://www.ftuan.com/city.php?enname=shanghai
+                    [city] => 上海
+                    [title] => 仅458元！原价1388元美兆五星级体检礼卡【符合世界卫生组织标准的体检项目、男女均适用、3个月有效期】全亚洲最顶级的体检机构，发布中国区唯一一次限时团购！给自己、家人、朋友和员工一个五星级的关爱！
+                    [image] => http://www.ftuan.com/static/team/2010/0826/12828079044173.jpg
+                    [startTime] => 1282838400
+                    [endTime] => 1283097599
+                    [value] => 1388
+                    [price] => 458
+                    [rebate] => 3.3
+                    [bought] => 487
+                    [item_url] => http://www.ftuan.com/team.php?id=245
+                )
+
+            [5] => Array
+                (
+                    [website] => 24券
+                    [siteurl] => http://www.24quan.com
+                    [city] => 上海
+                    [title] => 仅360元！原价1700元上海仁爱医院国际儿童门诊体检套餐一份（儿童体检检查+实验室检查+营养指导+家庭应急措施指导+疫苗免疫接种咨询）！最专业的儿童体检，最贴心的医疗体验！
+                    [image] => http://www.24quan.com/static/team/2010/0826/12827991308699_thumbnail.jpg
+                    [startTime] => 1282838400
+                    [endTime] => 1283097600
+                    [value] => 1700.00
+                    [price] => 360.00
+                    [rebate] => 2.1
+                    [bought] => 182
+                    [item_url] => http://www.24quan.com/team.php?id=476
+                )
+
+            [6] => Array
+                (
+                    [website] => 团宝网
+                    [siteurl] => http://www.groupon.cn/p/?productCityID=22&productid=2017
+                    [city] => 上海
+                    [title] => 158元！印证100%的纯美，仅招待前300位贵宾！原价1088元影中彩创意摄影：3套服装+拍摄80张底片全送+7寸水晶相册+7寸水晶相框+24寸超大精放海报+皮夹照2张！
+                    [image] => http://www.17tuanbao.com/images/UploadImages/       20108/haojiawen//sh_yingzhongcai_hao123.jpg
+                    [startTime] => 1282910400
+                    [endTime] => 1283399999
+                    [value] => 1088
+                    [price] => 158
+                    [rebate] => 1.5
+                    [bought] => 79
+                    [item_url] => http://www.groupon.cn/p/?productCityID=22&productid=2017
+                )
+
+            [7] => Array
+                (
+                    [website] => 团美网
+                    [siteurl] => http://www.tuanmei.net
+                    [city] => 上海
+                    [title] => 全网正品最低价！仅售29.9元！ CCTV、湖南卫视等各大媒体宣传推荐，蝉联四年淘宝榜单的“御泥坊”柔白紧致矿物红石榴面膜，内含矿物精华水能强化肌肤的天然防御能力，令肌肤柔白紧致强韧有弹性！一单买两个包邮！
+                    [image] => http://images.tuanmei.net/yunifang0828/yunifang0828-title-mid.jpg
+                    [startTime] => 1282924800
+                    [endTime] => 1283097599
+                    [value] => 39
+                    [price] => 29.9
+                    [rebate] => 7.6
+                    [bought] => 3668
+                    [item_url] => http://www.tuanmei.net/i/deal/yunifang0828.html
+                )
+
+            [8] => Array
+                (
+                    [website] => 窝窝团
+                    [siteurl] => http://www.55tuan.com
+                    [city] => 上海
+                    [title] => 仅39元！原价752元的香港修身堂专业美颜纤体机构局部减肥项目，手臂、腰腹部、臀、背、大腿、小腿，6项任选2项，每项做2次，各区域分店通用。
+                    [image] => http://www.55tuan.com/images/201008/goods_img/192_G_1282808743771.jpg
+                    [startTime] => 1282838400
+                    [endTime] => 1283184000
+                    [value] => 752.00
+                    [price] => 39.00
+                    [rebate] => 0.5
+                    [bought] => 987
+                    [item_url] => http://www.55tuan.com/tuan-178
+                )
+
+            [9] => Array
+                (
+                    [website] => 搜狐爱家团
+                    [siteurl] => http://ihome.sohu.com/shanghai/life/
+                    [image] => http://img2.f.itc.cn/ihome/703/60/84/267x160_7036084.jpg
+                    [city] => 上海
+                    [title] => 惊爆EingeZogen品牌男装特惠：原价1280元，现在只售69元（全国包邮）！尺寸齐全，现有黑、白两种颜色，单领和双领两种款式，限时抢购，数量有限！（邀请好友购买返利10元）
+                    [startTime] => 1282867200
+                    [endTime] => 1283076000
+                    [value] => 1280.00
+                    [price] => 69.00
+                    [rebate] => 0.05
+                    [bought] => 175
+                    [item_url] => http://ihome.sohu.com/shanghai/life/tuan/zuokennanzhuang.html
+                )
+
+            [10] => Array
+                (
+                    [website] => 阿丫团
+                    [siteurl] => http://www.ayatuan.com
+                    [city] => 上海
+                    [title] => 阿丫！仅售133元！！原价356元的凯乐文地中海餐厅土耳其特色双人套餐（冷头盘拼盘+大份鸡肉卷+鸡翅+库什巴尔牛肉披比萨+土耳其烩蘑菇鸡肉+梅洛阿根廷红酒或任意软饮2杯）！平民价也能享受异国风情！
+                    [image] => http://www.ayatuan.com/static/team/2010/0826/12828254121106.jpg
+                    [startTime] => 1282838400
+                    [endTime] => 1283097540
+                    [value] => 356.00
+                    [price] => 133.00
+                    [rebate] => 3.74
+                    [bought] => 595
+                    [item_url] => http://www.ayatuan.com/team.php?id=uj9319
+                )
+
+            [11] => Array
+                (
+                    [website] => 嘀嗒团
+                    [siteurl] => http://www.didatuan.com
+                    [city] => 上海
+                    [title] => 仅58元，原价178元『品三锅』双人精品火锅套餐：特色“三锅演义”锅底+自助小料+精品牛羊肉拼盘+黑鱼片+时蔬拼盘+日本豆腐+粉条+酸梅汁/凉茶一扎+水果，主食米饭畅吃！
+                    [image] => http://www.didatuan.com/static/team/2010/0827/12829055521446.jpg
+                    [startTime] => 1282924800
+                    [endTime] => 1283270400
+                    [value] => 178.00
+                    [price] => 58.00
+                    [rebate] => 3.26
+                    [bought] => 84
+                    [item_url] => http://www.didatuan.com/team.php?id=190
+                )
+
+            [12] => Array
+                (
+                    [website] => 饭统-饭团
+                    [siteurl] => http://tuan.fantong.com
+                    [city] => 上海
+                    [title] => 仅售35元！在悠闲午后放空脑袋，聆听风的声音，享受最惬意的时光。CAFÉ OLE悠闲浪漫下午茶双人套餐（任意意式中杯咖啡、沁园花果茶、提拉米苏、布朗尼、手工饼干）原价76元!
+                    [image] => http://images1.fantong.com/attach/196/medium/440-300.jpg
+                    [startTime] => 1282924800
+                    [endTime] => 1283184000
+                    [value] => 76.0
+                    [price] => 35.0
+                    [rebate] => 4.61
+                    [bought] => 2
+                    [item_url] => http://tuan.fantong.com/shanghai
+                )
+
+        )
+
+    [广州] => Array
+        (
+            [0] => Array
+                (
+                    [website] => 美团
+                    [siteurl] => http://www.meituan.com/guangzhou
+                    [city] => 广州
+                    [title] => 仅售149元！原价325元的金碧国际水会净桑按摩24小时套餐，净桑（特色水疗、影视沙发床位、中西美食自助四餐）+法国红酒1瓶+大堂按摩+饮料果盘+健身项目！享受金碧辉煌的尊贵生活！
+                    [image] => http://p1.meituan.com/275.168/deal/201008/jinbi_0826183912.jpg
+                    [startTime] => 1282838400
+                    [endTime] => 1283097599
+                    [value] => 325
+                    [price] => 149
+                    [rebate] => 4.5
+                    [bought] => 371
+                    [item_url] => http://www.meituan.com/guangzhou/deal/gzjinbi.html
+                )
+
+            [1] => Array
+                (
+                    [website] => 团宝网
+                    [siteurl] => http://www.groupon.cn/p/?productCityID=8&productid=2055
+                    [city] => 广州
+                    [title] => 19元！原价60元的石破天调味酱---五连装【小梅鱼酱+牛粒送饭酱+丁香鱼酱+极品鱼香酱+泰式甜辣酱】（本市运费全免），你的一日三餐，我们来关心~
+                    [image] => http://www.17tuanbao.com/images/UploadImages/                      20108/2055--hao123.jpg
+                    [startTime] => 1282910400
+                    [endTime] => 1283486399
+                    [value] => 60
+                    [price] => 19
+                    [rebate] => 3.2
+                    [bought] => 91
+                    [item_url] => http://www.groupon.cn/p/?productCityID=8&productid=2055
+                )
+
+            [2] => Array
+                (
+                    [website] => 团美网
+                    [siteurl] => http://www.tuanmei.net
+                    [city] => 广州
+                    [title] => 全网正品最低价！仅售29.9元！ CCTV、湖南卫视等各大媒体宣传推荐，蝉联四年淘宝榜单的“御泥坊”柔白紧致矿物红石榴面膜，内含矿物精华水能强化肌肤的天然防御能力，令肌肤柔白紧致强韧有弹性！一单买两个包邮！
+                    [image] => http://images.tuanmei.net/yunifang0828/yunifang0828-title-mid.jpg
+                    [startTime] => 1282924800
+                    [endTime] => 1283097599
+                    [value] => 39
+                    [price] => 29.9
+                    [rebate] => 7.6
+                    [bought] => 3668
+                    [item_url] => http://www.tuanmei.net/i/deal/yunifang0828.html
+                )
+
+            [3] => Array
+                (
+                    [website] => 窝窝团
+                    [siteurl] => http://www.55tuan.com
+                    [city] => 广州
+                    [title] => 仅5元！原价10元的斯瓦特动漫乐园(岗顶天娱店)游戏币10枚，购买5份即可办理价值200元的会员卡1张！还有机会获得500个游戏币喔！
+                    [image] => http://www.55tuan.com/images/201008/goods_img/193_G_1282805709028.jpg
+                    [startTime] => 1282838400
+                    [endTime] => 1283184000
+                    [value] => 10.00
+                    [price] => 5.00
+                    [rebate] => 5
+                    [bought] => 889
+                    [item_url] => http://www.55tuan.com/tuan-179
+                )
+
+            [4] => Array
+                (
+                    [website] => 阿丫团
+                    [siteurl] => http://www.ayatuan.com
+                    [city] => 广州
+                    [title] => 仅售50元，原价109元豆花西施套餐（2至4人份）：豆花汤锅(13款任选其一）+豆渣丸子1份+豆花丸子1份+魔芋1份+时蔬1份+调味料1份+现磨蜜枣红糖豆浆免费任喝+免茶位费！爱上西施妹！
+                    [image] => http://www.ayatuan.com/static/team/2010/0826/12828320156974.jpg
+                    [startTime] => 1282838400
+                    [endTime] => 1283011140
+                    [value] => 109.00
+                    [price] => 50.00
+                    [rebate] => 4.59
+                    [bought] => 157
+                    [item_url] => http://www.ayatuan.com/team.php?id=e765zh
+                )
+
+            [5] => Array
+                (
+                    [website] => 嘀嗒团
+                    [siteurl] => http://www.didatuan.com
+                    [city] => 广州
+                    [title] => 仅26元，原价84元『耶士咖啡SPR Coffee』（人民北路店）双人套餐！拿铁2杯 + 芝士蛋糕1块 + 水果沙律1盘 + 脆皮肠1份！抛开烦恼，远离尘嚣，来耶士释放你的心情吧！
+                    [image] => http://www.didatuan.com/static/team/2010/0827/12828856518622.jpg
+                    [startTime] => 1282924800
+                    [endTime] => 1283097600
+                    [value] => 84.00
+                    [price] => 26.00
+                    [rebate] => 3.1
+                    [bought] => 347
+                    [item_url] => http://www.didatuan.com/team.php?id=189
+                )
+
+            [6] => Array
+                (
+                    [website] => 饭统-饭团
+                    [siteurl] => http://tuan.fantong.com
+                    [city] => 广州
+                    [title] => 原价213元本色本味芝士风味套餐饭团抢购价仅78元！在最浓烈的时尚文化气息下，让你的味觉更精彩！
+                    [image] => http://images1.fantong.com/attach/194/medium/55.jpg
+                    [startTime] => 1282924800
+                    [endTime] => 1283011200
+                    [value] => 213.0
+                    [price] => 78.0
+                    [rebate] => 3.66
+                    [bought] => 219
+                    [item_url] => http://tuan.fantong.com/guangzhou
+                )
+
+        )
+
+    [西安] => Array
+        (
+            [0] => Array
+                (
+                    [website] => 美团
+                    [siteurl] => http://www.meituan.com/xian
+                    [city] => 西安
+                    [title] => 仅售48元！原价158元的哈哈镜酸菜鱼超值火锅套餐，含锅底+五荤四素+酸梅汤/柠檬水免费无限畅饮，丰盛一桌，尽享美味~~
+                    [image] => http://p0.meituan.com/275.168/deal/201008/xasuancaiyushoutu111.jpg
+                    [startTime] => 1282838400
+                    [endTime] => 1283097599
+                    [value] => 158
+                    [price] => 48
+                    [rebate] => 3
+                    [bought] => 1233
+                    [item_url] => http://www.meituan.com/xian/deal/hhjscy.html
+                )
+
+            [1] => Array
+                (
+                    [website] => 拉手网
+                    [siteurl] => http://www.lashou.com/
+                    [city] => 西安
+                    [title] => 仅售19元！原价58元的雅图数字影院任意场次电影票1张（无3D版）+1大包爆米花+1杯可乐！邀请好友返利10元
+                    [image] => http://119.161.209.92/lasho_pic/go/00/00/00/41/4118
+                    [startTime] => 1282838400
+                    [endTime] => 1283097600
+                    [value] => 58.00
+                    [price] => 19.00
+                    [bought] => 2688
+                    [item_url] => http://www.lashou.com/index.php?id=4118
+                )
+
+            [2] => Array
+                (
+                    [website] => 团美网
+                    [siteurl] => http://www.tuanmei.net
+                    [city] => 西安
+                    [title] => 全网正品最低价！仅售29.9元！ CCTV、湖南卫视等各大媒体宣传推荐，蝉联四年淘宝榜单的“御泥坊”柔白紧致矿物红石榴面膜，内含矿物精华水能强化肌肤的天然防御能力，令肌肤柔白紧致强韧有弹性！一单买两个包邮！
+                    [image] => http://images.tuanmei.net/yunifang0828/yunifang0828-title-mid.jpg
+                    [startTime] => 1282924800
+                    [endTime] => 1283097599
+                    [value] => 39
+                    [price] => 29.9
+                    [rebate] => 7.6
+                    [bought] => 3668
+                    [item_url] => http://www.tuanmei.net/i/deal/yunifang0828.html
+                )
+
+            [3] => Array
+                (
+                    [website] => 阿丫团
+                    [siteurl] => http://www.ayatuan.com
+                    [city] => 西安
+                    [title] => 仅售298元！台北•真爱倾力打造原价1688元个人时尚写真套系【拍摄60张，其中16张精修入册+7寸琉璃圣经册+30寸欧陆风情挂毯+晶莹剔透扣挂件+百年纪念光盘，赠送实景拍摄及街景拍摄】用专业的视角捕捉您独一无二的美丽绽放！
+                    [image] => http://www.ayatuan.com/static/team/2010/0824/12826411493452.jpg
+                    [startTime] => 1282752000
+                    [endTime] => 1283097540
+                    [value] => 1688.00
+                    [price] => 298.00
+                    [rebate] => 1.77
+                    [bought] => 78
+                    [item_url] => http://www.ayatuan.com/team.php?id=dbzsvj
+                )
+
+            [4] => Array
+                (
+                    [website] => 嘀嗒团
+                    [siteurl] => http://www.didatuan.com
+                    [city] => 西安
+                    [title] => 仅25元，原价92元『乡村大妈铁锅居』超值套餐足量3人份（包括小锅带饼+莜面窝窝+小吃/汤羹任选），不一样的美食，不一样的感觉，使用数量不限哦！邀请好友还可返利10元
+                    [image] => http://www.didatuan.com/static/team/2010/0827/12828906286305.jpg
+                    [startTime] => 1282924800
+                    [endTime] => 1283270400
+                    [value] => 92.00
+                    [price] => 25.00
+                    [rebate] => 2.72
+                    [bought] => 355
+                    [item_url] => http://www.didatuan.com/team.php?id=188
+                )
+
+        )
+
+    [武汉] => Array
+        (
+            [0] => Array
+                (
+                    [website] => 美团
+                    [siteurl] => http://www.meituan.com/wuhan
+                    [city] => 武汉
+                    [title] => 仅售75元！原价196元的新民众乐园环艺电影城超值双人观影套餐：IMAX《盗梦空间》（别名：奠基）电影票2张+爆米花2份，一个月内有效。屏住呼吸，享受电影造梦的快感吧~
+                    [image] => http://p1.meituan.com/275.168/deal/201008/hyshoutu.jpg
+                    [startTime] => 1282838400
+                    [endTime] => 1283097599
+                    [value] => 196
+                    [price] => 75
+                    [rebate] => 3.8
+                    [bought] => 11188
+                    [item_url] => http://www.meituan.com/wuhan/deal/whhuanyi.html
+                )
+
+            [1] => Array
+                (
+                    [website] => 拉手网
+                    [siteurl] => http://www.lashou.com/
+                    [city] => 武汉
+                    [title] => 仅售19元！原价80元的禾太郎寿司店特惠双人套餐：海鲜拉面+玉米沙律+吞拿鱼沙律+肉松小卷+味付鱼皮+中华海草+雪球2个！邀请好友返利10元！
+                    [image] => http://119.161.209.92/lasho_pic/go/00/00/00/41/4114
+                    [startTime] => 1282838400
+                    [endTime] => 1283270400
+                    [value] => 80.00
+                    [price] => 19.00
+                    [bought] => 2765
+                    [item_url] => http://www.lashou.com/index.php?id=4114
+                )
+
+            [2] => Array
+                (
+                    [website] => 24券
+                    [siteurl] => http://www.24quan.com
+                    [city] => 武汉
+                    [title] => 仅56元！秭归人家原价227元农家风味双人套餐（长江肥鱼+炕土豆+南瓜尖）另赠送爽口萝卜皮和米饭，送你一份田园般舒适的体验！
+                    [image] => http://www.24quan.com/static/team/2010/0826/12828064078468_thumbnail.jpg
+                    [startTime] => 1282838400
+                    [endTime] => 1283097600
+                    [value] => 227.00
+                    [price] => 56.00
+                    [rebate] => 2.5
+                    [bought] => 595
+                    [item_url] => http://www.24quan.com/team.php?id=484
+                )
+
+            [3] => Array
+                (
+                    [website] => 团宝网
+                    [siteurl] => http://www.groupon.cn/p/?productCityID=1245&productid=2060
+                    [city] => 武汉
+                    [title] => 38元！武汉至美医疗美容—牙齿美容：①口腔基础咨询检测 ②美牙管家终身系统 ③‘VIP’5A级无菌修复 ④水激光水疗SPA ⑤脱敏活化渗透 ⑥瓷面焕彩分子还原 ⑦皓齿抗氧微化亮白【原价488元，不限购买数量】拥有一个健康的笑容！
+                    [image] => http://www.17tuanbao.com/images/UploadImages/20108/wuhanzhimeihao123.jpg
+                    [startTime] => 1282910400
+                    [endTime] => 1283313599
+                    [value] => 488
+                    [price] => 38
+                    [rebate] => .8
+                    [bought] => 46
+                    [item_url] => http://www.groupon.cn/p/?productCityID=1245&productid=2060
+                )
+
+            [4] => Array
+                (
+                    [website] => 团美网
+                    [siteurl] => http://www.tuanmei.net
+                    [city] => 武汉
+                    [title] => 全网正品最低价！仅售29.9元！ CCTV、湖南卫视等各大媒体宣传推荐，蝉联四年淘宝榜单的“御泥坊”柔白紧致矿物红石榴面膜，内含矿物精华水能强化肌肤的天然防御能力，令肌肤柔白紧致强韧有弹性！一单买两个包邮！
+                    [image] => http://images.tuanmei.net/yunifang0828/yunifang0828-title-mid.jpg
+                    [startTime] => 1282924800
+                    [endTime] => 1283097599
+                    [value] => 39
+                    [price] => 29.9
+                    [rebate] => 7.6
+                    [bought] => 3668
+                    [item_url] => http://www.tuanmei.net/i/deal/yunifang0828.html
+                )
+
+            [5] => Array
+                (
+                    [website] => 嘀嗒团
+                    [siteurl] => http://www.didatuan.com
+                    [city] => 武汉
+                    [title] => 仅售15元，原价40元『英雄年代时尚电玩俱乐部』游戏币80枚！当电玩成为时尚，让我们在游戏中放松心情吧！
+                    [image] => http://www.didatuan.com/static/team/2010/0825/12827090686933.jpg
+                    [startTime] => 1282752000
+                    [endTime] => 1283011200
+                    [value] => 40.00
+                    [price] => 15.00
+                    [rebate] => 3.75
+                    [bought] => 46
+                    [item_url] => http://www.didatuan.com/team.php?id=169
+                )
+
+        )
+
+    [深圳] => Array
+        (
+            [0] => Array
+                (
+                    [website] => 拉手网
+                    [siteurl] => http://www.lashou.com/
+                    [city] => 深圳
+                    [title] => 仅售98元包邮！原价168元的IBM2010亚太商务版正品电脑双肩包（大号包/小号包，任选）一个！邀请好友返利10元！
+                    [image] => http://119.161.209.92/lasho_pic/go/00/00/00/41/4116
+                    [startTime] => 1282838400
+                    [endTime] => 1283097600
+                    [value] => 168.00
+                    [price] => 98.00
+                    [bought] => 57
+                    [item_url] => http://www.lashou.com/index.php?id=4116
+                )
+
+            [1] => Array
+                (
+                    [website] => F团
+                    [siteurl] => http://www.ftuan.com/city.php?enname=shenzhen
+                    [city] => 深圳
+                    [title] => 仅29元！原价334元的田婆婆母婴洗灸药浴SPA服务【成人药蒸90分钟（药蒸+中药头部护理）+儿童药浴30分钟（药浴+紫草油抚触）或婴儿游泳2选1】田婆婆洗灸堂被收入非物质文化遗产保护项目！邀请好友首次购买成功，再返10F币！
+                    [image] => http://www.ftuan.com/static/team/2010/0826/12828099365931.jpg
+                    [startTime] => 1282838400
+                    [endTime] => 1283097599
+                    [value] => 334
+                    [price] => 29
+                    [rebate] => 0.87
+                    [bought] => 188
+                    [item_url] => http://www.ftuan.com/team.php?id=246
+                )
+
+            [2] => Array
+                (
+                    [website] => 24券
+                    [siteurl] => http://www.24quan.com
+                    [city] => 深圳
+                    [title] => 仅79元！原价600元舒活特健康管理尊荣会馆“π离子动能足部理疗”一次。专业医师根据排出毒素的不同类型，诊断体内脏器问题，让您更了解您的健康状况。
+                    [image] => http://www.24quan.com/static/team/2010/0826/12827949518105_thumbnail.jpg
+                    [startTime] => 1282838400
+                    [endTime] => 1283011200
+                    [value] => 600.00
+                    [price] => 79.00
+                    [rebate] => 1.3
+                    [bought] => 104
+                    [item_url] => http://www.24quan.com/team.php?id=485
+                )
+
+            [3] => Array
+                (
+                    [website] => 爱帮团
+                    [siteurl] => http://www.aibangtuan.com/
+                    [city] => 深圳
+                    [title] => 庆深圳特区成立三十周年，让我们一起浪漫吧！仅需82元，可享受原价256元上岛咖啡（福华店）迎中秋精美双人套餐(澳式T骨牛扒一份+香煎贵妃鸡扒一份+蔬菜沙律一份+粟米忌廉汤两份+奶茶两杯或鲜榨西瓜汁两杯)
+                    [image] => http://img6.aibangjuxin.com/pic?picid=f381de0a29b5054e&type=4
+                    [startTime] => 1282838400
+                    [endTime] => 1283097600
+                    [value] => 256.00
+                    [price] => 82.00
+                    [rebate] => 3.2
+                    [bought] => 100
+                    [item_url] => http://tuan.aibang.com/shenzhen/shangdao.html
+                )
+
+            [4] => Array
+                (
+                    [website] => 团宝网
+                    [siteurl] => http://www.groupon.cn/p/?productCityID=23&productid=2009
+                    [city] => 深圳
+                    [title] => 只要88元！原价560元的娇莉芙萃颜坊---专业美容套餐【娇莉芙萃颜坊纯净肌肤护理课程+背部经典气道养生护理】，揭开肌肤暗哑，重塑美丽光采！
+                    [image] => http://www.17tuanbao.com/images/UploadImages/            20108/2009--hao123.jpg
+                    [startTime] => 1282910400
+                    [endTime] => 1283486399
+                    [value] => 560
+                    [price] => 88
+                    [rebate] => 1.6
+                    [bought] => 0
+                    [item_url] => http://www.groupon.cn/p/?productCityID=23&productid=2009
+                )
+
+            [5] => Array
+                (
+                    [website] => 团美网
+                    [siteurl] => http://www.tuanmei.net
+                    [city] => 深圳
+                    [title] => 全网正品最低价！仅售29.9元！ CCTV、湖南卫视等各大媒体宣传推荐，蝉联四年淘宝榜单的“御泥坊”柔白紧致矿物红石榴面膜，内含矿物精华水能强化肌肤的天然防御能力，令肌肤柔白紧致强韧有弹性！一单买两个包邮！
+                    [image] => http://images.tuanmei.net/yunifang0828/yunifang0828-title-mid.jpg
+                    [startTime] => 1282924800
+                    [endTime] => 1283097599
+                    [value] => 39
+                    [price] => 29.9
+                    [rebate] => 7.6
+                    [bought] => 3668
+                    [item_url] => http://www.tuanmei.net/i/deal/yunifang0828.html
+                )
+
+            [6] => Array
+                (
+                    [website] => 阿丫团
+                    [siteurl] => http://www.ayatuan.com
+                    [city] => 深圳
+                    [title] => 仅售5元/3次，原价150元/3次悦舞俱乐部服务项目（每次选择一种）：中国民族舞、肚皮舞、拉丁舞、街舞、爵士舞、瑜伽、少儿舞蹈（小白鸽）+沐浴休闲区花草茶饮品1份！越舞越美丽！
+                    [image] => http://www.ayatuan.com/static/team/2010/0827/12829021069164.jpg
+                    [startTime] => 1282924800
+                    [endTime] => 1283011140
+                    [value] => 150.00
+                    [price] => 5.00
+                    [rebate] => 0.33
+                    [bought] => 237
+                    [item_url] => http://www.ayatuan.com/team.php?id=ler7sx
+                )
+
+            [7] => Array
+                (
+                    [website] => 饭统-饭团
+                    [siteurl] => http://tuan.fantong.com
+                    [city] => 深圳
+                    [title] => 仅需69元，即可享受原价277元上岛咖啡双人套餐，(法式西冷牛扒\什锦海鲜意粉\什锦蔬菜沙律\俄式罗宋汤\上岛咖啡或橙汁\法式面包)中国银行信用卡及搜房网搜房卡用户消费可获精美果盘。
+                    [image] => http://images1.fantong.com/attach/190/medium/111111.jpg
+                    [startTime] => 1282838400
+                    [endTime] => 1283270400
+                    [value] => 277.0
+                    [price] => 69.0
+                    [rebate] => 2.49
+                    [bought] => 29
+                    [item_url] => http://tuan.fantong.com/shenzhen
+                )
+
+        )
+
+    [南京] => Array
+        (
+            [0] => Array
+                (
+                    [website] => 拉手网
+                    [siteurl] => http://www.lashou.com/
+                    [city] => 南京
+                    [title] => 仅售19元！原价96元的苏格餐厅乐翻天套餐1份：原味奶茶+酱香牛腩煲仔饭+桌游全天！邀请好友返利10元
+                    [image] => http://119.161.209.92/lasho_pic/go/00/00/00/40/4097
+                    [startTime] => 1282838400
+                    [endTime] => 1283097600
+                    [value] => 96.00
+                    [price] => 19.00
+                    [bought] => 460
+                    [item_url] => http://www.lashou.com/index.php?id=4097
+                )
+
+            [1] => Array
+                (
+                    [website] => 团美网
+                    [siteurl] => http://www.tuanmei.net
+                    [city] => 南京
+                    [title] => 全网正品最低价！仅售29.9元！ CCTV、湖南卫视等各大媒体宣传推荐，蝉联四年淘宝榜单的“御泥坊”柔白紧致矿物红石榴面膜，内含矿物精华水能强化肌肤的天然防御能力，令肌肤柔白紧致强韧有弹性！一单买两个包邮！
+                    [image] => http://images.tuanmei.net/yunifang0828/yunifang0828-title-mid.jpg
+                    [startTime] => 1282924800
+                    [endTime] => 1283097599
+                    [value] => 39
+                    [price] => 29.9
+                    [rebate] => 7.6
+                    [bought] => 3668
+                    [item_url] => http://www.tuanmei.net/i/deal/yunifang0828.html
+                )
+
+            [2] => Array
+                (
+                    [website] => 嘀嗒团
+                    [siteurl] => http://www.didatuan.com
+                    [city] => 南京
+                    [title] => 仅8元！原价25元的『畅游桌面游戏俱乐部』无限畅玩券（不限游戏时间+不限游戏种类+茶水免费畅饮），每人免费赠送一杯饮料，满四人再赠送一份小吃！体验最流行桌游吧！
+                    [image] => http://www.didatuan.com/static/team/2010/0825/12827322767986.jpg
+                    [startTime] => 1282838400
+                    [endTime] => 1283097600
+                    [value] => 25.00
+                    [price] => 8.00
+                    [rebate] => 3.2
+                    [bought] => 137
+                    [item_url] => http://www.didatuan.com/team.php?id=177
+                )
+
+        )
+
+    [济南] => Array
+        (
+            [0] => Array
+                (
+                    [website] => 拉手网
+                    [siteurl] => http://www.lashou.com/
+                    [city] => 济南
+                    [title] => 仅售20元！原价50元的MIMU咪姆手工烘焙俱乐部DIY手工曲奇饼干一份（约500g/份）！邀请好友返利10元
+                    [image] => http://119.161.209.92/lasho_pic/go/00/00/00/40/4090
+                    [startTime] => 1282752000
+                    [endTime] => 1283011200
+                    [value] => 50.00
+                    [price] => 20.00
+                    [bought] => 342
+                    [item_url] => http://www.lashou.com/index.php?id=4090
+                )
+
+        )
+
+    [南昌] => Array
+        (
+            [0] => Array
+                (
+                    [website] => 拉手网
+                    [siteurl] => http://www.lashou.com/
+                    [city] => 南昌
+                    [title] => 仅售43元！原价85元的汉城馆韩国料理双人套餐一份（烤五花肉+烤香菇+石锅拌饭+泡菜汤+蔬菜沙拉+海鲜葱饼），持拉手券后续消费菜金（不含海鲜，酒水）享受8.5折优惠！邀请好友返利10元！
+                    [image] => http://119.161.209.92/lasho_pic/go/00/00/00/40/4085
+                    [startTime] => 1282752000
+                    [endTime] => 1283011200
+                    [value] => 85.00
+                    [price] => 43.00
+                    [bought] => 336
+                    [item_url] => http://www.lashou.com/index.php?id=4085
+                )
+
+        )
+
+    [青岛] => Array
+        (
+            [0] => Array
+                (
+                    [website] => 拉手网
+                    [siteurl] => http://www.lashou.com/
+                    [city] => 青岛
+                    [title] => 仅售25元！原价50元的当代欢乐城100枚游戏币！邀请好友返利10元
+                    [image] => http://119.161.209.92/lasho_pic/go/00/00/00/40/4074
+                    [startTime] => 1282752000
+                    [endTime] => 1283097600
+                    [value] => 50.00
+                    [price] => 25.00
+                    [bought] => 41
+                    [item_url] => http://www.lashou.com/index.php?id=4074
+                )
+
+            [1] => Array
+                (
+                    [website] => 满座
+                    [siteurl] => http://www.manzuo.com
+                    [city] => 青岛
+                    [title] => 可耐美胶原蛋白超值套装
+                    [image] => http://p0.manzuo.com/505/canami_main.jpg
+                    [startTime] => 1282838400
+                    [endTime] => 1283529599
+                    [value] => 138.0
+                    [price] => 45.0
+                    [rebate] => 3.3
+                    [bought] => 4
+                    [item_url] => http://www.manzuo.com/partner/common__f30LcW9vNIw.htm
+                )
+
+            [2] => Array
+                (
+                    [website] => 团宝网
+                    [siteurl] => http://www.groupon.cn/p/?productCityID=21&productid=1958
+                    [city] => 青岛
+                    [title] => 18元，享雪肤怡人美容套餐（贵妃美白养护或祛痘无痕修护+颈椎理疗+玉颈美白修护+经络疏通减肥+内分泌调理）【原价1080元】
+                    [image] => http://www.17tuanbao.com/images/UploadImages/20108/1958hao123.jpg
+                    [startTime] => 1282737600
+                    [endTime] => 1283227199
+                    [value] => 1080
+                    [price] => 18
+                    [rebate] => .2
+                    [bought] => 47
+                    [item_url] => http://www.groupon.cn/p/?productCityID=21&productid=1958
+                )
+
+            [3] => Array
+                (
+                    [website] => 团美网
+                    [siteurl] => http://www.tuanmei.net
+                    [city] => 青岛
+                    [title] => 全网正品最低价！仅售29.9元！ CCTV、湖南卫视等各大媒体宣传推荐，蝉联四年淘宝榜单的“御泥坊”柔白紧致矿物红石榴面膜，内含矿物精华水能强化肌肤的天然防御能力，令肌肤柔白紧致强韧有弹性！一单买两个包邮！
+                    [image] => http://images.tuanmei.net/yunifang0828/yunifang0828-title-mid.jpg
+                    [startTime] => 1282924800
+                    [endTime] => 1283097599
+                    [value] => 39
+                    [price] => 29.9
+                    [rebate] => 7.6
+                    [bought] => 3668
+                    [item_url] => http://www.tuanmei.net/i/deal/yunifang0828.html
+                )
+
+            [4] => Array
+                (
+                    [website] => 嘀嗒团
+                    [siteurl] => http://www.didatuan.com
+                    [city] => 青岛
+                    [title] => 仅15元，原价48元『喜洋洋老汤火锅』超值单人营养餐（锅底+精品羊肉+秀珍菇+鸡肉丸+扇贝或花蛤+鸭血+豆腐+粉丝+蔬菜等）为您奉上传统美味！邀请好友首次购买返利10元！
+                    [image] => http://www.didatuan.com/static/team/2010/0826/12827924428619.jpg
+                    [startTime] => 1282838400
+                    [endTime] => 1283097600
+                    [value] => 48.00
+                    [price] => 15.00
+                    [rebate] => 3.12
+                    [bought] => 631
+                    [item_url] => http://www.didatuan.com/team.php?id=180
+                )
+
+        )
+
+    [大连] => Array
+        (
+            [0] => Array
+                (
+                    [website] => 拉手网
+                    [siteurl] => http://www.lashou.com/
+                    [city] => 大连
+                    [title] => 仅售178元！原价900元的“大连均宜婚纱摄影工作室”资深摄影师拍摄的豪华摄影套餐一次：资深拍摄+服装造型+照片精修+DVD刻盘+额外赠送！邀请好友返利10元
+                    [image] => http://119.161.209.92/lasho_pic/go/00/00/00/41/4140
+                    [startTime] => 1282924800
+                    [endTime] => 1283270400
+                    [value] => 900.00
+                    [price] => 178.00
+                    [bought] => 9
+                    [item_url] => http://www.lashou.com/index.php?id=4140
+                )
+
+            [1] => Array
+                (
+                    [website] => 团美网
+                    [siteurl] => http://www.tuanmei.net
+                    [city] => 大连
+                    [title] => 全网正品最低价！仅售29.9元！ CCTV、湖南卫视等各大媒体宣传推荐，蝉联四年淘宝榜单的“御泥坊”柔白紧致矿物红石榴面膜，内含矿物精华水能强化肌肤的天然防御能力，令肌肤柔白紧致强韧有弹性！一单买两个包邮！
+                    [image] => http://images.tuanmei.net/yunifang0828/yunifang0828-title-mid.jpg
+                    [startTime] => 1282924800
+                    [endTime] => 1283097599
+                    [value] => 39
+                    [price] => 29.9
+                    [rebate] => 7.6
+                    [bought] => 3668
+                    [item_url] => http://www.tuanmei.net/i/deal/yunifang0828.html
+                )
+
+        )
+
+    [宁波] => Array
+        (
+            [0] => Array
+                (
+                    [website] => 拉手网
+                    [siteurl] => http://www.lashou.com/
+                    [city] => 宁波
+                    [title] => 仅售3.9元！“环球青少儿国际英语”全套8.5折优惠活动+免费试听2节课！
+                    [image] => http://119.161.209.92/lasho_pic/go/00/00/00/41/4119
+                    [startTime] => 1282838400
+                    [endTime] => 1283097600
+                    [value] => 0.00
+                    [price] => 3.90
+                    [bought] => 151
+                    [item_url] => http://www.lashou.com/index.php?id=4119
+                )
+
+        )
+
+    [无锡] => Array
+        (
+            [0] => Array
+                (
+                    [website] => 拉手网
+                    [siteurl] => http://www.lashou.com/
+                    [city] => 无锡
+                    [title] => 仅售28元！原价2229元的新纪家人的美容服务一人次：面部紫蓝雨排毒+面部旋磁提升+眼部旋磁提升+卵巢保养+精油开背/肩颈油压排毒/胸腺理疗(3选1)！邀请好友返利10元
+                    [image] => http://119.161.209.92/lasho_pic/go/00/00/00/41/4115
+                    [startTime] => 1282838400
+                    [endTime] => 1283097600
+                    [value] => 2229.00
+                    [price] => 28.00
+                    [bought] => 220
+                    [item_url] => http://www.lashou.com/index.php?id=4115
+                )
+
+            [1] => Array
+                (
+                    [website] => 阿丫团
+                    [siteurl] => http://www.ayatuan.com
+                    [city] => 无锡
+                    [title] => 仅售30元！华雄美容美发连锁价值200元储金卡阿丫会员独享，锡城九家连锁店通用（两张以上包快递）
+                    [image] => http://www.ayatuan.com/static/team/2010/0826/12828019582065.jpg
+                    [startTime] => 1282838400
+                    [endTime] => 1283097540
+                    [value] => 200.00
+                    [price] => 30.00
+                    [rebate] => 1.50
+                    [bought] => 200
+                    [item_url] => http://www.ayatuan.com/team.php?id=xs3x00
+                )
+
+        )
+
+    [南通] => Array
+        (
+            [0] => Array
+                (
+                    [website] => 拉手网
+                    [siteurl] => http://www.lashou.com/
+                    [city] => 南通
+                    [title] => 仅售19元！原价428元/套的芝麻开门儿童摄影拍摄套餐1份（12岁以下）！邀请好友返利10元
+                    [image] => http://119.161.209.92/lasho_pic/go/00/00/00/41/4135
+                    [startTime] => 1282924800
+                    [endTime] => 1283184000
+                    [value] => 428.00
+                    [price] => 19.00
+                    [bought] => 52
+                    [item_url] => http://www.lashou.com/index.php?id=4135
+                )
+
+        )
+
+    [淄博] => Array
+        (
+            [0] => Array
+                (
+                    [website] => 拉手网
+                    [siteurl] => http://www.lashou.com/
+                    [city] => 淄博
+                    [title] => 仅售55.2元包邮！原价96元的香港bobo幼儿手口湿巾4大包（16小包*25片，共400片）！相当于13.8元一大包，全网最低价！
+                    [image] => http://119.161.209.92/lasho_pic/go/00/00/00/40/4012
+                    [startTime] => 1282492800
+                    [endTime] => 1283097600
+                    [value] => 96.00
+                    [price] => 55.20
+                    [bought] => 12
+                    [item_url] => http://www.lashou.com/index.php?id=4012
+                )
+
+        )
+
+    [葫芦岛] => Array
+        (
+            [0] => Array
+                (
+                    [website] => 拉手网
+                    [siteurl] => http://www.lashou.com/
+                    [city] => 葫芦岛
+                    [title] => 仅售50元！原价104元的“今日皇都”超值优惠套餐一份：鱼锅贴饼一份+川蜀麻蚶子一盘+览菜四季豆一盘！邀请好友返利10元
+                    [image] => http://119.161.209.92/lasho_pic/go/00/00/00/40/4078
+                    [startTime] => 1282752000
+                    [endTime] => 1283356800
+                    [value] => 104.00
+                    [price] => 50.00
+                    [bought] => 0
+                    [item_url] => http://www.lashou.com/index.php?id=4078
+                )
+
+        )
+
+    [锦州] => Array
+        (
+            [0] => Array
+                (
+                    [website] => 拉手网
+                    [siteurl] => http://www.lashou.com/
+                    [city] => 锦州
+                    [title] => 仅售39元！原价150元的好莱坞影楼儿童基础摄影套系一人次：高品质专业数码拍摄50张以上（50选10）+3组造型+3套服装+精选10张7寸照片（并送电子版底片）！邀请好友返利10元
+                    [image] => http://119.161.209.92/lasho_pic/go/00/00/00/40/4089
+                    [startTime] => 1282752000
+                    [endTime] => 1283097600
+                    [value] => 150.00
+                    [price] => 39.00
+                    [bought] => 9
+                    [item_url] => http://www.lashou.com/index.php?id=4089
+                )
+
+        )
+
+    [长沙] => Array
+        (
+            [0] => Array
+                (
+                    [website] => 24券
+                    [siteurl] => http://www.24quan.com
+                    [city] => 长沙
+                    [title] => 仅56元！原价98元百年老店“稻香村”中秋吉庆礼盒装，内含8枚小盒独立包装，长沙市区内免费配送！花好月圆人相聚，好礼相伴度中秋！
+                    [image] => http://www.24quan.com/static/team/2010/0825/12827270256366_thumbnail.jpg
+                    [startTime] => 1282838400
+                    [endTime] => 1283097600
+                    [value] => 98.00
+                    [price] => 56.00
+                    [rebate] => 5.7
+                    [bought] => 647
+                    [item_url] => http://www.24quan.com/team.php?id=483
+                )
+
+        )
+
+    [郑州] => Array
+        (
+            [0] => Array
+                (
+                    [website] => 24券
+                    [siteurl] => http://www.24quan.com
+                    [city] => 郑州
+                    [title] => 仅55元！原价287.20元卡布奇诺美式西餐厅迎中秋特惠套餐（吉列鲭鱼排配墨西哥蔬菜饼1份+美式鲐鱼配芝士烤马铃薯1份+英式忌廉蛤蜊汤1份+美式滋补靓汤1份+火腿起司派饼1份+炸花枝圈1份+英式皇家咖啡或红茶任选2杯）超值诱惑，极致美味！
+                    [image] => http://www.24quan.com/static/team/2010/0824/12826404456124_thumbnail.jpg
+                    [startTime] => 1282838400
+                    [endTime] => 1283097600
+                    [value] => 287.20
+                    [price] => 55.00
+                    [rebate] => 1.9
+                    [bought] => 512
+                    [item_url] => http://www.24quan.com/team.php?id=471
+                )
+
+            [1] => Array
+                (
+                    [website] => 团宝网
+                    [siteurl] => http://www.groupon.cn/p/?productCityID=30&productid=2063
+                    [city] => 郑州
+                    [title] => 超级惊爆价：38元！长风3S美塑馆美胸减肥套餐真情回放：3S排毒减肥2次+淋巴排毒1次+黄金瘦身组合1次+3S美胸1次。打造曲线身材，塑造完美的你，实惠的体验，尽享塑身大餐！【原价1180元，限时抢购中！】
+                    [image] => http://www.17tuanbao.com/images/UploadImages/20108/2063-hao123.jpg
+                    [startTime] => 1282910400
+                    [endTime] => 1283313599
+                    [value] => 1180
+                    [price] => 38
+                    [rebate] => .3
+                    [bought] => 13
+                    [item_url] => http://www.groupon.cn/p/?productCityID=30&productid=2063
+                )
+
+            [2] => Array
+                (
+                    [website] => 团美网
+                    [siteurl] => http://www.tuanmei.net
+                    [city] => 郑州
+                    [title] => 全网正品最低价！仅售29.9元！ CCTV、湖南卫视等各大媒体宣传推荐，蝉联四年淘宝榜单的“御泥坊”柔白紧致矿物红石榴面膜，内含矿物精华水能强化肌肤的天然防御能力，令肌肤柔白紧致强韧有弹性！一单买两个包邮！
+                    [image] => http://images.tuanmei.net/yunifang0828/yunifang0828-title-mid.jpg
+                    [startTime] => 1282924800
+                    [endTime] => 1283097599
+                    [value] => 39
+                    [price] => 29.9
+                    [rebate] => 7.6
+                    [bought] => 3668
+                    [item_url] => http://www.tuanmei.net/i/deal/yunifang0828.html
+                )
+
+        )
+
+    [杭州] => Array
+        (
+            [0] => Array
+                (
+                    [website] => 团美网
+                    [siteurl] => http://www.tuanmei.net
+                    [city] => 杭州
+                    [title] => 全网正品最低价！仅售29.9元！ CCTV、湖南卫视等各大媒体宣传推荐，蝉联四年淘宝榜单的“御泥坊”柔白紧致矿物红石榴面膜，内含矿物精华水能强化肌肤的天然防御能力，令肌肤柔白紧致强韧有弹性！一单买两个包邮！
+                    [image] => http://images.tuanmei.net/yunifang0828/yunifang0828-title-mid.jpg
+                    [startTime] => 1282924800
+                    [endTime] => 1283097599
+                    [value] => 39
+                    [price] => 29.9
+                    [rebate] => 7.6
+                    [bought] => 3668
+                    [item_url] => http://www.tuanmei.net/i/deal/yunifang0828.html
+                )
+
+            [1] => Array
+                (
+                    [website] => 嘀嗒团
+                    [siteurl] => http://www.didatuan.com
+                    [city] => 杭州
+                    [title] => 现98元，原价380元唯伊网热卖倩碧（黄油+美白霜+彩妆）7件套，倩碧专柜2010年最新款限量礼包，含倩碧超明星产品和美国2010年上市新品，100%原装进口正品，购买免运费
+                    [image] => http://www.didatuan.com/static/team/2010/0826/12828014662245.jpg
+                    [startTime] => 1282838400
+                    [endTime] => 1283097600
+                    [value] => 380.00
+                    [price] => 98.00
+                    [rebate] => 2.58
+                    [bought] => 201
+                    [item_url] => http://www.didatuan.com/team.php?id=181
+                )
+
+        )
+
+    [成都] => Array
+        (
+            [0] => Array
+                (
+                    [website] => 团美网
+                    [siteurl] => http://www.tuanmei.net
+                    [city] => 成都
+                    [title] => 全网正品最低价！仅售29.9元！ CCTV、湖南卫视等各大媒体宣传推荐，蝉联四年淘宝榜单的“御泥坊”柔白紧致矿物红石榴面膜，内含矿物精华水能强化肌肤的天然防御能力，令肌肤柔白紧致强韧有弹性！一单买两个包邮！
+                    [image] => http://images.tuanmei.net/yunifang0828/yunifang0828-title-mid.jpg
+                    [startTime] => 1282924800
+                    [endTime] => 1283097599
+                    [value] => 39
+                    [price] => 29.9
+                    [rebate] => 7.6
+                    [bought] => 3668
+                    [item_url] => http://www.tuanmei.net/i/deal/yunifang0828.html
+                )
+
+            [1] => Array
+                (
+                    [website] => 阿丫团
+                    [siteurl] => http://www.ayatuan.com
+                    [city] => 成都
+                    [title] => 阿丫！ 仅售18元！原价200元的秀域健康美容机构中医美白或温俞开背一次（二选一），男女均可！成都65家分店通用！打造健康完美的自己！
+                    [image] => http://www.ayatuan.com/static/team/2010/0826/12828311499171.jpg
+                    [startTime] => 1282838400
+                    [endTime] => 1283097540
+                    [value] => 200.00
+                    [price] => 18.00
+                    [rebate] => 0.90
+                    [bought] => 625
+                    [item_url] => http://www.ayatuan.com/team.php?id=8z6o8t
+                )
+
+            [2] => Array
+                (
+                    [website] => 嘀嗒团
+                    [siteurl] => http://www.didatuan.com
+                    [city] => 成都
+                    [title] => 仅需39.9元！原价153元『碎蝶音乐咖啡』香木林店/兰桂坊店非洲扒鸡超值套餐：餐前包+蔬菜沙拉+玉米浓汤+非洲扒鸡+洋葱圈+三款饮品任选其一（德式红茶/鲜榨橙汁/哥伦比亚咖啡）！
+                    [image] => http://www.didatuan.com/static/team/2010/0826/12828357233245.jpg
+                    [startTime] => 1282838400
+                    [endTime] => 1283097600
+                    [value] => 153.00
+                    [price] => 39.90
+                    [rebate] => 2.61
+                    [bought] => 128
+                    [item_url] => http://www.didatuan.com/team.php?id=187
+                )
+
+        )
+
+    [天津] => Array
+        (
+            [0] => Array
+                (
+                    [website] => 团美网
+                    [siteurl] => http://www.tuanmei.net
+                    [city] => 天津
+                    [title] => 全网正品最低价！仅售29.9元！ CCTV、湖南卫视等各大媒体宣传推荐，蝉联四年淘宝榜单的“御泥坊”柔白紧致矿物红石榴面膜，内含矿物精华水能强化肌肤的天然防御能力，令肌肤柔白紧致强韧有弹性！一单买两个包邮！
+                    [image] => http://images.tuanmei.net/yunifang0828/yunifang0828-title-mid.jpg
+                    [startTime] => 1282924800
+                    [endTime] => 1283097599
+                    [value] => 39
+                    [price] => 29.9
+                    [rebate] => 7.6
+                    [bought] => 3668
+                    [item_url] => http://www.tuanmei.net/i/deal/yunifang0828.html
+                )
+
+            [1] => Array
+                (
+                    [website] => 搜狐爱家团
+                    [siteurl] => http://ihome.sohu.com/tianjin/life/
+                    [image] => http://img1.f.itc.cn/ihome/692/29/77/267x160_6922977.jpg
+                    [city] => 天津
+                    [title] => 现价185元，团购都铎健身俱乐部双月卡200元及周卡120元套餐，185元享受9周无限次健身体验
+                    [startTime] => 1282752000
+                    [endTime] => 1283097600
+                    [value] => 320.00
+                    [price] => 185.00
+                    [rebate] => 5.6
+                    [bought] => 17
+                    [item_url] => http://ihome.sohu.com/tianjin/life/tuan/tjddjs.html
+                )
+
+            [2] => Array
+                (
+                    [website] => 阿丫团
+                    [siteurl] => http://www.ayatuan.com
+                    [city] => 天津
+                    [title] => 仅售48元!原价338元同一首歌量贩KTV(原金永KTV)豪华中、小包房欢唱6小时【周一至周日12：00-02：00任意时段，赠茶水一壶(菊花、茉莉、绿茶)或者苹果汁一扎】每人限购1张,仅限800张!!尽情欢唱,激情不断!!!
+                    [image] => http://www.ayatuan.com/static/team/2010/0827/12828824434486.jpg
+                    [startTime] => 1282924800
+                    [endTime] => 1283183940
+                    [value] => 338.00
+                    [price] => 48.00
+                    [rebate] => 1.42
+                    [bought] => 227
+                    [item_url] => http://www.ayatuan.com/team.php?id=cd5xtv
+                )
+
+        )
+
+    [石家庄] => Array
+        (
+            [0] => Array
+                (
+                    [website] => 团美网
+                    [siteurl] => http://www.tuanmei.net
+                    [city] => 石家庄
+                    [title] => 全网正品最低价！仅售29.9元！ CCTV、湖南卫视等各大媒体宣传推荐，蝉联四年淘宝榜单的“御泥坊”柔白紧致矿物红石榴面膜，内含矿物精华水能强化肌肤的天然防御能力，令肌肤柔白紧致强韧有弹性！一单买两个包邮！
+                    [image] => http://images.tuanmei.net/yunifang0828/yunifang0828-title-mid.jpg
+                    [startTime] => 1282924800
+                    [endTime] => 1283097599
+                    [value] => 39
+                    [price] => 29.9
+                    [rebate] => 7.6
+                    [bought] => 3668
+                    [item_url] => http://www.tuanmei.net/i/deal/yunifang0828.html
+                )
+
+            [1] => Array
+                (
+                    [website] => 饭统-饭团
+                    [siteurl] => http://tuan.fantong.com
+                    [city] => 石家庄
+                    [title] => 探秘“桃中之魁”，仅需预付35元/位，活动价135元/位，纯正深州水蜜桃采摘行加农家火锅席一日游！
+                    [image] => http://images1.fantong.com/attach/197/medium/密桃.gif
+                    [startTime] => 1282924800
+                    [endTime] => 1283184000
+                    [value] => 135.0
+                    [price] => 35.0
+                    [rebate] => 2.59
+                    [bought] => 12
+                    [item_url] => http://tuan.fantong.com/shijiazhuang
+                )
+
+        )
+
+    [重庆] => Array
+        (
+            [0] => Array
+                (
+                    [website] => 团美网
+                    [siteurl] => http://www.tuanmei.net
+                    [city] => 重庆
+                    [title] => 全网正品最低价！仅售29.9元！ CCTV、湖南卫视等各大媒体宣传推荐，蝉联四年淘宝榜单的“御泥坊”柔白紧致矿物红石榴面膜，内含矿物精华水能强化肌肤的天然防御能力，令肌肤柔白紧致强韧有弹性！一单买两个包邮！
+                    [image] => http://images.tuanmei.net/yunifang0828/yunifang0828-title-mid.jpg
+                    [startTime] => 1282924800
+                    [endTime] => 1283097599
+                    [value] => 39
+                    [price] => 29.9
+                    [rebate] => 7.6
+                    [bought] => 3668
+                    [item_url] => http://www.tuanmei.net/i/deal/yunifang0828.html
+                )
+
+        )
+
+    [全国] => Array
+        (
+            [0] => Array
+                (
+                    [website] => 团美网
+                    [siteurl] => http://www.tuanmei.net
+                    [city] => 全国
+                    [title] => 全网正品最低价！仅售29.9元！ CCTV、湖南卫视等各大媒体宣传推荐，蝉联四年淘宝榜单的“御泥坊”柔白紧致矿物红石榴面膜，内含矿物精华水能强化肌肤的天然防御能力，令肌肤柔白紧致强韧有弹性！一单买两个包邮！
+                    [image] => http://images.tuanmei.net/yunifang0828/yunifang0828-title-mid.jpg
+                    [startTime] => 1282924800
+                    [endTime] => 1283097599
+                    [value] => 39
+                    [price] => 29.9
+                    [rebate] => 7.6
+                    [bought] => 3668
+                    [item_url] => http://www.tuanmei.net/i/deal/yunifang0828.html
+                )
+
+            [1] => Array
+                (
+                    [website] => 36团
+                    [siteurl] => http://www.36tuan.com
+                    [city] => 全国
+                    [title] => 团购  团购网 36团 眼霜 万人好评 眼袋救星！2N第二代褪黑药效眼啫喱膏 强力去黑眼圈！大眼袋变靓眼妹就在今天 79元即刻享受~
+                    [image] => http://www.36tuan.com/upload/info/2010/08/27/1282903486867_699.gif
+                    [startTime] => 1282924800
+                    [endTime] => 1283097600
+                    [value] => 198.00
+                    [price] => 79.00
+                    [rebate] => 3.99
+                    [bought] => 1745
+                    [item_url] => http://www.36tuan.com/team.jsp?id=220
+                )
+
+        )
+
+    [] => Array
+        (
+            [0] => Array
+                (
+                    [item_url] => 
+                )
+
+        )
+
+    [新乡] => Array
+        (
+            [0] => Array
+                (
+                    [website] => 饭统-饭团
+                    [siteurl] => http://tuan.fantong.com
+                    [city] => 新乡
+                    [title] => 芳香又袅袅的享受，只为最疼爱的她而准备。108元！尊享3880元欧帝名苑精美女人SPA套餐！
+                    [image] => http://images1.fantong.com/attach/191/medium/SPA副本1.jpg
+                    [startTime] => 1282838400
+                    [endTime] => 1283184000
+                    [value] => 3880.0
+                    [price] => 108.0
+                    [rebate] => 0.28
+                    [bought] => 0
+                    [item_url] => http://tuan.fantong.com/xinxiang
+                )
+
+        )
+
+    [焦作] => Array
+        (
+            [0] => Array
+                (
+                    [website] => 饭统-饭团
+                    [siteurl] => http://tuan.fantong.com
+                    [city] => 焦作
+                    [title] => 仅售46元！原价136元！【红昭天园】天麻火腿鸡超值火锅组合！云南特色滋补、营养美味无与伦比！
+                    [image] => http://images1.fantong.com/attach/176/medium/天麻组合图.jpg
+                    [startTime] => 1282492800
+                    [endTime] => 1282924800
+                    [value] => 136.0
+                    [price] => 46.0
+                    [rebate] => 3.38
+                    [bought] => 28
+                    [item_url] => http://tuan.fantong.com/jiaozuo
+                )
+
+        )
+
+)

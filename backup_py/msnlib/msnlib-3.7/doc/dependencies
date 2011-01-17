@@ -1,0 +1,6 @@
+
+The only thing you need is a working python installation with SSL support
+(most of them have it by default).
+
+Since release 3.0, it requires at least Python 2.2.2 because of SSL support.
+

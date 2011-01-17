@@ -1,0 +1,10 @@
+
+Please, if you are going to submit any patches, use the linux kernel coding
+style (for those which are not familiar with it, it's basically just k&r).
+
+If you haven't, read it from linux/Documentation/CodingStyle; it's an
+excellent doc and everything applies here.
+
+Yeah i'm aware that this is python and not C, but the style idea is the same
+except a few minor things.
+

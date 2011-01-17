@@ -1,0 +1,43 @@
+
+
+package TODO
+* more documentation (client manpages, basic api, etc.)
+* allow installer to detect python location
+	it is a possibility to have special installers for non-unix platforms
+
+msn client TODO
+* be able to use nick with spaces
+	this can cause a lot of damage, is it worthy?
+* line editing
+* make tab completion work with any command besides 'm'
+* handle SIGWINCH for terminal resizes if signals are available
+* colours for the user list
+
+
+Future / In doubt
+-----------------
+(things listed here are either marked to do in some future (because we have to
+wait on some feature becoming popular) or are in doubt of ever being
+implemented at all)
+
+msn client
+* signal handling
+	when the signal module becames popular on distros, we can get rid of
+	the select() ugly stuff for auto-away and re-implement it using
+	alarm() or things like that; add support for SIGWINCH, send syncs
+	often, etc.
+
+
+msn lib 
+* file transfer
+	this is waaaaay below in my priority lists. there are thousand of
+	better ways to do file transfer between two hosts; plus the protocol
+	is even more ugly than the messaging one (yes, it really is)
+* micq integration
+	in a perfect world, this wouldn't even exist and we would have micq
+	talk the msn protocol. so the ideal solution would be to rewrite all
+	this in C and integrate it with micq; probably working in two
+	different levels: one would be the C implementation of this, and the
+	other one micq multiprotocol support, that allows a clean integration
+	with it
+

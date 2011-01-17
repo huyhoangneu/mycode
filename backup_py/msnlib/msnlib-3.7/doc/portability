@@ -1,0 +1,39 @@
+
+The library itself should be portable, as it doesn't contain any specific
+stuff that might have problems, and it has been reported to work under
+different unixes and even under windows.
+
+I tend to code based on posix/sus, but I think it's pretty much generic python
+both the library and the client, specially the former.  I'm almost sure it
+will run unmodified on unix platforms (and the only reason i say 'almost' is
+because i didn't test it myself, but it certanly should).
+
+
+About the text mode client the only thing that is tied to a unix environment
+is the client terminal handling (which requires termios and fcntl modules),
+but it's isolated and has runtime detection, so if you don't have any of these
+modules, or they fail for some reason, the client will fall back to the normal
+behaviour. Also, doing select() on stdin isn't ok for some platforms (windows
+being the most popular one), but it's really safe for unix.
+
+Another thing that might be conflictive for non-unix platforms is that I
+assume the python interpreter is callable using "/usr/bin/env python"; these
+are the closest thing to a standard location on unix boxes. If you need to
+change this, the places are the first line of 'msn', and somewhere inside
+'install'.
+
+The next possible problem (always talking about non-unix platforms) is
+'msnsetup' and the configuration file location; the first one requires bash,
+so if you don't have it, you can just create your own msnrc file based on
+'msnrc.sample'; but the location is assumed to be $HOME/.msn/msnrc, and maybe
+you don't have '$HOME' (or you don't even have environment variables at all),
+in this case you specify the location on the command line, as the first and
+only argument to msn: "msn /path/to/msnrc".
+
+
+If you run it under a different platform, please let me know; specially if you
+had (or have) any problems.
+
+Thanks,
+		Alberto
+

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response code='0' date='2010-08-18T15:26:46+08:00' message='Ok'>
+  <deals>
+    <deal>
+      <id>bjltw</id>
+      <deal_url>http://www.meituan.com/beijing/deal/bjltw.html</deal_url>
+      <title>仅售5元，价值90元的乐淘网网上鞋城年庆优惠券（满150元就可使用+全场通用+专柜正品+免费配送+7天无理由退换货），全国可用！</title>
+      <small_image_url>http://p1.meituan.com/120.76/deal/201008/ltzhutu_0818000927.jpg</small_image_url>
+      <medium_image_url>http://p1.meituan.com/200.121/deal/201008/ltzhutu_0818000927.jpg</medium_image_url>
+      <large_image_url>http://p1.meituan.com/deal/201008/ltzhutu_0818000927.jpg</large_image_url>
+      <division_id>1</division_id>
+      <division_name>北京</division_name>
+      <division_lat>39.904667</division_lat>
+      <division_lng>116.408198</division_lng>
+      <division_timezone>Beijing Time</division_timezone>
+      <division_offset_gmt>288000</division_offset_gmt>
+      <vendor_id>乐淘网</vendor_id>
+      <vendor_name>乐淘网</vendor_name>
+      <vendor_website_url>http://www.letao.com</vendor_website_url>
+      <status>open</status>
+      <start_date>2010-08-18T00:00:00+08:00</start_date>
+      <end_date>2010-08-18T23:59:59+08:00</end_date>
+      <tipped>true</tipped>
+      <tipping_point>100</tipping_point>
+      <tipped_date>2010-08-18T00:09:11+08:00</tipped_date>
+      <sold_out>false</sold_out>
+      <quantity_sold>22771</quantity_sold>
+      <price>5</price>
+      <value>90</value>
+      <discount_amount>85</discount_amount>
+      <discount_percent>0.5折</discount_percent>
+      <areas>
+      </areas>
+      <conditions>
+        <limited_quantity>true</limited_quantity>
+        <minimum_purchase>1</minimum_purchase>
+        <maximum_purchase>5</maximum_purchase>
+        <expiration_date>2010-09-18T23:59:59+08:00</expiration_date>
+        <details>
+          <detail>有效期1个月，截止至2010年9月18日; 购买鞋品满150元即可使用优惠券; 
+每个订单限用一张优惠券; 
+本次优惠券不参与乐淘任何渠道的返利; 
+不可同时享受店内其他优惠; 
+每人限购5张优惠券; </detail>
+        </details>
+      </conditions>
+    </deal>
+    <deal>
+      <id>bjltw</id>
+      <deal_url>http://www.meituan.com/beijing/deal/bjltw.html</deal_url>
+      <title>仅售5元，价值90元的乐淘网网上鞋城年庆优惠券（满150元就可使用+全场通用+专柜正品+免费配送+7天无理由退换货），全国可用！</title>
+      <small_image_url>http://p1.meituan.com/120.76/deal/201008/ltzhutu_0818000927.jpg</small_image_url>
+      <medium_image_url>http://p1.meituan.com/200.121/deal/201008/ltzhutu_0818000927.jpg</medium_image_url>
+      <large_image_url>http://p1.meituan.com/deal/201008/ltzhutu_0818000927.jpg</large_image_url>
+      <division_id>1</division_id>
+      <division_name>北京</division_name>
+      <division_lat>39.904667</division_lat>
+      <division_lng>116.408198</division_lng>
+      <division_timezone>Beijing Time</division_timezone>
+      <division_offset_gmt>288000</division_offset_gmt>
+      <vendor_id>乐淘网</vendor_id>
+      <vendor_name>乐淘网</vendor_name>
+      <vendor_website_url>http://www.letao.com</vendor_website_url>
+      <status>open</status>
+      <start_date>2010-08-18T00:00:00+08:00</start_date>
+      <end_date>2010-08-18T23:59:59+08:00</end_date>
+      <tipped>true</tipped>
+      <tipping_point>100</tipping_point>
+      <tipped_date>2010-08-18T00:09:11+08:00</tipped_date>
+      <sold_out>false</sold_out>
+      <quantity_sold>22771</quantity_sold>
+      <price>5</price>
+      <value>90</value>
+      <discount_amount>85</discount_amount>
+      <discount_percent>0.5折</discount_percent>
+      <areas>
+      </areas>
+      <conditions>
+        <limited_quantity>true</limited_quantity>
+        <minimum_purchase>1</minimum_purchase>
+        <maximum_purchase>5</maximum_purchase>
+        <expiration_date>2010-09-18T23:59:59+08:00</expiration_date>
+        <details>
+          <detail>有效期1个月，截止至2010年9月18日; 购买鞋品满150元即可使用优惠券; 
+每个订单限用一张优惠券; 
+本次优惠券不参与乐淘任何渠道的返利; 
+不可同时享受店内其他优惠; 
+每人限购5张优惠券; </detail>
+        </details>
+      </conditions>
+    </deal>
+  </deals>
+</response>

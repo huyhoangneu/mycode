@@ -1,0 +1,20 @@
+
+The msn client, from release D5, supports different profiles.
+
+What this means is that now you can have several configurations under the same
+unix user in a very simple way.
+
+Just create a profile like you normally create your configuration, telling the
+setup the profile name, like:
+
+msnsetup profilename
+
+
+Then, to run msn under an specific profile, do:
+
+msn profilename
+
+and you're done.
+
+
+

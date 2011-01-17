@@ -1,0 +1,122 @@
+
+* What are the 'Message for NNN queued for delivery' and 'Flushing messages
+	to...' and what do they do?
+
+When you send a message to someone, the client has to open a connection first;
+as this takes time, the message is put in a queue until the connection is
+ready, and then they are sent.
+The 'Message for NNN queued for delivery' tells you that the message has been
+queued, then, a connection is tried to establish, and once this is done, the
+messages in the queue are sent, and you are told with 'Flushing messages
+to...'.
+The connection is not done for every message, so you don't see this every
+time, but usually only once for the first message.
+
+
+* What's the meaning of 'User NNN is typing' and why only appears once?
+
+Those are special messages telling you that the user 'NNN' is typing a
+message, and are sent by the client. Note that this msn client does _not_ send
+these messages.
+You only see them one because they are usually sent every 5 seconds, which
+makes them highly annoying, so the client only displays one. If you want to
+know the last time one of these messages was sent, you can do it using the
+'info' command.
+
+
+* How does tab completion work?
+
+At this moment, it's simple and very basic: you can cycle through the person
+who last you received a message from, and the one you last sent one to.
+Note that this cycling only works when the commandline is empty, or when you
+have previosuly tabbed.
+
+
+* How does auto-away work?
+
+It's quite simple: you configure it in your msnrc file, using a line like
+'auto away = SECS' where SECS is the number of seconds after that, if you
+didn't type anything, you're automatically set to away.
+Then, when you come back and type, your status is automatically changed back
+to online.
+Note that this will work only when your status is online, because if i'm
+'busy' i don't want it going back to away =)
+
+
+* Where are my log files, and what's the format to read them?
+
+The log files are kept by default in $HOME/.msn/history, but it can be changed
+using the 'history directory' option in your msnrc file.
+The format is described in doc/log_format.
+
+
+* What are the different ways of sending messages?
+
+You have three basic commands for sending messages:
+The first one is 'm' (or its alias, 'msg'), which takes a nick or an email as
+a parameter, and sends a message to that person. This is what tab completion
+types for you.
+The other two are the 'a' and 'r' messages; 'a' sends a message to the last
+person you sent a message to; and 'r' replies a message to the last person you
+received a message from.
+
+
+* What's the reverse contact list?
+
+It's simply the list of all the people who have you on their contact list. You
+can see it with the 'wr' command.
+
+
+* How do the privacy option work? What is it for?
+
+The privacy option lets you set if you want people to ask you for
+authorization to add you (i never implemented user authorization, so i have no
+idea about how or if this works), and to block messages from people which are
+not on your list. This is all done by the server so no permanent configuration
+is needed.
+
+The command is called 'privacy', and has two parameters, called 'a' and 'p';
+which are set to 1 (yes) or 0 (no), and come from 'Authorization' and
+'Privacy', the two policies we just talked about'.
+
+So, if you don't want to receive messages from people which are not on your
+list, but you want people to add you without any authorization, the command
+would be 'privacy 0 1'.
+
+
+* Is there a way of enabling debugging without it getting in the middle of my
+	session?
+
+Sure, just run "msn 2> msn.debug.output"; it will redirect stderr (where debug
+messages go) to the file called 'msn.debug.output'. Remember to enable
+debugging too, using either the 'debug' command or adding 'debug = yes' to the
+msnrc file.
+
+
+* Why does the contact list has this weird order?
+
+The order in the contact list is given by the email addresses, which obviously
+has no reference whatsoever to the nicks; so even if it looks unsorted, you
+notice an alphabetic sort quite clearly when you do 'ww'.
+
+
+* I get 'Main socket closed' followed by a strange error everyonce in a while
+
+Output sample:
+	[msn] status invisible
+	Status changed to: invisible
+	[msn]
+	Main socket closed ((104, 'Connection reset by peer'))
+	Closing
+	; 
+
+This happens when some unexpected network error occurs. It depends highly on
+the error, but most of the times it's because the MSN server has closed our
+main connection without reason, or our internet connection just dropped. There
+isn't much we can do about it; we could reconnect and that's on the TODO list.
+But if you get these errors normally, after checking your internet connection
+(it could be just that) please send me the error report (a copy/paste of the
+output would be just fine).
+
+
+

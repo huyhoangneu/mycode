@@ -1,0 +1,128 @@
+This is a description of the protocol used by msncd.
+
+It is still in an experimental stage as only few people dared to try it; if
+you do please let me know by sending a message to the mailing list.
+
+
+Add user:
+->	ADD nick email\n
+
+Delete user:
+->	DEL email\n
+
+Change our nick:
+->	NICK newnick\n
+
+Change the privacy behaviour:
+->	PRIV p a\n
+
+Change our status:
+->	STATUS newstatus\n
+
+Log in:
+->	LOGIN email password\n
+
+Log off:
+->	LOGOFF\n
+
+Info requests:
+->	INFO email\n
+<-	AttributeA = ValueA\n
+<-	AttributeB = ValueB\n
+<-	...
+<-	\n
+
+Send message:
+->	SENDMSG number_of_lines email\n
+->	line1\n
+->	line2\n
+->	...
+->	lineN\n
+
+Poll for events:
+->	POLL\n
+	(begin to send first message)
+<-	MSG number_of_lines end_of_header src_email\n
+<-	line1\n
+<-	line2\n
+<-	...
+<-	lineN\n
+	(and repeat for number_of_messages)
+	(then send status changes)
+<-	STCH email newstatus [number_of_messages_discarded]\n
+	(a user has added us)
+<-	UADD email\n
+	(a user has deleted us)
+<-	UDEL email\n
+	(a user was added)
+<-	ADDFL email\n
+	(a user was deleted)
+<-	DELFL email\n
+	(flushed messages)
+	MFLUSH email\n
+	(typing notifications)
+	TYPING email\n
+	(a socket was closed, type is either 'MAIN' or 'USER')
+	SCLOSE type [email number_of_messages_discarded]\n
+	(unexpected errors)
+<-	ERR code description\n
+	(finally, end the poll)
+<-	POLLEND\n
+
+Get contact list:
+->	GETCL\n
+<-	CL number_of_contacts\n
+<-	status1 email1 nick1\n
+<-	status2 email2 nick2\n
+<-	...
+<-	statusN emailN nickN\n
+
+Get reverse contact list:
+->	GETRCL\n
+	(same behaviour as GETCL)
+
+
+And I think that'd be pretty much it. Anyway, it's easily extensible.
+
+Note that:
+ * In most places, email can be exchanged with the url-encoded nick. The
+	server _always_ replies using the email
+ * The 'server' (that is, the real client, that reads from the pipe) responses
+	an 'OK\n' for most commands, or 'ERR description\n'; here they are
+	ommited for brevity.
+ * If considered necesary, a timestamp could be sent before some responses to
+	indicate time. I'm not sure about this, because polling often (like
+	250ms) has enough granularity and it doesn't represent any load, so we
+	could just avoid the overhead. Even with 1s poll time, there are no
+	problems regarding times.
+ * New pollable stuff could also be added later (files, for instance). Poll
+	responses can come in any order.
+ * This is syncronous and events get queued on the server side. Server _never_
+	issues a pipe write without a request, that's what we have POLL for.
+	This avoid a huge load of races, and the client code to avoid them.
+ * Unexpected errors also come out from POLL, specially the network ones that
+	tend to be quite async to everything else.
+
+
+So now, we start offline and then, on 'LOGIN' we connect and after we log in,
+the 'OK' response is sent. Then the client changes the status to whatever he
+wants, for instance with 'STATUS away'.
+
+The client will mostly like do a GETCL and GETRCL after that, and then start
+polling for events, which now becomes the common path. This is very efficient
+when no new events are pending (again, the common case), just:
+->	POLL\n
+<-	POLLEND\n
+
+Disconnect is as simple as 'LOGOFF'. Note that this is not the same as
+'STATUS offline', as the former closes everything and returns to the initial
+state.
+
+Much simpler than everything else (remember that most other stablished
+protocols require to have a library, a python binding and so on), it can be
+implemented quite fast in any language, and it's simple and efficient.
+
+No connection or user tracking is required on the client, no state machines,
+nothing. Just a frontend for a text protocol.
+
+

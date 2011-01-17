@@ -1,0 +1,1463 @@
+Array
+(
+    [北京] => Array
+        (
+            [0] => Array
+                (
+                    [website] => 美团
+                    [siteurl] => http://www.meituan.com/beijing
+                    [city] => 北京
+                    [title] => 仅售5元，价值90元的乐淘网网上鞋城年庆优惠券（满150元就可使用+全场通用+专柜正品+免费配送+7天无理由退换货），全国可用！
+                    [image] => http://p1.meituan.com/275.168/deal/201008/ltzhutu_0818000927.jpg
+                    [startTime] => 1282060800
+                    [endTime] => 1282147199
+                    [value] => 90//原价
+                    [price] => 5//价格
+                    [rebate] => 0.5//折扣
+                    [bought] => 22136//订购人数
+                    [item_url] => http://www.meituan.com/beijing/deal/bjltw.html
+                )
+
+            [1] => Array
+                (
+                    [website] => 糯米
+                    [siteurl] => http://www.nuomi.com
+                    [city] => 北京
+                    [title] => 2.2折起『柏梦源』两款华丽美甲套餐！45元套餐：OPI手部护理+OPI彩油+OPI快干+精美饰品（原价190元）119元套餐：OPI手部护理+炫彩光疗甲+施华洛世奇水晶+饰品（原价550元）
+                    [image] => http://static.nuomi.com/upload/2010/08-17/1282041493-829.jpg
+                    [startTime] => 1282060800
+                    [endTime] => 1282147200
+                    [value] => 190.0
+                    [price] => 45.0
+                    [rebate] => 2.4
+                    [bought] => 539
+                    [item_url] => http://www.nuomi.com/bomengyuan.html
+                )
+
+            [2] => Array
+                (
+                    [website] => 拉手
+                    [siteurl] => http://www.lashou.com/beijing
+                    [city] => 北京
+                    [title] => 仅售178元！原价392元的“和中堂”中堂演义双人套餐（130分钟）：中堂足疗70分钟×2人 + 中堂指压60分钟×2人！邀请好友返利10元
+                    [image] => http://img3.lashou.com/lasho_pic/go/00/00/00/37/3726
+                    [startTime] => 1282060800
+                    [endTime] => 1282147200
+                    [value] => 392.00
+                    [price] => 178.00
+                    [rebate] => 4.5
+                    [bought] => 378
+                    [item_url] => http://www.lashou.com/?id=3726
+                )
+
+            [3] => Array
+                (
+                    [website] => 爱帮团
+                    [siteurl] => http://www.aibangtuan.com/
+                    [city] => 北京
+                    [title] => 仅36元！原价1180元的沐田纤体美容美体护理套餐：极致水润面部护肤+肩颈疏通按摩(或闻香推背)+纤曌塑形瘦身，全程约130分钟（苏州桥、国贸、崇文门三店通用），呵护你的容颜、关爱你的心灵，让你由内至外充满生机、神采飞扬
+                    [image] => http://img6.aibangjuxin.com/pic?picid=9409901e4228ebeb&type=4
+                    [startTime] => 1282060800
+                    [endTime] => 1282147200
+                    [value] => 1180.00
+                    [price] => 36.00
+                    [rebate] => 0.3
+                    [bought] => 1550
+                    [item_url] => http://tuan.aibang.com/beijing/mutianxianti.html
+                )
+
+            [4] => Array
+                (
+                    [website] => 满座
+                    [siteurl] => http://www.manzuo.com
+                    [city] => 北京
+                    [title] => 仅98元！享原价384元旬鲜胶原蛋白火锅双人套餐：四荤五素+锅底+小料+主食+饮料，更多优惠，更多选择！严选当季最新鲜食材，可以吃的胶原蛋白，引领台湾养生新风潮
+                    [image] => http://p0.manzuo.com/458/xunxian_hao123.jpg
+                    [startTime] => 1282060800
+                    [endTime] => 1282406399
+                    [value] => 384.0
+                    [price] => 98.0
+                    [rebate] => 2.6
+                    [bought] => 524
+                    [item_url] => http://www.manzuo.com/partner/hao123__mJaI90QzmF4.htm
+                )
+
+            [5] => Array
+                (
+                    [website] => 58团购
+                    [siteurl] => http://t.58.com
+                    [city] => 北京
+                    [title] => 暑期末班车启程啦！58元欢享中国木偶剧院180元演出票1张+66元七彩蝶园门票1张：《喜羊羊与灰太狼》、《武林外传之小贝当家》等经典木偶剧随心看，还可捉蝴蝶拾童趣或华夏功夫馆健康体验！好礼多多团，为讨好你想到的宝宝冲刺吧！邀好友获返利
+                    [image] => http://pic.58.com/groupbuy/original/n_5075251291140.jpg
+                    [startTime] => 1282060800
+                    [endTime] => 1282147200
+                    [value] => 180
+                    [price] => 58
+                    [rebate] => 3.2
+                    [bought] => 1287
+                    [item_url] => http://t.58.com/source/hao123?returnurl=http://t.58.com/bj/94
+                )
+
+            [6] => Array
+                (
+                    [website] => 团美网
+                    [siteurl] => http://www.tuanmei.net
+                    [city] => 全国
+                    [title] => 第五次开团！159元抢购！原价395的伊丽莎白雅顿眼部时空复合胶囊，自己和妈妈都能用的眼部护理王牌！买两个或更多就包邮！
+                    [image] => http://images.tuanmei.net/ardentime0818/ardentime0818-title-mid.jpg
+                    [startTime] => 1282060800
+                    [endTime] => 1282147199
+                    [value] => 395
+                    [price] => 159
+                    [rebate] => 4.0
+                    [bought] => 1143
+                    [item_url] => http://www.tuanmei.net/i/deal/ardentime0818.html
+                )
+
+            [7] => Array
+                (
+                    [website] => 饭统-饭团
+                    [siteurl] => http://tuan.fantong.com
+                    [city] => 北京
+                    [title] => 是谁绑架了你的健康？让美味素食调理我们的肠胃吧！仅售59元！十号庄园超值素食套餐，绿色低碳环保，享受健康生活！原价294元！
+                    [image] => http://images1.fantong.com/attach/163/medium/440x260.jpg
+                    [startTime] => 1282060800
+                    [endTime] => 1282147200
+                    [value] => 294.0
+                    [price] => 59.0
+                    [rebate] => 2.01
+                    [bought] => 611
+                    [item_url] => http://tuan.fantong.com/beijing
+                )
+
+            [8] => Array
+                (
+                    [website] => yoka团购
+                    [siteurl] => http://tuan.yoka.com/?f=hao123
+                    [city] => 北京
+                    [title] => 惊爆价55元！原价112元TONYMOLY西红柿氧气亮白面膜(70g) y鸡蛋去黑头（紧致毛孔）啫喱（30ML）两重惊喜，花样男子金贤重倾力代言 韩国超人气新鲜直送 （全国免运费）
+                    [image] => http://images.yoka.com/pic/tuan/TonyM_300x180.jpg
+                    [startTime] => 1282111200
+                    [endTime] => 1282723200
+                    [value] => 112
+                    [price] => 55
+                    [rebate] => 4.91
+                    [bought] => 49
+                    [item_url] => http://tuan.yoka.com/274/?f=hao123
+                )
+
+            [9] => Array
+                (
+                    [website] => 窝窝团
+                    [siteurl] => http://www.55tuan.com
+                    [city] => 北京
+                    [title] => 仅49.9元~！原价160元的唯伊商城Neutrogena露得清身体清凉30倍防晒喷雾141.5g
+                    [image] => http://www.55tuan.com/images/201008/goods_img/165_G_1282035997548.jpg
+                    [startTime] => 1282060800
+                    [endTime] => 1282492800
+                    [value] => 160.00
+                    [price] => 49.90
+                    [rebate] => 3.1
+                    [bought] => 277
+                    [item_url] => http://www.55tuan.com/tuan-151
+                )
+
+            [10] => Array
+                (
+                    [website] => 24券
+                    [siteurl] => http://www.24quan.com
+                    [city] => 北京
+                    [title] => 仅1元！北京12家米奇专卖店所有正价商品7.5折优惠，到店消费后另可+19元换购原价58元购物袋，+69元换购218元背包。疯狂折扣，超值换购！
+                    [image] => http://www.24quan.com/static/team/2010/0816/12819545917517_thumbnail.jpg
+                    [startTime] => 1282060800
+                    [endTime] => 1282233600
+                    [value] => 10.00
+                    [price] => 1.00
+                    [rebate] => 1.0
+                    [bought] => 796
+                    [item_url] => http://www.24quan.com/team.php?id=427
+                )
+
+            [11] => Array
+                (
+                    [website] => F团
+                    [siteurl] => http://www.ftuan.com/city.php?enname=bjcy
+                    [city] => 北京
+                    [title] => 仅49元！原价976元的史三八医疗美容医院“面部果酸护理”服务！向面部色斑、多油、毛孔粗大、痤疮、粉刺说BYE BYE！
+                    [image] => http://www.ftuan.com/static/team/2010/0818/12820941562127.jpg
+                    [startTime] => 1282060800
+                    [endTime] => 1282147199
+                    [value] => 976
+                    [price] => 49
+                    [rebate] => 0.5
+                    [bought] => 263
+                    [item_url] => http://www.ftuan.com/team.php?id=216
+                )
+
+            [12] => Array
+                (
+                    [website] => 团酷
+                    [siteurl] => http://www.tuanku.com
+                    [city] => 北京
+                    [title] => 惊爆价0.9折！仅售89元，原价1028元进巍美甲（蓝堡国际中心店）极致炫彩本甲光疗套餐（精致基础手部护理、双色本甲光疗、施华洛世奇精品美钻或炫花）+指缘营养油一份+100元代金券，另赠5折秋冬手足极致保湿护理VIP卡一张
+                    [image] => http://img.tuanku.com/sites/default/files/images/imagecache/hao123/Jinweinailartki.jpg
+                    [startTime] => 1282060800
+                    [endTime] => 1282319940
+                    [value] => 1028
+                    [price] => 89
+                    [rebate] => 0.9
+                    [bought] => 268
+                    [item_url] => http://www.tuanku.com/node/548
+                )
+
+            [13] => Array
+                (
+                    [website] => 酷团
+                    [siteurl] => http://www.kutuan.com
+                    [city] => 北京
+                    [title] => 两套仅售 28 元（北京包邮），“正元合谷”十二花香系列“野生洋槐蜂蜜+野生蜂花粉”小套装，原价60元。给您天然的美丽！
+                    [image] => http://file.kutuan.com/tuangou/12/main.jpg
+                    [startTime] => 1282060800
+                    [endTime] => 1282147199
+                    [value] => 60.00
+                    [price] => 28.00
+                    [rebate] => 4.6
+                    [bought] => 198
+                    [item_url] => http://www.kutuan.com/tuangou/show/code/12
+                )
+
+            [14] => Array
+                (
+                    [website] => 搜狐爱家团
+                    [siteurl] => http://ihome.sohu.com/beijing/life/
+                    [image] => http://img1.f.itc.cn/ihome/651/7/95/6510795.jpg
+                    [city] => 北京
+                    [title] => 仅需158元！爱家团购原价258元的稻香村“尊贵礼”礼盒月饼，为您节省100元！佳节馈赠饼中极品，月圆见证品质尊贵~北京地区包邮！
+                    [startTime] => 1282060800
+                    [endTime] => 1282233600
+                    [value] => 258.00
+                    [price] => 158.00
+                    [rebate] => 6
+                    [bought] => 157
+                    [item_url] => http://ihome.sohu.com/beijing/life/tuan/zunguili.html
+                )
+
+            [15] => Array
+                (
+                    [website] => 新浪团
+                    [siteurl] => http://life.sina.com.cn/tuan/beijing
+                    [city] => 北京
+                    [title] => 仅19.9元！尊享原价94元好伦哥精品休闲餐，8吋比萨（好伦哥豪华/印第安人/佛罗里达/阳光海岸/乡村气息/夏威夷任选其一）+好伦哥招牌鸡翅+洋葱圈+薯条+水果沙拉+台湾高雄海之冰+冰饮2杯。
+                    [image] => http://cache.mars.sina.com.cn/nd/chake/42/36/4236aa27321c9de6db3c48cc30bea9eb.jpg
+                    [startTime] => 1282094624
+                    [endTime] => 1282147199
+                    [value] => 94
+                    [price] => 19.9
+                    [rebate] => 2.1
+                    [bought] => 1058
+                    [item_url] => http://life.sina.com.cn/tuan/r/gAFaH9I6M9SA-ARxtZjA1NrT3J6
+                )
+
+            [16] => Array
+                (
+                    [website] => 36团
+                    [siteurl] => http://www.36tuan.com
+                    [city] => 全国
+                    [title] => 团购  团购网 36团 洗面奶 155元抢购！无惧岁月洗礼 全方位美肌，殿堂级“美肤泥浆”——贝佳斯“蓝海新生美肤泥浆膜”。于2010年8月全新亮相。
+                    [image] => http://www.36tuan.com/upload/info/2010/08/17/1282031282810_394.jpg
+                    [startTime] => 1282060800
+                    [endTime] => 1282147200
+                    [value] => 280.00
+                    [price] => 155.00
+                    [rebate] => 5.54
+                    [bought] => 1420
+                    [item_url] => http://www.36tuan.com/team.jsp?id=190
+                )
+
+        )
+
+    [上海] => Array
+        (
+            [0] => Array
+                (
+                    [website] => 美团
+                    [siteurl] => http://www.meituan.com/shanghai
+                    [city] => 上海
+                    [title] => 仅售5元，价值90元的乐淘网网上鞋城年庆优惠券（满150元就可使用+全场通用+专柜正品+免费配送+7天无理由退换货），全国可用！
+                    [image] => http://p1.meituan.com/275.168/deal/201008/ltzhutu_v2.jpg
+                    [startTime] => 1282060800
+                    [endTime] => 1282147199
+                    [value] => 90
+                    [price] => 5
+                    [rebate] => 0.5
+                    [bought] => 22136
+                    [item_url] => http://www.meituan.com/shanghai/deal/shltw.html
+                )
+
+            [1] => Array
+                (
+                    [website] => 拉手
+                    [siteurl] => http://www.lashou.com/shanghai
+                    [city] => 上海
+                    [title] => 仅售58元！原价148元的华夏良子养生会馆（翔殷路店/曲阳路店/国顺东路店 3店通用）的养生系列“生命之禅”套餐（110分钟）！邀请好友返利10元
+                    [image] => http://img3.lashou.com/lasho_pic/go/00/00/00/36/3692
+                    [startTime] => 1282060800
+                    [endTime] => 1282147200
+                    [value] => 148.00
+                    [price] => 58.00
+                    [rebate] => 3.9
+                    [bought] => 760
+                    [item_url] => http://www.lashou.com/?id=3692
+                )
+
+            [2] => Array
+                (
+                    [website] => 满座
+                    [siteurl] => http://www.manzuo.com
+                    [city] => 上海
+                    [title] => 仅98元！享原价470元和彩夏日情人套餐（前菜二品+夏季和彩刺身拼盘+和彩寿司拼盘+铁板鹅肝蛋盅+日式炸鸡排+精美特色饮品）品和味追求，享彩夏浪漫，你绝不可错过的“和彩”之约
+                    [image] => http://p0.manzuo.com/460/wasai_hao123.jpg
+                    [startTime] => 1282060800
+                    [endTime] => 1282406399
+                    [value] => 470.0
+                    [price] => 98.0
+                    [rebate] => 2.1
+                    [bought] => 395
+                    [item_url] => http://www.manzuo.com/partner/hao123__Hc2eq0Sp22E.htm
+                )
+
+            [3] => Array
+                (
+                    [website] => 团美网
+                    [siteurl] => http://www.tuanmei.net
+                    [city] => 全国
+                    [title] => 第五次开团！159元抢购！原价395的伊丽莎白雅顿眼部时空复合胶囊，自己和妈妈都能用的眼部护理王牌！买两个或更多就包邮！
+                    [image] => http://images.tuanmei.net/ardentime0818/ardentime0818-title-mid.jpg
+                    [startTime] => 1282060800
+                    [endTime] => 1282147199
+                    [value] => 395
+                    [price] => 159
+                    [rebate] => 4.0
+                    [bought] => 1143
+                    [item_url] => http://www.tuanmei.net/i/deal/ardentime0818.html
+                )
+
+            [4] => Array
+                (
+                    [website] => 饭统-饭团
+                    [siteurl] => http://tuan.fantong.com
+                    [city] => 上海
+                    [title] => 仅售98元！品尝正宗潮汕美味！广东省唯一入选世博会的中华名小吃！星爷秘传食神撒尿牛丸与潮汕第一鲜的完美组合！吃到唪唪声！另有功夫茶表演可供欣赏！（牛肉丸、鲍鱼海鲜粥、杂鱼鼎、苦瓜煲、萝卜糕、功夫茶）夏日养生套餐原价316元。
+                    [image] => http://images1.fantong.com/attach/162/medium/440-300.jpg
+                    [startTime] => 1281974400
+                    [endTime] => 1282233600
+                    [value] => 316.0
+                    [price] => 98.0
+                    [rebate] => 3.10
+                    [bought] => 96
+                    [item_url] => http://tuan.fantong.com/shanghai
+                )
+
+            [5] => Array
+                (
+                    [website] => 窝窝团
+                    [siteurl] => http://www.55tuan.com
+                    [city] => 上海
+                    [title] => 仅49.9元~！原价160元的唯伊商城Neutrogena露得清身体清凉30倍防晒喷雾141.5g
+                    [image] => http://www.55tuan.com/images/201008/goods_img/167_G_1282036303464.jpg
+                    [startTime] => 1282060800
+                    [endTime] => 1282492800
+                    [value] => 160.00
+                    [price] => 49.90
+                    [rebate] => 3.1
+                    [bought] => 119
+                    [item_url] => http://www.55tuan.com/tuan-152
+                )
+
+            [6] => Array
+                (
+                    [website] => 24券
+                    [siteurl] => http://www.24quan.com
+                    [city] => 上海
+                    [title] => 仅18元！原价800元贝倚星级水疗生活馆美容护理套餐一次（DNA深层清洁面部护理一次+手部蜜蜡护理一次），全程80分钟，三店通用，限时特惠体验，仅限女性！洗出属于您的美丽！
+                    [image] => http://www.24quan.com/static/team/2010/0816/12819475284001_thumbnail.jpg
+                    [startTime] => 1282060800
+                    [endTime] => 1282320000
+                    [value] => 800.00
+                    [price] => 18.00
+                    [rebate] => 0.2
+                    [bought] => 972
+                    [item_url] => http://www.24quan.com/team.php?id=422
+                )
+
+            [7] => Array
+                (
+                    [website] => F团
+                    [siteurl] => http://www.ftuan.com/city.php?enname=shanghai
+                    [city] => 上海
+                    [title] => 仅26元！原价40元的大地数字影院（大华路店）电影兑换券1张！邀请好友首次购买成功，您将获10F币返还！
+                    [image] => http://www.ftuan.com/static/team/2010/0817/12820376021544.jpg
+                    [startTime] => 1282060800
+                    [endTime] => 1282147199
+                    [value] => 40
+                    [price] => 26
+                    [rebate] => 6.5
+                    [bought] => 96
+                    [item_url] => http://www.ftuan.com/team.php?id=214
+                )
+
+            [8] => Array
+                (
+                    [website] => 36团
+                    [siteurl] => http://www.36tuan.com
+                    [city] => 全国
+                    [title] => 团购  团购网 36团 洗面奶 155元抢购！无惧岁月洗礼 全方位美肌，殿堂级“美肤泥浆”——贝佳斯“蓝海新生美肤泥浆膜”。于2010年8月全新亮相。
+                    [image] => http://www.36tuan.com/upload/info/2010/08/17/1282031282810_394.jpg
+                    [startTime] => 1282060800
+                    [endTime] => 1282147200
+                    [value] => 280.00
+                    [price] => 155.00
+                    [rebate] => 5.54
+                    [bought] => 1420
+                    [item_url] => http://www.36tuan.com/team.jsp?id=190
+                )
+
+        )
+
+    [广州] => Array
+        (
+            [0] => Array
+                (
+                    [website] => 美团
+                    [siteurl] => http://www.meituan.com/guangzhou
+                    [city] => 广州
+                    [title] => 仅售5元，价值90元的乐淘网网上鞋城年庆优惠券（满150元就可使用+全场通用+专柜正品+免费配送+7天无理由退换货），全国可用！
+                    [image] => http://p0.meituan.com/275.168/deal/201008/ltzhutu_0818000940.jpg
+                    [startTime] => 1282060800
+                    [endTime] => 1282147199
+                    [value] => 90
+                    [price] => 5
+                    [rebate] => 0.5
+                    [bought] => 22136
+                    [item_url] => http://www.meituan.com/guangzhou/deal/gzltw.html
+                )
+
+            [1] => Array
+                (
+                    [website] => 拉手
+                    [siteurl] => http://www.lashou.com/guangzhou
+                    [city] => 广州
+                    [title] => 仅售48元！原价204元的名堂舍冷热饮品店欢乐套餐1份：牛柳+鸡扒+德国培根披萨9寸+法兰西多士+吉列多春鱼+夏威夷沙律+香蕉雪糕船+茶饮品2杯！邀请好友返利10元
+                    [image] => http://img3.lashou.com/lasho_pic/go/00/00/00/37/3724
+                    [startTime] => 1282060800
+                    [endTime] => 1282147200
+                    [value] => 204.00
+                    [price] => 48.00
+                    [rebate] => 2.4
+                    [bought] => 862
+                    [item_url] => http://www.lashou.com/?id=3724
+                )
+
+            [2] => Array
+                (
+                    [website] => 团美网
+                    [siteurl] => http://www.tuanmei.net
+                    [city] => 全国
+                    [title] => 第五次开团！159元抢购！原价395的伊丽莎白雅顿眼部时空复合胶囊，自己和妈妈都能用的眼部护理王牌！买两个或更多就包邮！
+                    [image] => http://images.tuanmei.net/ardentime0818/ardentime0818-title-mid.jpg
+                    [startTime] => 1282060800
+                    [endTime] => 1282147199
+                    [value] => 395
+                    [price] => 159
+                    [rebate] => 4.0
+                    [bought] => 1143
+                    [item_url] => http://www.tuanmei.net/i/deal/ardentime0818.html
+                )
+
+            [3] => Array
+                (
+                    [website] => 饭统-饭团
+                    [siteurl] => http://tuan.fantong.com
+                    [city] => 广州
+                    [title] => 精致日本料理奢华双人宴！原价841元，饭团劲爆抢购价仅168元！！以最低的价格享受最极致最纯正的料理奢华！
+                    [image] => http://images1.fantong.com/attach/167/medium/ffff1.jpg
+                    [startTime] => 1282063500
+                    [endTime] => 1282233600
+                    [value] => 841.0
+                    [price] => 168.0
+                    [rebate] => 2.00
+                    [bought] => 86
+                    [item_url] => http://tuan.fantong.com/guangzhou
+                )
+
+            [4] => Array
+                (
+                    [website] => 窝窝团
+                    [siteurl] => http://www.55tuan.com
+                    [city] => 广州
+                    [title] => 仅49.9元~！原价160的唯伊商城Neutrogena露得清身体清凉30倍防晒喷雾141.5g
+                    [image] => http://www.55tuan.com/images/201008/goods_img/168_G_1282036316938.jpg
+                    [startTime] => 1282060800
+                    [endTime] => 1282492800
+                    [value] => 160.00
+                    [price] => 49.90
+                    [rebate] => 3.1
+                    [bought] => 109
+                    [item_url] => http://www.55tuan.com/tuan-153
+                )
+
+            [5] => Array
+                (
+                    [website] => 小米团
+                    [siteurl] => http://www.xiaomituan.com
+                    [city] => 广州
+                    [title] => 28元/盒,3盒包邮 意大利品牌Saira 萨莉娜e休眼膜 10对/盒
+                    [image] => http://www.xiaomituan.com/Public/upload/goods/big/201008/4c6a09e8697b1.jpg
+                    [startTime] => 1282017900
+                    [endTime] => 1282320000
+                    [value] => 48
+                    [price] => 28
+                    [rebate] => 5.83
+                    [bought] => 564
+                    [item_url] => http://www.xiaomituan.com/tg-170.html
+                )
+
+            [6] => Array
+                (
+                    [website] => 36团
+                    [siteurl] => http://www.36tuan.com
+                    [city] => 全国
+                    [title] => 团购  团购网 36团 洗面奶 155元抢购！无惧岁月洗礼 全方位美肌，殿堂级“美肤泥浆”——贝佳斯“蓝海新生美肤泥浆膜”。于2010年8月全新亮相。
+                    [image] => http://www.36tuan.com/upload/info/2010/08/17/1282031282810_394.jpg
+                    [startTime] => 1282060800
+                    [endTime] => 1282147200
+                    [value] => 280.00
+                    [price] => 155.00
+                    [rebate] => 5.54
+                    [bought] => 1420
+                    [item_url] => http://www.36tuan.com/team.jsp?id=190
+                )
+
+        )
+
+    [深圳] => Array
+        (
+            [0] => Array
+                (
+                    [website] => 拉手
+                    [siteurl] => http://www.lashou.com/shenzhen
+                    [city] => 深圳
+                    [title] => 仅售63元！原价134元的山宝堂餐厅四人套餐一份！A（半只猪肚鸡1份+野山椒炒牛肉1份+金针菇1份+炒青菜1份+四碗米饭）/B（沙姜捞猪肚1份+剁椒鱼头1份+孜然脆骨1份+鹅肝酱茄煲1份+炒青菜1份+四碗米饭+饭前小食2份）套餐任选一！邀请好友返利10元！
+                    [image] => http://img3.lashou.com/lasho_pic/go/00/00/00/37/3700
+                    [startTime] => 1282060800
+                    [endTime] => 1282233600
+                    [value] => 134.00
+                    [price] => 63.00
+                    [rebate] => 4.7
+                    [bought] => 95
+                    [item_url] => http://www.lashou.com/?id=3700
+                )
+
+            [1] => Array
+                (
+                    [website] => 爱帮团
+                    [siteurl] => http://www.aibangtuan.com/
+                    [city] => 深圳
+                    [title] => 38元抢购！Canami可耐美原价138元胶原蛋白套装（鱼胶原蛋白肽粉+红参胶原蛋白面膜+C型胶原蛋白眼膜），全国屈臣氏及各大商场均有专卖，免费包邮再送20元现金券
+                    [image] => http://img6.aibangjuxin.com/pic?picid=994990154f2be8e1&type=4
+                    [startTime] => 1282060800
+                    [endTime] => 1282233600
+                    [value] => 138.00
+                    [price] => 38.00
+                    [rebate] => 2.8
+                    [bought] => 34
+                    [item_url] => http://tuan.aibang.com/shenzhen/canamijiaoyuan.html
+                )
+
+            [2] => Array
+                (
+                    [website] => QQ团购
+                    [siteurl] => http://tuan.qq.com/shenzhen
+                    [city] => 深圳
+                    [title] => 2店通用仅售48元!原价128元仙踪林超值双人套餐:西红柿牛肉酱意面+川红干烧鸡饭+蓝莓鲜果冰沙+青梅寒天绿茶+(招牌炸豆腐或红豆布丁烧)2选1
+                    [image] => http://imgcache.qq.com/tuangou/tr/xzl/dt.jpg
+                    [startTime] => 1282060800
+                    [endTime] => 1282233599
+                    [value] => 128
+                    [price] => 48
+                    [rebate] => 3.8
+                    [bought] => 495
+                    [item_url] => http://tuan.qq.com/shenzhen/deal/show/86
+                )
+
+            [3] => Array
+                (
+                    [website] => 团美网
+                    [siteurl] => http://www.tuanmei.net
+                    [city] => 全国
+                    [title] => 第五次开团！159元抢购！原价395的伊丽莎白雅顿眼部时空复合胶囊，自己和妈妈都能用的眼部护理王牌！买两个或更多就包邮！
+                    [image] => http://images.tuanmei.net/ardentime0818/ardentime0818-title-mid.jpg
+                    [startTime] => 1282060800
+                    [endTime] => 1282147199
+                    [value] => 395
+                    [price] => 159
+                    [rebate] => 4.0
+                    [bought] => 1143
+                    [item_url] => http://www.tuanmei.net/i/deal/ardentime0818.html
+                )
+
+            [4] => Array
+                (
+                    [website] => 24券
+                    [siteurl] => http://www.24quan.com
+                    [city] => 深圳
+                    [title] => 仅1元！可享普罗旺斯海景西餐厅品酒会入场券6.2折优惠，一张24券可优惠两人（场地+各类点心+甜品+活动组织+全场红酒），普罗旺斯下的风情，只因一杯清香宜人的葡萄酒
+                    [image] => http://www.24quan.com/static/team/2010/0817/12820256151275_thumbnail.jpg
+                    [startTime] => 1282060800
+                    [endTime] => 1282233600
+                    [value] => 80.00
+                    [price] => 1.00
+                    [rebate] => 0.1
+                    [bought] => 87
+                    [item_url] => http://www.24quan.com/team.php?id=431
+                )
+
+            [5] => Array
+                (
+                    [website] => F团
+                    [siteurl] => http://www.ftuan.com/city.php?enname=shenzhen
+                    [city] => 深圳
+                    [title] => 仅150元！原价3000元的康盈美容整形中心原生态光子脱毛4次（双腋下或唇部2选1）！邀请好友首次购买成功，您将获10F币返还！
+                    [image] => http://www.ftuan.com/static/team/2010/0817/12820395193132.jpg
+                    [startTime] => 1282060800
+                    [endTime] => 1282147199
+                    [value] => 3000
+                    [price] => 150
+                    [rebate] => 0.5
+                    [bought] => 35
+                    [item_url] => http://www.ftuan.com/team.php?id=213
+                )
+
+            [6] => Array
+                (
+                    [website] => 36团
+                    [siteurl] => http://www.36tuan.com
+                    [city] => 全国
+                    [title] => 团购  团购网 36团 洗面奶 155元抢购！无惧岁月洗礼 全方位美肌，殿堂级“美肤泥浆”——贝佳斯“蓝海新生美肤泥浆膜”。于2010年8月全新亮相。
+                    [image] => http://www.36tuan.com/upload/info/2010/08/17/1282031282810_394.jpg
+                    [startTime] => 1282060800
+                    [endTime] => 1282147200
+                    [value] => 280.00
+                    [price] => 155.00
+                    [rebate] => 5.54
+                    [bought] => 1420
+                    [item_url] => http://www.36tuan.com/team.jsp?id=190
+                )
+
+        )
+
+    [武汉] => Array
+        (
+            [0] => Array
+                (
+                    [website] => 美团
+                    [siteurl] => http://www.meituan.com/wuhan
+                    [city] => 武汉
+                    [title] => 仅售5元，价值90元的乐淘网网上鞋城年庆优惠券（满150元就可使用+全场通用+专柜正品+免费配送+7天无理由退换货），全国可用！
+                    [image] => http://p1.meituan.com/275.168/deal/201008/ltzhutu_0818000823.jpg
+                    [startTime] => 1282060800
+                    [endTime] => 1282147199
+                    [value] => 90
+                    [price] => 5
+                    [rebate] => 0.5
+                    [bought] => 22136
+                    [item_url] => http://www.meituan.com/wuhan/deal/whltw.html
+                )
+
+            [1] => Array
+                (
+                    [website] => 拉手
+                    [siteurl] => http://www.lashou.com/wuhan
+                    [city] => 武汉
+                    [title] => 仅售6元！原价40元的雨花西餐厅超值套餐一份：特制葡式蛋挞两只+现炸薯条一份+鲜榨西瓜汁两杯！
+                    [image] => http://img3.lashou.com/lasho_pic/go/00/00/00/37/3716
+                    [startTime] => 1282060800
+                    [endTime] => 1282233600
+                    [value] => 40.00
+                    [price] => 6.00
+                    [rebate] => 1.5
+                    [bought] => 681
+                    [item_url] => http://www.lashou.com/?id=3716
+                )
+
+            [2] => Array
+                (
+                    [website] => 团美网
+                    [siteurl] => http://www.tuanmei.net
+                    [city] => 全国
+                    [title] => 第五次开团！159元抢购！原价395的伊丽莎白雅顿眼部时空复合胶囊，自己和妈妈都能用的眼部护理王牌！买两个或更多就包邮！
+                    [image] => http://images.tuanmei.net/ardentime0818/ardentime0818-title-mid.jpg
+                    [startTime] => 1282060800
+                    [endTime] => 1282147199
+                    [value] => 395
+                    [price] => 159
+                    [rebate] => 4.0
+                    [bought] => 1143
+                    [item_url] => http://www.tuanmei.net/i/deal/ardentime0818.html
+                )
+
+            [3] => Array
+                (
+                    [website] => 24券
+                    [siteurl] => http://www.24quan.com
+                    [city] => 武汉
+                    [title] => 仅59元！原价220元的雅酷游泳健身精选月卡，共6次游泳健身体验，全市17家品牌游泳健身俱乐部通用，还可以多人共用哦！另免费送20元雅酷充值代金券（武汉三环内包快递）！
+                    [image] => http://www.24quan.com/static/team/2010/0817/12820257969488_thumbnail.jpg
+                    [startTime] => 1282060800
+                    [endTime] => 1282233600
+                    [value] => 220.00
+                    [price] => 59.00
+                    [rebate] => 2.7
+                    [bought] => 349
+                    [item_url] => http://www.24quan.com/team.php?id=429
+                )
+
+            [4] => Array
+                (
+                    [website] => 36团
+                    [siteurl] => http://www.36tuan.com
+                    [city] => 全国
+                    [title] => 团购  团购网 36团 洗面奶 155元抢购！无惧岁月洗礼 全方位美肌，殿堂级“美肤泥浆”——贝佳斯“蓝海新生美肤泥浆膜”。于2010年8月全新亮相。
+                    [image] => http://www.36tuan.com/upload/info/2010/08/17/1282031282810_394.jpg
+                    [startTime] => 1282060800
+                    [endTime] => 1282147200
+                    [value] => 280.00
+                    [price] => 155.00
+                    [rebate] => 5.54
+                    [bought] => 1420
+                    [item_url] => http://www.36tuan.com/team.jsp?id=190
+                )
+
+        )
+
+    [杭州] => Array
+        (
+            [0] => Array
+                (
+                    [website] => 拉手
+                    [siteurl] => http://www.lashou.com/hangzhou
+                    [city] => 杭州
+                    [title] => 仅售49.8元！原价108元的“MAKY米旗”鲜花月饼一盒！邀请好友返利10元
+                    [image] => http://img3.lashou.com/lasho_pic/go/00/00/00/36/3668
+                    [startTime] => 1282060800
+                    [endTime] => 1282320000
+                    [value] => 108.00
+                    [price] => 49.80
+                    [rebate] => 4.6
+                    [bought] => 174
+                    [item_url] => http://www.lashou.com/?id=3668
+                )
+
+            [1] => Array
+                (
+                    [website] => 团美网
+                    [siteurl] => http://www.tuanmei.net
+                    [city] => 全国
+                    [title] => 第五次开团！159元抢购！原价395的伊丽莎白雅顿眼部时空复合胶囊，自己和妈妈都能用的眼部护理王牌！买两个或更多就包邮！
+                    [image] => http://images.tuanmei.net/ardentime0818/ardentime0818-title-mid.jpg
+                    [startTime] => 1282060800
+                    [endTime] => 1282147199
+                    [value] => 395
+                    [price] => 159
+                    [rebate] => 4.0
+                    [bought] => 1143
+                    [item_url] => http://www.tuanmei.net/i/deal/ardentime0818.html
+                )
+
+            [2] => Array
+                (
+                    [website] => 酷团
+                    [siteurl] => http://www.kutuan.com
+                    [city] => 杭州
+                    [title] => 后七夕节最佳情侣配饰，两只仅售15元（杭州包邮）！韩国BUGSLOCK驱蚊手环，100%原装正品，原价每只22元。无毒环保，人人适用的驱蚊好武器！
+                    [image] => http://file.kutuan.com/tuangou/BUGSLOCK/main.jpg
+                    [startTime] => 1282060800
+                    [endTime] => 1282147199
+                    [value] => 44.00
+                    [price] => 15.00
+                    [rebate] => 3.4
+                    [bought] => 146
+                    [item_url] => http://www.kutuan.com/tuangou/show/code/BUGSLOCK
+                )
+
+            [3] => Array
+                (
+                    [website] => 36团
+                    [siteurl] => http://www.36tuan.com
+                    [city] => 全国
+                    [title] => 团购  团购网 36团 洗面奶 155元抢购！无惧岁月洗礼 全方位美肌，殿堂级“美肤泥浆”——贝佳斯“蓝海新生美肤泥浆膜”。于2010年8月全新亮相。
+                    [image] => http://www.36tuan.com/upload/info/2010/08/17/1282031282810_394.jpg
+                    [startTime] => 1282060800
+                    [endTime] => 1282147200
+                    [value] => 280.00
+                    [price] => 155.00
+                    [rebate] => 5.54
+                    [bought] => 1420
+                    [item_url] => http://www.36tuan.com/team.jsp?id=190
+                )
+
+        )
+
+    [天津] => Array
+        (
+            [0] => Array
+                (
+                    [website] => 拉手
+                    [siteurl] => http://www.lashou.com/tianjin
+                    [city] => 天津
+                    [title] => 仅售20元！原价260元的法国欧洁蔓美容美体（国际）连锁机构护理套装（只限女士）1份：佰味女人五行调理一次+经典面护一次！邀请好友返利10元
+                    [image] => http://img3.lashou.com/lasho_pic/go/00/00/00/37/3708
+                    [startTime] => 1282060800
+                    [endTime] => 1282147200
+                    [value] => 260.00
+                    [price] => 20.00
+                    [rebate] => 0.8
+                    [bought] => 65
+                    [item_url] => http://www.lashou.com/?id=3708
+                )
+
+            [1] => Array
+                (
+                    [website] => 团美网
+                    [siteurl] => http://www.tuanmei.net
+                    [city] => 全国
+                    [title] => 第五次开团！159元抢购！原价395的伊丽莎白雅顿眼部时空复合胶囊，自己和妈妈都能用的眼部护理王牌！买两个或更多就包邮！
+                    [image] => http://images.tuanmei.net/ardentime0818/ardentime0818-title-mid.jpg
+                    [startTime] => 1282060800
+                    [endTime] => 1282147199
+                    [value] => 395
+                    [price] => 159
+                    [rebate] => 4.0
+                    [bought] => 1143
+                    [item_url] => http://www.tuanmei.net/i/deal/ardentime0818.html
+                )
+
+            [2] => Array
+                (
+                    [website] => 36团
+                    [siteurl] => http://www.36tuan.com
+                    [city] => 全国
+                    [title] => 团购  团购网 36团 洗面奶 155元抢购！无惧岁月洗礼 全方位美肌，殿堂级“美肤泥浆”——贝佳斯“蓝海新生美肤泥浆膜”。于2010年8月全新亮相。
+                    [image] => http://www.36tuan.com/upload/info/2010/08/17/1282031282810_394.jpg
+                    [startTime] => 1282060800
+                    [endTime] => 1282147200
+                    [value] => 280.00
+                    [price] => 155.00
+                    [rebate] => 5.54
+                    [bought] => 1420
+                    [item_url] => http://www.36tuan.com/team.jsp?id=190
+                )
+
+        )
+
+    [南京] => Array
+        (
+            [0] => Array
+                (
+                    [website] => 拉手
+                    [siteurl] => http://www.lashou.com/nanjing
+                    [city] => 南京
+                    [title] => 仅售6.6元！原价200元的“静界瑜伽中心(13家店通用)”特惠周卡一张：4课时，每课时60分钟，常温、高温瑜伽通用！
+                    [image] => http://img3.lashou.com/lasho_pic/go/00/00/00/37/3702
+                    [startTime] => 1282060800
+                    [endTime] => 1282147200
+                    [value] => 200.00
+                    [price] => 6.60
+                    [rebate] => 0.3
+                    [bought] => 851
+                    [item_url] => http://www.lashou.com/?id=3702
+                )
+
+            [1] => Array
+                (
+                    [website] => 团美网
+                    [siteurl] => http://www.tuanmei.net
+                    [city] => 全国
+                    [title] => 第五次开团！159元抢购！原价395的伊丽莎白雅顿眼部时空复合胶囊，自己和妈妈都能用的眼部护理王牌！买两个或更多就包邮！
+                    [image] => http://images.tuanmei.net/ardentime0818/ardentime0818-title-mid.jpg
+                    [startTime] => 1282060800
+                    [endTime] => 1282147199
+                    [value] => 395
+                    [price] => 159
+                    [rebate] => 4.0
+                    [bought] => 1143
+                    [item_url] => http://www.tuanmei.net/i/deal/ardentime0818.html
+                )
+
+            [2] => Array
+                (
+                    [website] => 36团
+                    [siteurl] => http://www.36tuan.com
+                    [city] => 全国
+                    [title] => 团购  团购网 36团 洗面奶 155元抢购！无惧岁月洗礼 全方位美肌，殿堂级“美肤泥浆”——贝佳斯“蓝海新生美肤泥浆膜”。于2010年8月全新亮相。
+                    [image] => http://www.36tuan.com/upload/info/2010/08/17/1282031282810_394.jpg
+                    [startTime] => 1282060800
+                    [endTime] => 1282147200
+                    [value] => 280.00
+                    [price] => 155.00
+                    [rebate] => 5.54
+                    [bought] => 1420
+                    [item_url] => http://www.36tuan.com/team.jsp?id=190
+                )
+
+        )
+
+    [成都] => Array
+        (
+            [0] => Array
+                (
+                    [website] => 拉手
+                    [siteurl] => http://www.lashou.com/chengdu
+                    [city] => 成都
+                    [title] => 仅售8元！原价20元的巴蜀川江小火锅店的小火锅精品套餐一份：绿色毛肚+极品五花肉+冬瓜+芍粉+崔木耳
+                    [image] => http://img3.lashou.com/lasho_pic/go/00/00/00/37/3742
+                    [startTime] => 1282060800
+                    [endTime] => 1282147200
+                    [value] => 20.00
+                    [price] => 8.00
+                    [rebate] => 4
+                    [bought] => 80
+                    [item_url] => http://www.lashou.com/?id=3742
+                )
+
+            [1] => Array
+                (
+                    [website] => 团美网
+                    [siteurl] => http://www.tuanmei.net
+                    [city] => 全国
+                    [title] => 第五次开团！159元抢购！原价395的伊丽莎白雅顿眼部时空复合胶囊，自己和妈妈都能用的眼部护理王牌！买两个或更多就包邮！
+                    [image] => http://images.tuanmei.net/ardentime0818/ardentime0818-title-mid.jpg
+                    [startTime] => 1282060800
+                    [endTime] => 1282147199
+                    [value] => 395
+                    [price] => 159
+                    [rebate] => 4.0
+                    [bought] => 1143
+                    [item_url] => http://www.tuanmei.net/i/deal/ardentime0818.html
+                )
+
+            [2] => Array
+                (
+                    [website] => 36团
+                    [siteurl] => http://www.36tuan.com
+                    [city] => 全国
+                    [title] => 团购  团购网 36团 洗面奶 155元抢购！无惧岁月洗礼 全方位美肌，殿堂级“美肤泥浆”——贝佳斯“蓝海新生美肤泥浆膜”。于2010年8月全新亮相。
+                    [image] => http://www.36tuan.com/upload/info/2010/08/17/1282031282810_394.jpg
+                    [startTime] => 1282060800
+                    [endTime] => 1282147200
+                    [value] => 280.00
+                    [price] => 155.00
+                    [rebate] => 5.54
+                    [bought] => 1420
+                    [item_url] => http://www.36tuan.com/team.jsp?id=190
+                )
+
+        )
+
+    [重庆] => Array
+        (
+            [0] => Array
+                (
+                    [website] => 拉手
+                    [siteurl] => http://www.lashou.com/chongqing
+                    [city] => 重庆
+                    [title] => 仅售36.8元！原价368元的彩之风烫染吧：派瑞诗抛光烫1人次（大约120分钟）！邀请好友返利10元
+                    [image] => http://img3.lashou.com/lasho_pic/go/00/00/00/36/3684
+                    [startTime] => 1282060800
+                    [endTime] => 1282233600
+                    [value] => 368.00
+                    [price] => 36.80
+                    [rebate] => 1
+                    [bought] => 17
+                    [item_url] => http://www.lashou.com/?id=3684
+                )
+
+            [1] => Array
+                (
+                    [website] => QQ团购
+                    [siteurl] => http://tuan.qq.com/chongqing
+                    [city] => 重庆
+                    [title] => 58元享受豪华养生之旅!原价216元的【蒙特卡罗贵族休闲会所】超值套餐：得一正脊“颈肩腰”40分钟+“肝肾同源”45分钟+麻将包房2小时!
+                    [image] => http://imgcache.qq.com/tuangou/mw/mtkl/dt.jpg
+                    [startTime] => 1282060800
+                    [endTime] => 1282233599
+                    [value] => 216
+                    [price] => 58
+                    [rebate] => 2.7
+                    [bought] => 38
+                    [item_url] => http://tuan.qq.com/chongqing/deal/show/90
+                )
+
+            [2] => Array
+                (
+                    [website] => 团美网
+                    [siteurl] => http://www.tuanmei.net
+                    [city] => 全国
+                    [title] => 第五次开团！159元抢购！原价395的伊丽莎白雅顿眼部时空复合胶囊，自己和妈妈都能用的眼部护理王牌！买两个或更多就包邮！
+                    [image] => http://images.tuanmei.net/ardentime0818/ardentime0818-title-mid.jpg
+                    [startTime] => 1282060800
+                    [endTime] => 1282147199
+                    [value] => 395
+                    [price] => 159
+                    [rebate] => 4.0
+                    [bought] => 1143
+                    [item_url] => http://www.tuanmei.net/i/deal/ardentime0818.html
+                )
+
+            [3] => Array
+                (
+                    [website] => 36团
+                    [siteurl] => http://www.36tuan.com
+                    [city] => 全国
+                    [title] => 团购  团购网 36团 洗面奶 155元抢购！无惧岁月洗礼 全方位美肌，殿堂级“美肤泥浆”——贝佳斯“蓝海新生美肤泥浆膜”。于2010年8月全新亮相。
+                    [image] => http://www.36tuan.com/upload/info/2010/08/17/1282031282810_394.jpg
+                    [startTime] => 1282060800
+                    [endTime] => 1282147200
+                    [value] => 280.00
+                    [price] => 155.00
+                    [rebate] => 5.54
+                    [bought] => 1420
+                    [item_url] => http://www.36tuan.com/team.jsp?id=190
+                )
+
+        )
+
+    [西安] => Array
+        (
+            [0] => Array
+                (
+                    [website] => 美团
+                    [siteurl] => http://www.meituan.com/xian
+                    [city] => 西安
+                    [title] => 仅售5元，价值90元的乐淘网网上鞋城年庆优惠券（满150元就可使用+全场通用+专柜正品+免费配送+7天无理由退换货），全国可用！
+                    [image] => http://p0.meituan.com/275.168/deal/201008/ltzhutu_0818000829.jpg
+                    [startTime] => 1282060800
+                    [endTime] => 1282233599
+                    [value] => 90
+                    [price] => 5
+                    [rebate] => 0.5
+                    [bought] => 22136
+                    [item_url] => http://www.meituan.com/xian/deal/xaltw.html
+                )
+
+            [1] => Array
+                (
+                    [website] => 拉手
+                    [siteurl] => http://www.lashou.com/xian
+                    [city] => 西安
+                    [title] => 仅售5元！原价150元的天竺瑜伽馆时尚瑜伽课程3节（只限女士），（养生瑜伽，纤体速瘦瑜伽，流瑜伽，脊柱调理瑜伽，传统哈他瑜伽，洁肠瑜伽课程中任意选择）！
+                    [image] => http://img3.lashou.com/lasho_pic/go/00/00/00/37/3740
+                    [startTime] => 1282060800
+                    [endTime] => 1282147200
+                    [value] => 150.00
+                    [price] => 5.00
+                    [rebate] => 0.3
+                    [bought] => 261
+                    [item_url] => http://www.lashou.com/?id=3740
+                )
+
+            [2] => Array
+                (
+                    [website] => 团美网
+                    [siteurl] => http://www.tuanmei.net
+                    [city] => 全国
+                    [title] => 第五次开团！159元抢购！原价395的伊丽莎白雅顿眼部时空复合胶囊，自己和妈妈都能用的眼部护理王牌！买两个或更多就包邮！
+                    [image] => http://images.tuanmei.net/ardentime0818/ardentime0818-title-mid.jpg
+                    [startTime] => 1282060800
+                    [endTime] => 1282147199
+                    [value] => 395
+                    [price] => 159
+                    [rebate] => 4.0
+                    [bought] => 1143
+                    [item_url] => http://www.tuanmei.net/i/deal/ardentime0818.html
+                )
+
+            [3] => Array
+                (
+                    [website] => 36团
+                    [siteurl] => http://www.36tuan.com
+                    [city] => 全国
+                    [title] => 团购  团购网 36团 洗面奶 155元抢购！无惧岁月洗礼 全方位美肌，殿堂级“美肤泥浆”——贝佳斯“蓝海新生美肤泥浆膜”。于2010年8月全新亮相。
+                    [image] => http://www.36tuan.com/upload/info/2010/08/17/1282031282810_394.jpg
+                    [startTime] => 1282060800
+                    [endTime] => 1282147200
+                    [value] => 280.00
+                    [price] => 155.00
+                    [rebate] => 5.54
+                    [bought] => 1420
+                    [item_url] => http://www.36tuan.com/team.jsp?id=190
+                )
+
+        )
+
+    [郑州] => Array
+        (
+            [0] => Array
+                (
+                    [website] => 拉手
+                    [siteurl] => http://www.lashou.com/zhengzhou
+                    [city] => 郑州
+                    [title] => 仅售20元！团购结束后立返5元！原价263元的a gogo自助KTV套餐：2小时欢乐唱+绿卡一张+50元包厢券一张+果盘券一张！邀请好友返利10元
+                    [image] => http://img3.lashou.com/lasho_pic/go/00/00/00/37/3722
+                    [startTime] => 1282060800
+                    [endTime] => 1282147200
+                    [value] => 263.00
+                    [price] => 20.00
+                    [rebate] => 0.8
+                    [bought] => 75
+                    [item_url] => http://www.lashou.com/?id=3722
+                )
+
+            [1] => Array
+                (
+                    [website] => 团美网
+                    [siteurl] => http://www.tuanmei.net
+                    [city] => 全国
+                    [title] => 第五次开团！159元抢购！原价395的伊丽莎白雅顿眼部时空复合胶囊，自己和妈妈都能用的眼部护理王牌！买两个或更多就包邮！
+                    [image] => http://images.tuanmei.net/ardentime0818/ardentime0818-title-mid.jpg
+                    [startTime] => 1282060800
+                    [endTime] => 1282147199
+                    [value] => 395
+                    [price] => 159
+                    [rebate] => 4.0
+                    [bought] => 1143
+                    [item_url] => http://www.tuanmei.net/i/deal/ardentime0818.html
+                )
+
+            [2] => Array
+                (
+                    [website] => 24券
+                    [siteurl] => http://www.24quan.com
+                    [city] => 郑州
+                    [title] => 仅99元！原价548元上海品诺美发超值套餐（洗剪吹36元+韩国活力烫发216元+德国施华蔻挑染或欧莱雅深层护理1次296元）镜子里全新的自己，夏日中幻彩的秀发
+                    [image] => http://www.24quan.com/static/team/2010/0817/12820144196512_thumbnail.jpg
+                    [startTime] => 1282060800
+                    [endTime] => 1282492800
+                    [value] => 548.00
+                    [price] => 99.00
+                    [rebate] => 1.8
+                    [bought] => 151
+                    [item_url] => http://www.24quan.com/team.php?id=400
+                )
+
+            [3] => Array
+                (
+                    [website] => 36团
+                    [siteurl] => http://www.36tuan.com
+                    [city] => 全国
+                    [title] => 团购  团购网 36团 洗面奶 155元抢购！无惧岁月洗礼 全方位美肌，殿堂级“美肤泥浆”——贝佳斯“蓝海新生美肤泥浆膜”。于2010年8月全新亮相。
+                    [image] => http://www.36tuan.com/upload/info/2010/08/17/1282031282810_394.jpg
+                    [startTime] => 1282060800
+                    [endTime] => 1282147200
+                    [value] => 280.00
+                    [price] => 155.00
+                    [rebate] => 5.54
+                    [bought] => 1420
+                    [item_url] => http://www.36tuan.com/team.jsp?id=190
+                )
+
+        )
+
+    [大连] => Array
+        (
+            [0] => Array
+                (
+                    [website] => 拉手
+                    [siteurl] => http://www.lashou.com/dalian
+                    [city] => 大连
+                    [title] => 仅售24元！原价38元的“康鸿哈密大枣”一袋（300g，专卖店专供B级3.5cm）！邀请好友返利10元
+                    [image] => http://img3.lashou.com/lasho_pic/go/00/00/00/37/3738
+                    [startTime] => 1282060800
+                    [endTime] => 1282492800
+                    [value] => 38.00
+                    [price] => 24.00
+                    [rebate] => 6.3
+                    [bought] => 11
+                    [item_url] => http://www.lashou.com/?id=3738
+                )
+
+            [1] => Array
+                (
+                    [website] => 团美网
+                    [siteurl] => http://www.tuanmei.net
+                    [city] => 全国
+                    [title] => 第五次开团！159元抢购！原价395的伊丽莎白雅顿眼部时空复合胶囊，自己和妈妈都能用的眼部护理王牌！买两个或更多就包邮！
+                    [image] => http://images.tuanmei.net/ardentime0818/ardentime0818-title-mid.jpg
+                    [startTime] => 1282060800
+                    [endTime] => 1282147199
+                    [value] => 395
+                    [price] => 159
+                    [rebate] => 4.0
+                    [bought] => 1143
+                    [item_url] => http://www.tuanmei.net/i/deal/ardentime0818.html
+                )
+
+            [2] => Array
+                (
+                    [website] => 36团
+                    [siteurl] => http://www.36tuan.com
+                    [city] => 全国
+                    [title] => 团购  团购网 36团 洗面奶 155元抢购！无惧岁月洗礼 全方位美肌，殿堂级“美肤泥浆”——贝佳斯“蓝海新生美肤泥浆膜”。于2010年8月全新亮相。
+                    [image] => http://www.36tuan.com/upload/info/2010/08/17/1282031282810_394.jpg
+                    [startTime] => 1282060800
+                    [endTime] => 1282147200
+                    [value] => 280.00
+                    [price] => 155.00
+                    [rebate] => 5.54
+                    [bought] => 1420
+                    [item_url] => http://www.36tuan.com/team.jsp?id=190
+                )
+
+        )
+
+    [青岛] => Array
+        (
+            [0] => Array
+                (
+                    [website] => 拉手
+                    [siteurl] => http://www.lashou.com/qingdao
+                    [city] => 青岛
+                    [title] => 仅售60元！原价100元的陈萨诗意肖邦钢琴音乐会门票一张！邀请好友返利10元
+                    [image] => http://img3.lashou.com/lasho_pic/go/00/00/00/36/3686
+                    [startTime] => 1281974400
+                    [endTime] => 1282233600
+                    [value] => 100.00
+                    [price] => 60.00
+                    [rebate] => 6
+                    [bought] => 3
+                    [item_url] => http://www.lashou.com/?id=3686
+                )
+
+            [1] => Array
+                (
+                    [website] => 满座
+                    [siteurl] => http://www.manzuo.com
+                    [city] => 青岛
+                    [title] => 仅36元！享原价75元青松新鲜出厂牛肉干500g，五香、麻辣、沙爹、咖喱4种口味可选，常温阴凉处存放6个月，办公室必备零食！
+                    [image] => http://p0.manzuo.com/461/qsnrg_hao123.jpg
+                    [startTime] => 1282060800
+                    [endTime] => 1282751999
+                    [value] => 75.0
+                    [price] => 36.0
+                    [rebate] => 4.8
+                    [bought] => 25
+                    [item_url] => http://www.manzuo.com/partner/hao123__ifv80W8COg4.htm
+                )
+
+            [2] => Array
+                (
+                    [website] => 团美网
+                    [siteurl] => http://www.tuanmei.net
+                    [city] => 全国
+                    [title] => 第五次开团！159元抢购！原价395的伊丽莎白雅顿眼部时空复合胶囊，自己和妈妈都能用的眼部护理王牌！买两个或更多就包邮！
+                    [image] => http://images.tuanmei.net/ardentime0818/ardentime0818-title-mid.jpg
+                    [startTime] => 1282060800
+                    [endTime] => 1282147199
+                    [value] => 395
+                    [price] => 159
+                    [rebate] => 4.0
+                    [bought] => 1143
+                    [item_url] => http://www.tuanmei.net/i/deal/ardentime0818.html
+                )
+
+            [3] => Array
+                (
+                    [website] => 36团
+                    [siteurl] => http://www.36tuan.com
+                    [city] => 全国
+                    [title] => 团购  团购网 36团 洗面奶 155元抢购！无惧岁月洗礼 全方位美肌，殿堂级“美肤泥浆”——贝佳斯“蓝海新生美肤泥浆膜”。于2010年8月全新亮相。
+                    [image] => http://www.36tuan.com/upload/info/2010/08/17/1282031282810_394.jpg
+                    [startTime] => 1282060800
+                    [endTime] => 1282147200
+                    [value] => 280.00
+                    [price] => 155.00
+                    [rebate] => 5.54
+                    [bought] => 1420
+                    [item_url] => http://www.36tuan.com/team.jsp?id=190
+                )
+
+        )
+
+    [长沙] => Array
+        (
+            [0] => Array
+                (
+                    [website] => 拉手
+                    [siteurl] => http://www.lashou.com/changsha
+                    [city] => 长沙
+                    [title] =>  仅售5元！原价10元的“DQ冰雪皇后”代金券1张！
+                    [image] => http://img3.lashou.com/lasho_pic/go/00/00/00/36/3670
+                    [startTime] => 1281974400
+                    [endTime] => 1282147200
+                    [value] => 10.00
+                    [price] => 5.00
+                    [rebate] => 5
+                    [bought] => 1000
+                    [item_url] => http://www.lashou.com/?id=3670
+                )
+
+            [1] => Array
+                (
+                    [website] => 团美网
+                    [siteurl] => http://www.tuanmei.net
+                    [city] => 全国
+                    [title] => 第五次开团！159元抢购！原价395的伊丽莎白雅顿眼部时空复合胶囊，自己和妈妈都能用的眼部护理王牌！买两个或更多就包邮！
+                    [image] => http://images.tuanmei.net/ardentime0818/ardentime0818-title-mid.jpg
+                    [startTime] => 1282060800
+                    [endTime] => 1282147199
+                    [value] => 395
+                    [price] => 159
+                    [rebate] => 4.0
+                    [bought] => 1143
+                    [item_url] => http://www.tuanmei.net/i/deal/ardentime0818.html
+                )
+
+            [2] => Array
+                (
+                    [website] => 24券
+                    [siteurl] => http://www.24quan.com
+                    [city] => 长沙
+                    [title] => 仅66元！轩氏经络养生会所原价772元的经络养生体验套餐（经络点穴明目美容+山兰玉颈椎保养+全息动力舱+虹膜检测）由内而发才是健康的美！
+                    [image] => http://www.24quan.com/static/team/2010/0812/12816014954073_thumbnail.jpg
+                    [startTime] => 1282060800
+                    [endTime] => 1282233600
+                    [value] => 772.00
+                    [price] => 66.00
+                    [rebate] => 0.9
+                    [bought] => 97
+                    [item_url] => http://www.24quan.com/team.php?id=397
+                )
+
+            [3] => Array
+                (
+                    [website] => 36团
+                    [siteurl] => http://www.36tuan.com
+                    [city] => 全国
+                    [title] => 团购  团购网 36团 洗面奶 155元抢购！无惧岁月洗礼 全方位美肌，殿堂级“美肤泥浆”——贝佳斯“蓝海新生美肤泥浆膜”。于2010年8月全新亮相。
+                    [image] => http://www.36tuan.com/upload/info/2010/08/17/1282031282810_394.jpg
+                    [startTime] => 1282060800
+                    [endTime] => 1282147200
+                    [value] => 280.00
+                    [price] => 155.00
+                    [rebate] => 5.54
+                    [bought] => 1420
+                    [item_url] => http://www.36tuan.com/team.jsp?id=190
+                )
+
+        )
+
+    [石家庄] => Array
+        (
+            [0] => Array
+                (
+                    [website] => 拉手
+                    [siteurl] => http://www.lashou.com/shijiazhuang
+                    [city] => 石家庄
+                    [title] => 仅售1.99元！原价9元的Skype（全球最清晰网络电话）大陆通60分钟包月充值卡！
+                    [image] => http://img3.lashou.com/lasho_pic/go/00/00/00/35/3500
+                    [startTime] => 1281888000
+                    [endTime] => 1282492800
+                    [value] => 9.00
+                    [price] => 1.99
+                    [rebate] => 2.2
+                    [bought] => 28
+                    [item_url] => http://www.lashou.com/?id=3500
+                )
+
+            [1] => Array
+                (
+                    [website] => 团美网
+                    [siteurl] => http://www.tuanmei.net
+                    [city] => 全国
+                    [title] => 第五次开团！159元抢购！原价395的伊丽莎白雅顿眼部时空复合胶囊，自己和妈妈都能用的眼部护理王牌！买两个或更多就包邮！
+                    [image] => http://images.tuanmei.net/ardentime0818/ardentime0818-title-mid.jpg
+                    [startTime] => 1282060800
+                    [endTime] => 1282147199
+                    [value] => 395
+                    [price] => 159
+                    [rebate] => 4.0
+                    [bought] => 1143
+                    [item_url] => http://www.tuanmei.net/i/deal/ardentime0818.html
+                )
+
+            [2] => Array
+                (
+                    [website] => 饭统-饭团
+                    [siteurl] => http://tuan.fantong.com
+                    [city] => 石家庄
+                    [title] => 仅需39元，即可享受原价105元的泼辣麻辣香锅双人麻辣套餐，带您体验从里到外的麻辣感受，痛快淋漓！
+                    [image] => http://images1.fantong.com/attach/159/medium/大图.jpg
+                    [startTime] => 1281888000
+                    [endTime] => 1282147200
+                    [value] => 105.0
+                    [price] => 39.0
+                    [rebate] => 3.71
+                    [bought] => 563
+                    [item_url] => http://tuan.fantong.com/shijiazhuang
+                )
+
+            [3] => Array
+                (
+                    [website] => 36团
+                    [siteurl] => http://www.36tuan.com
+                    [city] => 全国
+                    [title] => 团购  团购网 36团 洗面奶 155元抢购！无惧岁月洗礼 全方位美肌，殿堂级“美肤泥浆”——贝佳斯“蓝海新生美肤泥浆膜”。于2010年8月全新亮相。
+                    [image] => http://www.36tuan.com/upload/info/2010/08/17/1282031282810_394.jpg
+                    [startTime] => 1282060800
+                    [endTime] => 1282147200
+                    [value] => 280.00
+                    [price] => 155.00
+                    [rebate] => 5.54
+                    [bought] => 1420
+                    [item_url] => http://www.36tuan.com/team.jsp?id=190
+                )
+
+        )
+
+    [全国] => Array
+        (
+            [0] => Array
+                (
+                    [website] => 团美网
+                    [siteurl] => http://www.tuanmei.net
+                    [city] => 全国
+                    [title] => 第五次开团！159元抢购！原价395的伊丽莎白雅顿眼部时空复合胶囊，自己和妈妈都能用的眼部护理王牌！买两个或更多就包邮！
+                    [image] => http://images.tuanmei.net/ardentime0818/ardentime0818-title-mid.jpg
+                    [startTime] => 1282060800
+                    [endTime] => 1282147199
+                    [value] => 395
+                    [price] => 159
+                    [rebate] => 4.0
+                    [bought] => 1143
+                    [item_url] => http://www.tuanmei.net/i/deal/ardentime0818.html
+                )
+
+            [1] => Array
+                (
+                    [website] => 36团
+                    [siteurl] => http://www.36tuan.com
+                    [city] => 全国
+                    [title] => 团购  团购网 36团 洗面奶 155元抢购！无惧岁月洗礼 全方位美肌，殿堂级“美肤泥浆”——贝佳斯“蓝海新生美肤泥浆膜”。于2010年8月全新亮相。
+                    [image] => http://www.36tuan.com/upload/info/2010/08/17/1282031282810_394.jpg
+                    [startTime] => 1282060800
+                    [endTime] => 1282147200
+                    [value] => 280.00
+                    [price] => 155.00
+                    [rebate] => 5.54
+                    [bought] => 1420
+                    [item_url] => http://www.36tuan.com/team.jsp?id=190
+                )
+
+        )
+
+)

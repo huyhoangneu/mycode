@@ -1,0 +1,31 @@
+#!/bin/bash
+
+# the first argument is the destination root directory
+# for the package, defaults to /usr/local if not present
+
+DESTDIR="/usr/local"
+if [ ".$1" != "." ]; then
+	DESTDIR="$1"
+fi
+
+echo "*** Installing the library"
+/usr/bin/env python setup.py install
+echo
+
+echo "*** Installing the documentation"
+rm -r $DESTDIR/doc/msnlib 2>/dev/null
+mkdir $DESTDIR/doc/msnlib 2>/dev/null
+cp -v README INSTALL.txt $DESTDIR/doc/msnlib/
+cp -Rv doc/* $DESTDIR/doc/msnlib/
+echo
+
+echo "*** Installing the client"
+mkdir $DESTDIR/bin 2>/dev/null
+cp -v msn $DESTDIR/bin
+cp -v msnsetup $DESTDIR/bin
+echo
+
+echo "*** Done"
+echo "Please read the INSTALL.txt file to see the next step"
+echo
+

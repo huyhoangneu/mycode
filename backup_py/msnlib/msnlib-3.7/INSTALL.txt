@@ -1,0 +1,37 @@
+
+To install the library and the client, run the 'install' file as root
+(probably using something like './install').
+
+It will copy the python modules to the proper place, and the client to
+/usr/local/bin.
+
+Then, you can run (as your user) 'msnsetup' to create the initial
+configuration file and directories (placed in ~/.msn); and finally run the
+client with 'msn'. Skip this step if you are upgrading.
+
+Alternatively, you can create your own ~/.msn/msnrc file based on an example
+named 'msnrc.sample'.
+
+
+Here is a command line summary:
+
+# we became root
+su
+
+# then install everything
+./install
+
+# now drop the root privileges
+exit
+
+# run the setup to create the configuration (only if you are not upgrading)
+msnsetup
+
+# and finally start the client
+msn
+
+
+I would really like to hear your opinion, so please drop any comments to
+albertito@blitiri.com.ar.
+
+

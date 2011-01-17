@@ -1,0 +1,47 @@
+
+
+The graph below is an attempt of the simple state diagram that rules message
+delivery.
+
+It's split in a half according to whether you are inviting or answering; and
+on the sides are the different sbf's state.
+
+The middle zone (for both types) is the message type with an arrow indicatiing
+the destination (left is us, right is the server); except for the only two
+two-letter codes right in the middle, which show the common state to both
+sides.
+
+Once the 'es' state is reached, the difference is forgotten (even tho it's
+kept, it's never used) and both types of sbf are handled the same way.
+
+
+------------------------+------------------------
+     invite		|	    answer	 
+------------------------+------------------------ 
+state	|		|		|  state 
+------------------------+------------------------
+    ----+	xfr->			
+    xf	|	  |			
+    ----+	<-xfr		<-rng	+----
+    cp	|	     \	     /		|  cp
+   	|	       \   /		|
+    ----+		cp		+----
+   	|	      /	   \		|
+    re	|	    /	     \		|  re
+   	|	  /	       \	|
+    ----+	usr->		ans->	+----
+   	|	  |		  |	|  
+    us	|	<-usr		<-iro	|  an
+   	|	  |		  |	|
+    ----+	cal->		<-ans	+----
+    ca	|	  |		  |	|
+    ----+	<-cal		 /	|
+    jo	|	  |	       /	|  es
+    ----+	<-joi	     /		|
+    es	|	      \    /		|
+   	V		es		V
+
+
+
+
+	
