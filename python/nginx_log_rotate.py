@@ -26,6 +26,10 @@ def main():
     if options == None or not options:
         parser.print_help()
         return
+    if not os.path.exists(options.pidFile):
+        log.info('The pid file %s does not exits' , options.pidFile)
+        return
+
     if not os.path.exists(options.logFile):
         log.info('The log file %s does not exist', options.logFile)
         return
@@ -34,16 +38,22 @@ def main():
         #mkdir
         log.info('create log dir %s', options.nameDir)
     else:
-        log.info('The log dir %s does exitst', options.nameDir)
+        log.info('The log dir %s does exist', options.nameDir)
+
     # move the log file
     newName = datetime.date.today().strftime(options.nameFormat)
-    log.info('Move log file %s to %s', options.logFile, newName)
-    subprocess.check_call('mv %s %s' % (options.logFile, newName), shell=True)
-    if options.owner:
-        log.info('Set owner of %s to %s', newName, options.owner)
-        subprocess.check_call('chown %s %s' % (options.owner, newName), shell=True)
-    # tell nginx to reopen the file
-    log.info('Reopen log file')
+    if not os.path.exists(newName):
+        log.info('Move log file %s to %s', options.logFile, newName)
+        subprocess.check_call('mv %s %s' % (options.logFile, newName), shell=True)
+        if options.owner:
+            log.info('Set owner of %s to %s', newName, options.owner)
+            subprocess.check_call('chown %s %s' % (options.owner, newName), shell=True)
+        # tell nginx to reopen the file
+        log.info('Reopen log file')
+    else:
+        log.info('log file %s exist' , newName)
+        return
+
     pid = int(open(options.pidFile, 'rt').read())
     os.kill(pid, 10)
     log.info('done')
