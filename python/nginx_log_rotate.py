@@ -19,15 +19,22 @@ def main():
     parser.add_option('-p', '--pid', dest='pidFile', metavar="FILE", help='/path/to/nginx.pid')
     parser.add_option('-l', '--log', dest='logFile', metavar="FILE", help='/path/to/logfile')
     parser.add_option('-f', '--format', dest='nameFormat', help='format of rotated log file name' )
-    parser.add_option('-o', '--owner', dest='owner', help='the owner user of log file to set')
+    parser.add_option('-d', '--dir', dest='nameDir',  default='/data/logs/', help='log file to dir' )
+    parser.add_option('-o', '--owner', dest='owner', default='www-data', help='the owner user of log file to set')
     (options, args) = parser.parse_args()
 
-    if options == None or options:
+    if options == None or not options:
         parser.print_help()
         return
     if not os.path.exists(options.logFile):
         log.info('The log file %s does not exist', options.logFile)
         return
+    if not os.path.exists(options.nameDir):
+        os.mkdir(options.nameDir)
+        #mkdir
+        log.info('create log dir %s', options.nameDir)
+    else:
+        log.info('The log dir %s does exitst', options.nameDir)
     # move the log file
     newName = datetime.date.today().strftime(options.nameFormat)
     log.info('Move log file %s to %s', options.logFile, newName)
