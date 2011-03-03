@@ -11,7 +11,12 @@ import logging
 import subprocess
 import sys
 log = logging.getLogger(__name__)
-
+nginx_config ={
+        "script": "",
+        "nginbase": "",
+        "log":"",
+        "pid":""
+        }
 def main():
     usage = "usage: %prog [options] /path/to/iptables_rule_file"
     parser = optparse.OptionParser(usage=usage)
@@ -22,14 +27,15 @@ def main():
     parser.add_option('-d', '--dir', dest='nameDir',  default='/data/logs/', help='log file to dir' )
     parser.add_option('-o', '--owner', dest='owner', default='www-data', help='the owner user of log file to set')
     (options, args) = parser.parse_args()
-
     if options == None or not options:
         parser.print_help()
         return
-    if not os.path.exists(options.pidFile):
+    if options.pidFile == None:
+        parser.print_help()
+        return
+    elif not os.path.exists(options.pidFile):
         log.info('The pid file %s does not exits' , options.pidFile)
         return
-
     if not os.path.exists(options.logFile):
         log.info('The log file %s does not exist', options.logFile)
         return
@@ -63,4 +69,5 @@ if __name__ == '__main__':
     '''
     python nginx_log_rotate.py -p /usr/nginx/logs/nginx.pid -l "/usr/nginx/logs/YOURDOMAIN.log" -f "/home/USER/logs/YOURDOMAIN.%Y-%m-%d" -o OWNER_USER
     0 0 * * * python nginx_log_rotate.py -p /usr/nginx/logs/nginx.pid -l "/usr/nginx/logs/YOURDOMAIN.log" -f "/home/USER/logs/YOURDOMAIN.%Y-%m-%d" -o OWNER_USER
+    python nginx_log_rotate.py -p /data/opt/nginx/logs/nginx.pid -l "/data/opt/nginx/logs/access.log" -f "/home/zouzhihai/logs/z.log"
     '''
