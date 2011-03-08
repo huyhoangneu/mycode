@@ -12,12 +12,13 @@ import subprocess
 import sys
 log = logging.getLogger(__name__)
 nginx_config ={
-        "script": "",
+        "script": "/etc/init.d/nginx",
         "nginbase": "",
         "log":"",
         "pid":""
         }
 def main():
+    print nginx_config["script"]
     usage = "usage: %prog [options] /path/to/iptables_rule_file"
     parser = optparse.OptionParser(usage=usage)
     #parser = optparse.OptionParser()
