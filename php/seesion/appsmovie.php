@@ -1,8 +1,38 @@
 <?php
+if(count($argv) > 3)
+{
+    exit;
+}
+else
+{
+    $url = $argv[1];
+    $pid = $argv[2];
+//print_r($argv);exit;
+}
 //getUrlinfos('http://v.youku.com/v_vpofficiallist/page_1_type_2_showid_99090_id_59191235.html?__rt=1&__ro=vpofficiallist');exit;
 $pageurl = "http://v.youku.com/v_vpofficiallist/page_%s_type_%s_showid_%s_id_%s.html?__rt=1&__ro=vpofficiallist";
 //echo file_get_contents('http://s.sohu.com/top/');exit;
-$contents = getHtmlContents('http://v.youku.com/v_show/id_XMjM2NzY0OTQw.html');
+//$url = 'http://v.youku.com/v_show/id_XMjM2NzY0OTQw.html';
+//$url = 'http://v.youku.com/v_show/id_XMjMyMDQ3OTQ0.html';
+//$url = 'http://v.youku.com/v_show/id_XMjE1MjE0MDU2.html';
+$contents = getHtmlContents($url);
+if(preg_match("'id_(.*?).html'is", $url, $start))
+{
+    if(!empty($start[1]))
+    {
+        $movie[$start[1]] = '01集';
+    }
+    else
+    {
+        exit;
+    }
+}
+else
+{
+    exit();
+}
+//print_r($movie);
+
 //get pages count
 preg_match("'<ul\s+class=\"pages\">(.*?)</ul>'is", $contents, $block);
 if(!empty($block[1]))
@@ -31,7 +61,6 @@ if(!empty($block[1]))
                     }
                     elseif($count > 1)
                     {
-                        $movie= array();
                         for($i =1; $i <= $count; $i++)
                         {
                             //array_merge
@@ -39,7 +68,13 @@ if(!empty($block[1]))
                             echo sprintf($pageurl, $i, $type, $showid, $id)."\n";
                             //echo $i."\n";
                         }
-                        print_r($movie);exit;
+                        foreach($movie AS $k => $v)
+                        {
+                            $v = str_replace("集", '', $v);
+                            echo "INSERT INTO `movie_info_data` (`mid`, `movie_url`, `episode`) VALUES ('".$pid."', '".$k."', '".intval($v)."');"."\n";
+                            //echo $k.' '.$v."\n";
+                        }
+                        //print_r($movie);exit;
                     }
                 }
             }
