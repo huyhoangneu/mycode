@@ -1,4 +1,6 @@
-#!/bin/env python
+#!/usr/bin/env python
+#-*-coding: utf-8 -*-
+
 """Simple tool for rotating nginx log file
 
 @author: Victor Lin (bornstub@gmail.com) blog: http://blog.ez2learn.com
@@ -25,7 +27,7 @@ def main():
     parser.add_option('-p', '--pid', dest='pidFile', metavar="FILE", help='/path/to/nginx.pid')
     parser.add_option('-l', '--log', dest='logFile', metavar="FILE", help='/path/to/logfile')
     parser.add_option('-f', '--format', dest='nameFormat', help='format of rotated log file name' )
-    parser.add_option('-d', '--dir', dest='nameDir',  default='/data/logs/', help='log file to dir' )
+    parser.add_option('-d', '--dir', dest='nameDir',  default='/data/logs', help='log file to dir' )
     parser.add_option('-o', '--owner', dest='owner', default='www-data', help='the owner user of log file to set')
     (options, args) = parser.parse_args()
     if options == None or not options:
@@ -40,12 +42,29 @@ def main():
     if not os.path.exists(options.logFile):
         log.info('The log file %s does not exist', options.logFile)
         return
-    if not os.path.exists(options.nameDir):
-        os.mkdir(options.nameDir)
-        #mkdir
-        log.info('create log dir %s', options.nameDir)
     else:
-        log.info('The log dir %s does exist', options.nameDir)
+        #log_name_dir = options.logFile.split('/')[-1].split('.')[0]
+        log_name_dir = '.'.join(options.logFile.split('/')[-1].split('.')[0:-1])
+        print log_name_dir
+        #sys.exit()
+        log.info('create log name dir %s', log_name_dir)
+        if not os.path.exists(options.nameDir):
+            try:
+                os.mkdir(options.nameDir)
+            except OSError:
+                print
+                sys.exit(0)
+            #mkdir
+            log.info('create log dir %s', options.nameDir)
+        elif not os.path.exists(options.nameDir + '/' + log_name_dir):
+            log_dir = options.nameDir + '/' + log_name_dir
+            os.mkdir(log_dir)
+            log.info("chmod %s:%s %s" % (options.owner, options.owner, log_dir))
+            subprocess.check_call('chown %s:%s %s' % (options.owner, options.owner, log_dir), shell=True)
+            #os.chown(log_dir, options.owner, options.owner)
+            log.info('create log dir %s', log_dir)
+        else:
+            log.info('The log dir %s does exist', log_dir)
 
     # move the log file
     newName = datetime.date.today().strftime(options.nameFormat)
