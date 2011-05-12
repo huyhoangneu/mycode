@@ -35,7 +35,9 @@ class AuthLoginHandler(object):
 			'User-Agent' : 'Mozilla/5.0 (X11; Linux i686; rv:2.0.1) Gecko/20100101 Firefox/4.0.1',
 			'Referer' : 'http://t.sina.com.cn/login.php?url=http%3A%2F%2Ft.sina.com.cn%2Fi55m411'
 		}
-		self.params = ((("service","miniblog"), ("client","ssologin.js(v1.3.5)"), ("entry","miniblog"), ("encoding","utf-8"), ("gateway","1"), ("savestate","7"), ("from",""), ("useticket","0"), ("username", 'seacoastboy@gmail.com'), ("password", 'zouzhihai'), ("url","http://t.sina.com.cn/ajaxlogin.php?framelogin=1&callback=parent.sinaSSOController.feedBackUrlCallBack"), ("returntype","META")))
+		self.params = ((("service","miniblog"), ("client","ssologin.js(v1.3.5)"), ("entry","miniblog"),
+        ("encoding","utf-8"), ("gateway","1"), ("savestate","7"), ("from",""), ("useticket","0"), ("username",
+        'a@gmail.com'), ("password", '**'), ("url","http://t.sina.com.cn/ajaxlogin.php?framelogin=1&callback=parent.sinaSSOController.feedBackUrlCallBack"), ("returntype","META")))
 		if self.debug:
 			httpHandler = urllib2.HTTPHandler(debuglevel = 1)
 		else:
