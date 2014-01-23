@@ -25,25 +25,25 @@ uwsgi & uwsgi-plugin-python 安装
   * vim /etc/uwsgi/uwsgi.ini
 
 ``` ini
-      [uwsgi]
-      projectname = www
-      projectdomain = example.com
-      base = /data/wwwroot/website/www
-      protocol = uwsgi
-      master=True
-      processes = 1
-      threads = 20
-      harakiri=20
-      #limit-as=64
-      max-requests=5000
-      vacuum=True
-      enable-threads=True
-      socket = 127.0.0.1:49152
-      pythonpath = %(base)
-      module = %(projectname).wsgi
-      socket = /tmp/%(projectdomain).sock
-      logto = /var/log/uwsgi.log 
-      daemonize=/var/log/mysite.log
+[uwsgi]
+projectname = www
+projectdomain = example.com
+base = /data/wwwroot/website/www
+protocol = uwsgi
+master=True
+processes = 1
+threads = 20
+harakiri=20
+#limit-as=64
+max-requests=5000
+vacuum=True
+enable-threads=True
+socket = 127.0.0.1:49152
+pythonpath = %(base)
+module = %(projectname).wsgi
+socket = /tmp/%(projectdomain).sock
+logto = /var/log/uwsgi.log 
+daemonize=/var/log/mysite.log
 ```
 
   * uwsgi管理
