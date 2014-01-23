@@ -44,7 +44,7 @@ uwsgi & uwsgi-plugin-python 安装
       socket = /tmp/%(projectdomain).sock
       logto = /var/log/uwsgi.log 
       daemonize=/var/log/mysite.log
-      ```
+```
 
   * uwsgi管理
     * 启动 /usr/bin/uwsgi /etc/uwsgi/uwsgi.ini
