@@ -23,8 +23,8 @@ uwsgi & uwsgi-plugin-python 安装
   * aptitude install uwsgi
   * 添加修改配置文件
   * vim /etc/uwsgi/uwsgi.ini
-``` osascript
-[uwsgi]
+```
+
 projectname = www
 projectdomain = example.com
 base = /data/wwwroot/website/www
